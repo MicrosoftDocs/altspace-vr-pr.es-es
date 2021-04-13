@@ -1,0 +1,169 @@
+- name: Le damos la bienvenida a AltspaceVR
+  href: index.yml
+- name: Exploración de AltspaceVR
+  href: journey.md
+- name: Introducción
+  expanded: true
+  items:
+    - name: Requisitos del sistema
+      href: getting-started/system-requirements.md
+    - name: Instalación de Windows Mixed Reality
+      href: getting-started/wmr-installation.md
+    - name: "Instalación de Oculus Quest/Quest\_2"
+      href: getting-started/oculus-installation.md
+    - name: Creación de cuentas
+      items:
+        - name: Registro de una cuenta
+          href: getting-started/registration.md
+        - name: Vinculación de cuentas de Microsoft
+          href: getting-started/linking-microsoft-account.md
+    - name: Controles de entrada
+      items:
+        - name: Controles de Windows Mixed Reality
+          href: getting-started/wmr-controls.md
+        - name: "Controles de Oculus Quest/Quest\_2"
+          href: getting-started/oculus-controls.md
+        - name: Métodos abreviados de teclado
+          href: getting-started/keyboard-shortcuts.md
+        - name: Control de avatares con el mouse o el teclado en modo de PC 2D
+          href: getting-started/avatar-controls.md
+        - name: Uso de controles del controlador para juegos
+          href: getting-started/gamepad-controls.md
+- name: Descubrir contenido y personas
+  items:
+    - name: Exploración de la pantalla de título
+      href: community/exploring-title-screen.md
+    - name: Suscripción a nuestro boletín
+      href: community/newsletter-subscriptions.md
+    - name: Participación de la comunidad
+      items:
+        - name: Programa auxiliar de la comunidad
+          href: community/community-helper-program.md
+        - name: Guía auxiliar de la comunidad
+          href: community/community-helper-guide.md
+- name: Creación y hospedaje de eventos
+  items:
+    - name: Eventos básicos
+      items:
+        - name: Configuración de un evento
+          href: tutorials/creating-an-event.md
+        - name: 'Roles en eventos, mundos, grupos y AltspaceVR'
+          href: getting-started/roles.md
+        - name: Principales requisitos de eventos
+          href: tutorials/main-events.md
+        - name: Uso de características de grupo
+          href: tutorials/group-features.md
+        - name: Recuperación de eventos eliminados
+          href: tutorials/recovering-deleted-events.md
+    - name: Eventos avanzados
+      items:
+        - name: Escalado de audiencias con FrontRow
+          href: faqs/scaling-audiences.md
+        - name: Proyector web
+          href: tutorials/web-projector-streaming.md
+        - name: Consola multimedia
+          href: tutorials/multimedia-console.md
+        - name: Generación de interactables
+          href: tutorials/interactable-spawner.md
+        - name: Teletransportadores
+          href: tutorials/teleporting.md
+    - name: Herramientas de hospedaje
+      items:
+        - name: Introducción
+          href: tutorials/host-tools-overview.md
+        - name: Eventos de FrontRow
+          href: tutorials/host-tools-for-events.md
+- name: Controles y personalizaciones
+  items:
+    - name: Acceso anticipado
+      href: world-building/early-access.md
+    - name: Programa beta de mundos
+      items:
+        - name: Compilación del mundo básico
+          items:
+            - name: Creación de contenido
+              href: community/creating-content.md
+            - name: Introducción al editor de mundos
+              href: world-building/world-editor-getting-started.md
+            - name: Mejora del rendimiento
+              href: world-building/improving-performance.md
+            - name: Administración de los mundos
+              href: world-building/managing-worlds.md
+            - name: Adición de un mensaje de bienvenida
+              href: world-building/adding-welcome-messages.md
+            - name: Adición de puntos de generación
+              href: world-building/adding-custom-spawn-points.md
+            - name: Realización de una copia de seguridad de los mundos
+              href: world-building/backing-up-worlds.md
+            - name: Administración de los mundos con amigos
+              href: world-building/granting-roles.md
+            - name: Concesión de capacidades a los amigos
+              href: world-building/adding-user-abilities.md
+        - name: Compilación del mundo avanzado
+          items:
+            - name: Kit de herramientas de compilación de mundos (cargador de Unity)
+              href: world-building/world-building-toolkit-getting-started.md
+            - name: Uso de extensiones de Mixed Reality
+              href: world-building/using-mixed-reality-extensions.md
+            - name: Carga de kits
+              href: world-building/uploading-custom-kits.md
+            - name: Importación de modelos glTF
+              href: world-building/importing-models.md
+            - name: Carga de skyboxes
+              href: world-building/uploading-custom-skyboxes.md
+        - name: Preguntas más frecuentes
+          items:
+            - name: Introducción a la compilación de mundos
+              href: world-building/world-building-getting-started.md
+            - name: Obtención de ayuda con la compilación de mundos
+              href: world-building/getting-help.md
+- name: Reglas y estándares
+  items:
+    - name: Los términos del servicio
+      href: community/terms-of-service.md
+    - name: Estándares de la comunidad
+      href: community/community-standards.md
+- name: Solución de problemas y soporte técnico
+  items:
+    - name: Preguntas más frecuentes
+      items:
+        - name: Audio
+          items:
+            - name: ¿El casco de VR tiene un micrófono integrado?
+              href: faqs/vr-headset-mic.md
+            - name: ¿Hay un botón de pulsar para hablar?
+              href: faqs/push-to-talk.md
+            - name: Mi audio está entrecortado
+              href: faqs/choppy-audio.md
+            - name: Otros usuarios no me oyen
+              href: faqs/other-users-cant-hear-me.md
+        - name: Cuenta y avatar
+          items:
+            - name: ¿Cómo funcionan las etiquetas de nombres?
+              href: faqs/nametags.md
+            - name: ¿Cómo se cambia la información de mi cuenta?
+              href: faqs/updating-email-address.md
+        - name: Aplicación AltspaceVR
+          items:
+            - name: ¿Cómo se busca la versión de la aplicación AltspaceVR?
+              href: faqs/app-version.md
+            - name: ¿Cómo se cargan los registros del cliente?
+              href: faqs/uploading-client-logs.md
+            - name: No puedo iniciar AltspaceVR
+              href: faqs/unable-to-launch.md
+        - name: Salud y seguridad
+          items:
+            - name: ¿AltspaceVR causará mareo?
+              href: faqs/motion-sickness.md
+        - name: Eventos
+          items:
+            - name: ¿Qué son los eventos de FrontRow?
+              href: faqs/front-row-events.md
+- name: Ponerse en contacto con nosotros
+  items:
+    - name: Obtener ayuda
+      href: community/open-support-ticket.md
+    - name: Solicitudes de características
+      href: community/feature-requests.md
+    - name: Tramitación de notificaciones de abuso
+      href: community/filing-abuse-reports.md
