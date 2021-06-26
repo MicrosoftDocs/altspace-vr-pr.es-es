@@ -1,37 +1,37 @@
 ---
 title: Roles en eventos, mundos, grupos y en AltspaceVR
-description: Obtenga información sobre los distintos roles que puede dar a los usuarios en eventos, mundos y grupos de AltspaceVR.
+description: Obtenga información sobre los distintos roles que puede proporcionar a los usuarios en eventos, mundos y grupos de AltspaceVR.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: roles, eventos, mundos, grupos, promoción
-ms.openlocfilehash: eea759faf4504f62da7ce3d8a757b8dcac28b5a2
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 7434002b9926b424ac08a0f93a368966fefe6606
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213759"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923152"
 ---
 # <a name="roles-in-events-worlds-groups-and-in-altspacevr"></a>Roles en eventos, mundos, grupos y en AltspaceVR
 
-Los roles son como el "crédito" al final de una película. Existe el productor ejecutivo, el director, los actores y el control de todo el mundo. Todos ellos están a cargo de algo diferente, todo ello con un rol importante para jugar.
+Los roles son como "Créditos" al final de una película. Está el productor ejecutivo, el director, los actores e incluso el control de audiencia. Todos ellos se encargan de algo diferente, todo ello con un rol importante que desempeñar.
 
 ## <a name="roles-in-events"></a>Roles en eventos
 
-Deberá crear primero el evento y, después, agregar los roles después de. Una vez que haya creado el evento en el sitio web, seleccione **Editar** para abrir el botón **Agregar usuario** roles contextuales. Aquí es donde se agregan los nombres de usuario de AltspaceVR para proporcionar roles para el evento.
+Primero deberá crear el evento y, después, agregar los roles. Una vez que haya creado el evento en el sitio web, seleccione **EDITAR** para abrir el botón Agregar usuario **de** roles contextuales. Aquí es donde se agregan nombres de usuario altspaceVR para proporcionar roles para el evento.
 
 ### <a name="event-creator-roles"></a>Roles del creador de eventos
 
-Cuando se crea un evento, se obtiene acceso automáticamente a los roles de administrador, presentador y moderador:
+Al crear un evento, obtiene acceso automáticamente a los roles de administrador, host y moderador:
 
 * **Administrador**
-    - Todas las herramientas de administración de eventos a través del sitio Web. Puede editar, finalizar evento, establecer en borrador, Re-Import mundo, evento duplicado, eliminar evento y agregar como evento principal (solo eventos públicos).
-    - Habilita el editor mundial en el evento: recorte del entorno, alternar vuelo, alternar entorno, modo de edición y panel del editor.
+    - Todas las herramientas de administración de eventos a través del sitio web. Puede editar, finalizar evento, establecer en borrador, Re-Import mundo, duplicar evento, eliminar evento y agregar como evento principal (solo eventos públicos).
+    - Habilita el Editor mundial en el evento: Recorte del entorno, Alternar vuelo, Alternar entorno, Modo de edición y Panel del editor.
 
-* **Presentador**
-    - Habilita las herramientas de host en su evento: alternar silenciar todo, todo el mensaje, ampliar mi voz, ir al aire (solo eventos de FrontRow), alternar el bloqueador de fases y panel host.
+* **Host**
+    - Habilita las herramientas de host en el evento: Alternar mute-all, Message All, Amplify My Voice, Go On-Air (solo eventos FrontRow), Toggle Stage Blocker y host Panel.
 
 * **Moderador** 
-    - Permite silenciar, hacer un mensaje o poner en marcha a los usuarios desde el evento mediante el uso de los botones del Nametag de ese Avatar o mediante el panel herramientas de host/host/invitados/seleccionar invitado para hacer lo mismo.
+    - Permite silenciar, enviar mensajes o iniciar usuarios desde el evento mediante los botones de la etiqueta de nombre de ese avatar o mediante las herramientas host/panel host/invitados/seleccionar invitado para hacer lo mismo.
 
 ### <a name="contextual-roles"></a>Roles contextuales
 
@@ -39,55 +39,54 @@ Disponible al editar el evento:
 
 | Role | Permisos |
 |---|---|
-| Host ^ | Todas las mismas capacidades que el presentador anterior, incluidas las herramientas de host |
-| Solo megaphone | Proporciona a los usuarios acceso a las herramientas de host, pero solo amplifican mi voz |
-| Moderador ^ | Igual que el rol de moderador del creador de eventos |
-| Piloto | Agrega capacidades de vuelo para ese individuo. Nota: debe habilitar esta opción en configuración/entrada/marcha |
-| Presentador ^ | Igual que el rol de presentador del creador de eventos |
-| Terraformer | Agrega el botón del editor mundial a su interfaz |
+| Host* | Todas las mismas capacidades que host anterior, incluidas las herramientas de host |
+| Solo megáphone | Proporciona a ese usuario acceso a Las herramientas de host, pero solo amplía mi voz. |
+| Moderator ^ | Igual que el rol de moderador del creador de eventos |
+| Piloto | Agrega funcionalidades de vuelo para ese individuo. NOTA: Debe habilitarlo en Configuración/Entrada/Fly |
+| Terraformer | Agrega el botón Editor del mundo a su interfaz |
 
 > [!NOTE]
-> ^ = Cualquier persona con estos roles puede entrar en el evento anticipadamente yendo a eventos/mis eventos/YourEvent. Esto es excelente para las comprobaciones técnicas y los ensayos.
+> ^ = Cualquier persona con estos roles puede escribir el evento al principio; para ello, vaya a Eventos/Mis eventos/SuEvento. Esto es excelente para comprobaciones tecnológicas y ensayos.
 
-### <a name="mid-event-role-promotion"></a>Mid-Event la promoción de roles
+### <a name="mid-event-role-promotion"></a>Mid-Event promoción de roles
 
-Cualquier persona con el rol de host o presentador puede asignar roles a los usuarios que están en el evento, durante el evento, mediante herramientas de host/panel host/invitados/seleccionar invitado:
+Cualquier persona con el rol host puede asignar roles a los usuarios que se encuentran en el evento, durante el evento, mediante Herramientas de host/Panel host/Invitados/Seleccionar invitado:
 
-* **Make host**: proporciona a ese usuario el rol de host para el resto del evento.
-* **Make moderador**: proporciona a ese usuario el rol de moderador para el resto del evento.
+* **Convertir host:** proporciona al usuario el rol host para el resto del evento.
+* **Make Moderator:** proporciona al usuario el rol moderador para el resto del evento.
 
 ### <a name="adding-more-admins-to-your-event"></a>Agregar más administradores al evento
 
-Puede agregar otros usuarios como administradores para ayudarle a administrar el evento. Es posible que ya esté ocupado hospedando el evento, puede ayudar a agregar roles, horas de inicio y finalización, o descripciones de su evento. Tenga cuidado, ya que puede editar cualquier elemento en la Página Web de eventos, incluido delete event, por lo que debe asegurarse de que confía en los administradores que va a agregar.
+Puede agregar otros usuarios como administradores para ayudarle a administrar el evento. Quizás ya está ocupado Hospedando el evento, pueden ayudarle a agregar roles, horas de inicio y finalización o descripciones del evento. Tenga cuidado, ya que pueden editar cualquier elemento de la página web del evento, incluido Eliminar evento, por lo que debe asegurarse de que confía en los administradores que va a agregar.
 
 Para agregar un administrador:
-1. Editar el evento
-2. Seleccione **Opciones avanzadas**. a continuación, busque en la sección avanzadas para administradores.
-3. Haga clic en **Agregar usuario** y agregue su nombre de usuario. 
+1. Edición del evento
+2. Seleccione **Opciones avanzadas.** a continuación, busque administradores en la sección Opciones avanzadas.
+3. Haga clic **en Agregar usuario** y agregue su nombre de usuario. 
 
 > [!NOTE] 
-> Esto solo les concede el rol de administrador, si desea que tengan otros roles (host, presentador, moderador) que se deben agregar como normal en los roles contextuales.
+> Esto solo les proporciona el rol de administrador, si desea que tengan otros roles (Host, Moderator), que deben agregarse como normal en Roles contextuales.
 
-### <a name="giving-everyone-in-your-event-a-role"></a>Asignar A todos los miembros del evento un rol
+### <a name="giving-everyone-in-your-event-a-role"></a>Dar un rol a todos los usuarios del evento
 
-Algunos eventos se benefician cuando todos los usuarios pueden tener súper potencias. Por ejemplo, si el evento se encuentra en un área grande, es posible que quiera que todos los usuarios tengan la posibilidad de volar y ampliar la voz de forma que pueda escuchar entre sí. Para agregarlo, edite el evento, haga clic en opciones avanzadas y, en la sección de VR hay roles contextuales predeterminados. Revierta el círculo verde de todos los roles que puede Agregar. En el ejemplo anterior, agregaría: megaphone_only, Pilot.
+Algunos eventos se benefician cuando todos los usuarios pueden tener superpoderes. Por ejemplo, si el evento se encuentra en un área grande, es posible que quiera que todos tengan la capacidad de sobresalir y ampliar mi voz para que todos puedan escucharse desde lejos. Para agregarlo, edite el evento, haga clic en Opciones avanzadas y, en la sección En VR, roles contextuales predeterminados. Revierte el círculo verde para todos los roles que puede agregar. Para el ejemplo anterior, agregaría: megaphone_only, piloto.
 
 > [!NOTE] 
-> Cada persona debe habilitar esta opción en configuración/entrada/marcha.
+> Cada persona debe habilitarlo en Configuración/Entrada/Fly.
 
 ## <a name="roles-in-worlds"></a>Roles en mundos
 
-Deberá crear su mundo primero y luego agregar los roles después de. Una vez que haya creado el mundo en el sitio web, haga clic en el botón Editar para abrir el botón "Agregar usuario" de roles contextuales. Aquí es donde se agregan los nombres de usuario de AltspaceVR para ofrecer roles para su mundo.
+Tendrá que crear primero el mundo y, después, agregar los roles. Una vez que haya creado su mundo en el sitio web, haga clic en el botón EDITAR, que abrirá el botón Contextual Roles "Add User" (Agregar usuario). Aquí es donde se agregan nombres de usuario altspaceVR para proporcionar roles para su mundo.
 
-### <a name="world-creator-roles"></a>Roles de creador mundial
+### <a name="world-creator-roles"></a>World Creator Roles
 
 Cuando se crea un mundo, se obtienen automáticamente los siguientes roles:
 
 * **Administrador** 
-    - Todas las herramientas de administración del mundo a través del sitio Web. Puede editar, ver: diagnósticos – objetos – plantillas-copias de seguridad, eliminar y características mi mundo.
+    - Todas las herramientas de administración del mundo a través del sitio web. Puede editar, ver: diagnósticos – objetos – plantilla - copias de seguridad, eliminar y características Mi mundo.
 
 * **Moderador** 
-    - Le permite silenciar, poner en marcha a los usuarios de su mundo mediante el uso de los botones del Nametag de ese Avatar o mediante el panel Herramientas host/host para hacer lo mismo
+    - Permite silenciar, enviar mensajes o poner en marcha usuarios de su mundo mediante los botones de la etiqueta de nombre de ese avatar o mediante el panel host o herramientas de host para hacer lo mismo.
 
 ### <a name="contextual-roles"></a>Roles contextuales
 
@@ -95,32 +94,32 @@ Disponible al editar su mundo:
 
 | Role | Permisos |
 |---|---|
-| Solo megaphone | Proporciona a los usuarios acceso a las herramientas de host, pero solo amplifican mi voz |
-| Moderador | Igual que el rol de moderador de World Creator |
-| Rendimiento musical |Audio de mejor calidad para instrumentos de reproducción de Singers o músicos  |
-| Piloto | Agrega capacidades de vuelo para ese individuo. Nota: debe habilitar esta opción en configuración/entrada/marcha |
-| Presentador | Igual que el rol de ponente del creador del mundo |
-| Terraformer | Agrega el botón del editor mundial a su interfaz | 
+| Solo megáphone | Proporciona a ese usuario acceso a Las herramientas de host, pero solo amplía mi voz. |
+| Moderador | Igual que el rol de moderador world creator |
+| Actores de música |Audio de mejor calidad para los compositores o los instrumentos de reproducción  |
+| Piloto | Agrega funcionalidades de vuelo para ese individuo. NOTA: Debe habilitarlo en Configuración/Entrada/Fly |
+| Host | Igual que el rol de host del creador mundial |
+| Terraformer | Agrega el botón Editor del mundo a su interfaz | 
 
 ### <a name="adding-more-admins-to-your-world"></a>Agregar más administradores a su mundo
 
-Edite su mundo, haga clic en opciones avanzadas y, a continuación, mire en la sección avanzadas para administradores, haga clic en Agregar usuario y agregue su nombre de usuario. 
+Edite su mundo, haga clic en Opciones avanzadas y, a continuación, busque en la sección Opciones avanzadas para Administradores, haga clic en Agregar usuario y agregue su nombre de usuario. 
 
 > [!NOTE] 
-> Esto solo les concede el rol de administrador, si desea que tengan otros roles (host, presentador, moderador) que se deben agregar como normal en los roles contextuales.
+> Esto solo les proporciona el rol de administrador, si desea que tengan otros roles (Host, Moderator), que deben agregarse como normal en Roles contextuales.
 
 ## <a name="roles-in-groups"></a>Roles en grupos
 
-No agregará roles moderador o moderador a un grupo, pero podrá agregar administradores para ayudarle a organizar el grupo. Tenga cuidado a la hora de editar su grupo, incluida la eliminación, para asegurarse de que confía en los administradores que va a agregar.
+No agregará roles host o moderador a un grupo, pero podrá agregar administradores para ayudarle a organizar el grupo. Tenga cuidado, ya que pueden editar el grupo, incluida La eliminación, por lo que debe asegurarse de que confía en los administradores que va a agregar.
 
 ### <a name="adding-more-admins-to-your-group"></a>Agregar más administradores al grupo
 
-Deberá crear primero el grupo y luego agregar administradores después de. Una vez que haya creado el grupo en el sitio web, haga clic en el botón Editar, desplácese hacia abajo y verá el botón administradores agregar usuario, donde puede Agregar nombres de usuario.
+Primero debe crear el grupo y, después, agregar administradores. Una vez que haya creado el grupo en el sitio web, haga clic en el botón EDITAR, desplácese hacia abajo y verá el botón Admins Add User (Agregar usuario de administradores), donde puede agregar nombres de usuario.
 
-## <a name="roles-in-altspacevr"></a>Roles de AltspaceVR
+## <a name="roles-in-altspacevr"></a>Roles en AltspaceVR
 
-* **Programa de acceso temprano**: el programa de acceso temprano le proporciona acceso a las características más recientes que todavía están en desarrollo. Muchas de las características de los grupos, los menús móviles y los grupos móviles solo están disponibles para los usuarios que se encuentran en el primer acceso, por lo que aquí se muestra cómo puede participar: ¿Cuál es el programa de acceso temprano?
+* **Programa de acceso anticipado:** el Programa de acceso anticipado le proporciona acceso a las características más recientes que aún están en desarrollo. Muchas de las características World-Building, Moveable Menus y Groups solo están disponibles para los usuarios que están en acceso anticipado, por lo que aquí se muestra cómo puede participar: ¿Qué es el Programa de acceso anticipado?
 
-* **Mundos beta**: en la aplicación AltspaceVR, abra el menú/configuración/habilite mundos beta para activar. Esto habilitará la pestaña mundos (BETA) en el menú principal para que pueda acceder a sus mundos.
+* **Worlds Beta:** en la aplicación AltspaceVR, abra Menú / Configuración / Habilitar Worlds Beta para activar. Esto permitirá que la pestaña WORLDS (BETA) del menú principal le permita acceder a sus mundos.
 
-* **Aplicación auxiliar** de la comunidad: votación para suspender, acceso al canal de aplicaciones auxiliares de la comunidad en el servidor de desAltspaceVR de descables y acceso temprano a determinados anuncios de la comunidad. Más información sobre cómo puede convertirse en una aplicación auxiliar de la comunidad: programa auxiliar de la comunidad
+* **Asistente de** la comunidad: Vote-to-Suspend, Acceso al canal De asistentes de la comunidad en el servidor Desacepto altspaceVR y Acceso anticipado a determinados anuncios de la comunidad. Más detalles sobre cómo puede convertirse en un asistente de la comunidad: Programa auxiliar de la comunidad

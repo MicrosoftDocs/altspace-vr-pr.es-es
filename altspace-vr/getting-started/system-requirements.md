@@ -1,52 +1,52 @@
 ---
 title: Requisitos mínimos del sistema
-description: Manténgase al día con los requisitos del sistema más recientes para AltspaceVR en pantallas montadas por el cabezal, Oculus Rift y HTC Naopak.
-ms.date: 03/11/2021
+description: Manténgase al día con los requisitos más recientes del sistema para AltspaceVR en pantallas montadas en la cabeza, Oculus Dimensional y dispositivos DE LAV Vive.
+ms.date: 06/03/2021
 ms.topic: article
-keywords: requisitos, pantallas montadas por el cabezal, Oculus Rift, HTC naopak, Windows 2D Mode
-ms.openlocfilehash: 2220b876568fa2f5f253c08120d7e5cf0a2e5c50
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: requisitos, pantallas montadas en la cabeza, oculus, así como el modo windows 2d
+ms.openlocfilehash: db76d3594102d292d0d6f3741222b92a1677640a
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213738"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923162"
 ---
 # <a name="minimum-system-requirements"></a>Requisitos mínimos del sistema
 
-Se recomiendan los perfiles de sistema mínimos para obtener la experiencia de AltspaceVR completa. AltspaceVR admite actualmente las siguientes pantallas montadas de cabeza:
+Se recomiendan los perfiles mínimos del sistema siguientes para obtener la experiencia completa de AltspaceVR. AltspaceVR admite actualmente las siguientes pantallas montadas en la cabeza:
 
-* Oculus Rift CV1
+* Oculus Dimensional CV1
 * HTC Vive
 * [Oculus Quest](oculus-installation.md)
 * [Windows Mixed Reality](wmr-installation.md)
 
-## <a name="oculus-rift-cv1-windows-only"></a>Oculus Rift CV1 (solo Windows)
+## <a name="oculus-rift-cv1-windows-only"></a>Oculus Dimensional CV1 (solo Windows)
 
 * NVIDIA GTX 960 o superior 
 * Intel i3-6100/AMD FX4350 o superior 
-* 8 GB + RAM 
-* Salida de vídeo HDMI 1,3 compatible 
-* Windows 8 o posterior 
+* Más de 8 GB de RAM 
+* Salida de vídeo compatible con HDMI 1.3 
+* Windows 8 o más reciente 
 
-## <a name="htc-vive-windows-only"></a>HTC Naopak (solo Windows)
+## <a name="htc-vive-windows-only"></a>¡¡
 
-* NVIDIA GeForce® GTX 970, AMD Radeon™ R9 290 equivalente o superior
-* Intel® i5-4590, AMD FX 8350 equivalente o superior   
+* NVIDIA GeForce® GTX 970, AMD Radeon™ R9 290 equivalente o mejor
+* Intel® i5-4590, AMD FX 8350 equivalente o mejor   
 * 4 GB o más de RAM
-* HDMI 1,4, DisplayPort 1,2 o posterior
+* HDMI 1.4, DisplayPort 1.2 o posterior
 * Windows 7 SP1, Windows 8.1 o Windows 10
 
 ## <a name="windows-2d-mode"></a>Modo 2D de Windows
 
-* Windows 10 64 bits, versión 1809 o posterior.
+* Windows 10 de 64 bits, versión 1809 o posterior.
 * Intel i5
 * 4 GB de memoria RAM
-* Una GPU dedicada compatible con DX9, memoria de vídeo de 1 GB
-* 500-MB de espacio disponible 
+* GPU dedicada compatible con DX9, memoria de vídeo de 1 GB
+* 500 MB de espacio disponible 
 
 ## <a name="windows-mixed-reality"></a>Windows Mixed Reality
 
-[Directrices de hardware para equipos Windows Mixed Reality](https://docs.microsoft.com/windows/mixed-reality/enthusiast-guide/windows-mixed-reality-minimum-pc-hardware-compatibility-guidelines)
+[Windows Mixed Reality de hardware de equipos](https://docs.microsoft.com/windows/mixed-reality/enthusiast-guide/windows-mixed-reality-minimum-pc-hardware-compatibility-guidelines)
 
 ## <a name="bandwidth-requirements"></a>Requisitos de ancho de banda
 
