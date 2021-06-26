@@ -1,17 +1,26 @@
 ---
 title: Creación y vinculación de la cuenta altspaceVR
 description: Obtenga instrucciones paso a paso sobre cómo crear una nueva cuenta altspaceVR y cómo vincular una cuenta de AltspaceVR existente a una cuenta Microsoft.
-ms.date: 05/18/2021
+ms.date: 06/25/2021
 ms.topic: article
-keywords: registration, account, account creation, account linking, microsoft accounts, faqs, troubleshooting, 2D Mode, VR Mode
-ms.openlocfilehash: f6009a868810f566590d076b3aa5606c885697b7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+keywords: registration, account, account creation, account linking, microsoft accounts, faqs, troubleshooting, 2D Mode, VR Mode, username, display, name
+ms.openlocfilehash: ea54c18ad8316911626159045ac7cca24b6643a0
+ms.sourcegitcommit: becdc9d9de1ce09a74aaf57af1b9de44c8346dc2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961282"
+ms.lasthandoff: 06/26/2021
+ms.locfileid: "112975832"
 ---
 # <a name="creating-and-linking-your-altspacevr-account"></a>Creación y vinculación de la cuenta altspaceVR
+
+## <a name="disclaimer-regarding-account-linking"></a>Declinación de responsabilidades con respecto a la vinculación de cuentas
+
+A continuación se muestran las distintas formas en que puede crear y vincular su cuenta altspaceVR.
+
+Al crear o actualizar la cuenta, tenga en cuenta que todavía hay características que requieren una "contraseña" altspaceVR.
+
+Si ha creado una cuenta con MSA y no tiene una contraseña AltspaceVR, inicie sesión en , vaya a su perfil y, a continuación, haga clic en "Cerrar sesión y obtener una contraseña https://www.altvr.com/ nueva".
+
 
 ## <a name="how-to-create-an-account-in-vr"></a>Creación de una cuenta en VR
 
@@ -88,9 +97,11 @@ No, el nombre de usuario puede compartir el mismo nombre para mostrar que otros.
 
 **¿Cómo puedo cambiar mi nombre de usuario o nombre para mostrar?**
 
-Si desea cambiar el nombre de usuario asociado a su cuenta, [envíenos un vale](https://help.altvr.com/hc/requests/new). Asegúrese de incluir el correo electrónico asociado a su cuenta, su nombre actual y el nombre de usuario que le gustaría usar en el futuro.
+Para cambiar **el** nombre de usuario o el nombre para mostrar, inicie sesión en altvr.com, seleccione el icono de perfil en la parte superior derecha, Perfil de usuario, Editar y actualice el nombre de usuario o el nombre para mostrar. 
 
-Para cambiar el nombre **para** mostrar, inicie sesión en altvr.com, seleccione el icono de perfil en la parte superior derecha, Perfil de usuario, Editar y actualizar Nombre para mostrar.
+*Nota: Solo podrá cambiar el nombre de usuario una vez. En cualquier momento posterior, tendrá que enviar una vale de soporte técnico.*
+
+Si desea cambiar el nombre de usuario asociado a su cuenta, [envíenos un vale](https://help.altvr.com/hc/requests/new). Asegúrese de incluir el correo electrónico asociado a su cuenta, su nombre actual y el nombre de usuario que le gustaría usar en el futuro.
 
 **Mi menú está en blanco y no puedo suscribirme, ¿qué puedo hacer?**
 
@@ -108,11 +119,11 @@ Sí, hemos redecorado un poco. Ahora puede administrar su cuenta y cambiar & en 
 
 **¿Ya tengo una cuenta Microsoft?**
 
-Es posible que ya tenga una cuenta Microsoft. ¿Se puede jugar aIón, jugar en una Xbox, suscribirse a Office 365 o usar cualquier otro producto o servicio de Microsoft con regularidad? Si es así, probablemente ya tenga un inicio de sesión de Microsoft. Puede comprobar si el correo electrónico ya está asociado a una MSA [existente aquí.](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)
+Es posible que ya tenga una cuenta Microsoft. ¿Se puede jugar aIón, jugar en una Xbox, suscribirse a Office 365 o, de lo contrario, usar cualquier otro producto o servicio de Microsoft con regularidad? Si es así, probablemente ya tenga un inicio de sesión de Microsoft. Puede comprobar si el correo electrónico ya está vinculado a una MSA [existente aquí.](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)
 
-**¿Esto significa que tengo que crear una nueva dirección de correo electrónico con Outlook?**
+**¿Esto significa que necesito crear una nueva dirección de correo electrónico con Outlook?**
 
-No. Puede configurar una cuenta Microsoft con una dirección de correo electrónico actual incluso si no está hospedada en Microsoft. (Por ejemplo: G-Mail, Yahoo, y así sucesivamente). Si inicia sesión con credenciales de Microsoft que comparten el mismo correo electrónico que la cuenta de AltspaceVR clásica, se le pedirá que vincule su cuenta después de iniciar sesión. Siga las indicaciones para iniciar sesión en su cuenta clásica y las cuentas de Altspace y Microsoft se vincularán por usted.
+No. Puede configurar una cuenta Microsoft con una dirección de correo electrónico actual incluso si no está hospedada con Microsoft. (Por ejemplo: G-Mail, Yahoo, y así sucesivamente). Si inicia sesión con credenciales de Microsoft que comparten el mismo correo electrónico que la cuenta de AltspaceVR clásica, se le pedirá que vincule su cuenta después de iniciar sesión. Siga las indicaciones para iniciar sesión en su cuenta clásica y las cuentas de Altspace y Microsoft se vincularán por usted.
 
 **¿Cuesta dinero?**
 
