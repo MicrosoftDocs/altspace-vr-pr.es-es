@@ -11,12 +11,8 @@
       href: getting-started/wmr-installation.md
     - name: "Instalación de Oculus Quest/Quest\_2"
       href: getting-started/oculus-installation.md
-    - name: Creación de cuentas
-      items:
-        - name: Registro de una cuenta
-          href: getting-started/registration.md
-        - name: Vinculación de cuentas de Microsoft
-          href: getting-started/linking-microsoft-account.md
+    - name: Creación y vinculación de cuentas
+      href: getting-started/creating-and-linking-accounts.md
     - name: Controles de entrada
       items:
         - name: Controles de Windows Mixed Reality
@@ -67,6 +63,8 @@
           href: tutorials/interactable-spawner.md
         - name: Teletransportadores
           href: tutorials/teleporting.md
+        - name: Grabación y streaming en vivo
+          href: tutorials/recording-and-live-streaming.md
     - name: Herramientas de hospedaje
       items:
         - name: Introducción
@@ -103,6 +101,10 @@
           items:
             - name: Kit de herramientas de compilación de mundos (cargador de Unity)
               href: world-building/world-building-toolkit-getting-started.md
+            - name: Actualización del contenido a la versión más reciente de Unity
+              href: world-building/upgrading-content-to-the-latest-unity.md
+            - name: Guía de optimización del rendimiento móvil
+              href: world-building/unity-mobile-performance-guide.md
             - name: Uso de extensiones de Mixed Reality
               href: world-building/using-mixed-reality-extensions.md
             - name: Carga de kits
@@ -143,6 +145,8 @@
               href: faqs/nametags.md
             - name: ¿Cómo se cambia la información de mi cuenta?
               href: faqs/updating-email-address.md
+            - name: ¿Cómo puedo desvincular y volver a vincular mi cuenta?
+              href: faqs/unlinking-and-relinking-accounts.md
         - name: Aplicación AltspaceVR
           items:
             - name: ¿Cómo se busca la versión de la aplicación AltspaceVR?
