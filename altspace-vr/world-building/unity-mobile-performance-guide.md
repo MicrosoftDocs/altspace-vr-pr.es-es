@@ -4,30 +4,30 @@ description: Aprenda a usar varias propiedades de Unity para que sus mundos se r
 ms.date: 04/20/2021
 ms.topic: article
 keywords: editor world, performance, oculus, vr, unity, textures, lightmaps, stats, profiler, draw calls, altspacevr, uploader
-ms.openlocfilehash: 9d6afba6fff85adfaa2ba290916f25c84c5377cd
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: d9bb02cf6c51a604b858caf36ebbc5548e4fe267
+ms.sourcegitcommit: ab0ca34d20bbbcee3ce3415b17a681f8678565b7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961258"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "113634296"
 ---
 # <a name="altspacevr-mobile-performance-guide"></a>Guía de rendimiento de AltspaceVR Mobile
 
 ## <a name="main-points"></a>**Puntos principales:**
 
 * **72 FPS** en Oculus Quest 1 y 2, es el destino.
-* **La reducción de las llamadas a draw** a través del procesamiento por lotes estático es esencial, con el objetivo de menos de **25 drawcalls**
+* **La reducción de las llamadas a draw a** través del procesamiento por lotes estático es esencial, con el objetivo de menos de **25 drawcalls**
 * **Un material por objeto para** fomentar el procesamiento por lotes estático (dividir objetos de varios materiales en objetos independientes).
 * **Los** objetos de un entorno deben establecerse en **"Static"** en la mayoría de los casos.
 * **Un mapa de** luz por escena, un 2 000 o 4 k para toda la escena, ~25 elementos de textura por unidad, el escalado de mapa de luz debe ajustarse por objeto (gráfico de escalado a continuación)
 * **Use** sombreadores de calidad móvil (es decir, "Móvil/Difuso", etc.), evite el sombreador estándar de Unity/PBR/Sondeos de reflexión/sondeos de luz, ya que son operaciones pesadas y, en el caso de los sondeos, agregarán llamadas a draw.
 * **Menos de 100 000 triángulos** en pantalla
 * **La** selección de oclusión puede ayudar a reducir los polígonos en pantalla, aunque hay un costo inicial por tener habilitada la selección de oclusión, así que mida el efecto en la velocidad de fotogramas en Altspace mediante el Panel de diagnósticos.
-* Para todas **las texturas** de una escena, use "Invalidar para **Android"** y estaflícelas en formato de bloque **ASTC 6x6 comprimido RGB(A).**  Deje la compresión configuración de compilación de Android en el valor predeterminado (que se encuentra en: File/Build Settings/Android/Texture Compression: 'Don't override'), para que Lightmaps no obtenga compresión ASTC.  Al hacer lo anterior y compartir materiales entre objetos, intentamos mantener el paquete unity de nuestra escena en unos **10-20 MB para Android.**
+* Para todas **las texturas** de una escena, use "Invalidar para **Android"** y estaflícelas en formato de bloque **ASTC 6x6 comprimido RGB(A).**  Deje la compresión de Android Build Configuración predeterminada (que se encuentra en: Archivo/Compilación Configuración/Android/Compresión de textura: 'No invalidar'), para que Lightmaps no obtenga compresión ASTC.  Al hacer lo anterior y compartir materiales entre objetos, intentamos mantener el paquete de Unity de nuestra escena en unos **10-20 MB para Android.**
 
 El objetivo general es alcanzar una velocidad de fotogramas aceptable en todos los dispositivos: en Oculus Quest 1 y 2 idealmente, la escena se ejecutará a 72 FPS desde todos los puntos de escena cuando se rellene la escena, aunque un intervalo de 60-72 FPS suele ser un objetivo más realista.
 
-La velocidad de fotogramas se puede medir en AltspaceVR en cualquier dispositivo que use (se encuentra en la aplicación AltspaceVR en **Configuración/Soporte técnico/Mostrar panel de diagnóstico/FPS).**
+La velocidad de fotogramas se puede medir en AltspaceVR en el dispositivo que use (se encuentra en la aplicación AltspaceVR en **Configuración/Support/Show Diagnostics Panel/FPS**).
 
 Un resumen de las herramientas estándar de Unity disponibles para ayudarle a optimizar mejor sus escenas:
 
@@ -38,17 +38,17 @@ Un resumen de las herramientas estándar de Unity disponibles para ayudarle a op
 * **El Panel de** estadísticas (que se puede ver en la vista de juegos en "Estadísticas") mostrará la cantidad de lotes/lotes guardados, **llamadas SetPass y velocidad de fotogramas.**
 
     * Lotes: la cantidad de llamadas a draw actuales que son visibles desde la perspectiva de la cámara actual.  **Menos de 25 lotes** para un entorno es un buen objetivo.
-    * Lotes guardados (solo visibles cuando la escena está reproduciendo): la cantidad de llamadas a draw que se han reducido a través del procesamiento por lotes estático o la creación de **instancias de GPU**
-    * Llamadas SetPass: el número de materiales visibles diferentes en una escena
+    * Lotes guardados (solo visibles cuando la escena se está reproduciendo): la cantidad de llamadas a draw que se han reducido mediante el procesamiento por lotes estático o la creación de instancias **de GPU.**
+    * Llamadas a SetPass: el número de materiales visibles diferentes en una escena
     * Velocidad de fotogramas: la cantidad de fotogramas por segundo en la vista Juego (le ofrece una idea aproximada de lo que sucede; las escenas siempre se deben probar en la aplicación, en el casco, mediante el panel Velocidad de fotogramas de Oculus, ya que la lectura de fps siempre será diferente de lo que está en el editor).
 
 * **Depurador de fotogramas** (se encuentra en Ventana/Análisis/Depurador de fotogramas).  El Panel de estadísticas de la marca que, cuando está habilitado, le permitirá ver lo que la GPU dibuja para crear la imagen final, que muestra una lista de llamadas draw de primero a último.  Le dará motivos para que una llamada a draw no se procesara por lotes con una llamada a draw anterior (es decir, "Este objeto usa un material diferente" o "Este objeto usa un mapa de luz diferente"), y es una excelente manera de desarrollar un conocimiento de lo que sucede en la escena y de cómo y por qué determinadas opciones visuales pueden ser costosas computacionalmente.
 
-* **Profiler** le mostrará qué partes del equipo se usan en cualquier momento mientras se ejecuta el juego. Resulta útil para determinar dónde se está cuellos de botella en el rendimiento.  Por ejemplo, si ve un uso intensivo de CPU en la escena, podría ser que hay demasiadas llamadas a draw o, si ve un uso intensivo de GPU, puede que se produzca un exceso de dibujo (es decir, el número de veces que se representa un solo píxel para generar la imagen final), lo que puede deberse a que hay varias superficies transparentes. , u objetos que no se están haciendo la selección cuando están fuera de la vista.
+* **Profiler** le mostrará qué partes del equipo se usan en cualquier momento mientras se ejecuta el juego. Resulta útil para determinar dónde se producen cuellos de botella en el rendimiento.  Por ejemplo, si ve un uso intensivo de CPU en la escena, podría ser que hay demasiadas llamadas a draw o, si ve un uso intensivo de GPU, puede que se produzca un exceso de dibujo (es decir, el número de veces que se representa un solo píxel para generar la imagen final), lo que puede deberse a que hay varias superficies transparentes. , u objetos que no se están haciendo la selección cuando están fuera de la vista.
 
 ## <a name="draw-calls-shadersmaterialsobjects"></a>**Llamadas a Draw (sombreadores,materiales/objetos)**
 
-* Cada vez que es necesario representar un sombreador, material u objeto, la CPU tiene que indicar a la GPU del modificador (también conocido como "llamadas a draw", de forma coloquial **"drawcalls").**  Es decir, si tiene 5 sombreadores, 10 materiales y 20 objetos, con lo que sea mayor. tendrá aproximadamente 20 drawcalls.  Otras cosas que pueden multiplicar las llamadas a draw incluyen tener objetos en mapas de luz diferentes o tener más de una luz en tiempo real en una escena (es decir, una luz de punto agregará otra llamada drawcall a cada objeto que esté dentro de su intervalo), por lo que generalmente se debe evitar cualquier cosa que no sea la luz direccional de una escena.  Los sondeos de reflexión y los sondeos claros también multiplicarán las llamadas a draw en los objetos que se toban, por lo que deben evitarse.
+* Cada vez que es necesario representar un sombreador, material u objeto, la CPU tiene que indicar a la GPU del modificador (también conocido como "llamadas a draw", de forma coloquial **"drawcalls").**  Es decir, si tiene 5 sombreadores, 10 materiales y 20 objetos, con lo que sea mayor. tendrá aproximadamente 20 drawcalls.  Otras cosas que pueden multiplicar las llamadas a draw incluyen tener objetos en mapas de luz diferentes o tener más de una luz en tiempo real en una escena (es decir, una luz de punto agregará otra llamada drawcall a cada objeto que esté dentro de su intervalo), por lo que generalmente se debe evitar cualquier cosa que no sea la luz direccional de una escena.  Los sondeos de reflexión y los sondeos claros también multiplicarán las llamadas de dibujo en los objetos que se apliquen, por lo que se deben evitar.
 
 *  El procesamiento por lotes estático procesará por lotes los objetos que comparten materiales similares en un solo objeto cuando se envían a la GPU (con oclusión Culling descartando mallas que están fuera de la vista), por lo que al establecer todos los objetos del ejemplo anterior en "Static", reduciría la escena a aproximadamente 10 drawcalls, 1 para cada material. 
 
@@ -62,14 +62,14 @@ Un resumen de las herramientas estándar de Unity disponibles para ayudarle a op
 
 ![Ventana Grupo de LOD en Unity](images/world-building-lod-Group.png)
 
-* **La** selección de oclusión reduce el número de objetos que se representan solo a lo que se encuentra dentro de la frustum de la vista de la cámara y que están inmediatamente visibles (es decir, los objetos que se ocultan desde la vista se Culled).  La selección de oclusión casi siempre debe estar lista para la escena y los niveles deben diseñarse para admitirla (es decir, si tiene un nivel grande, se pueden usar paredes u objetos grandes para dividir la línea de visión del jugador, de modo que no siempre puedan ver hasta el extremo opuesto del nivel.  La configuración predeterminada de la "bake" debería funcionar, aunque es posible que tenga que reducir los valores "Occluder más pequeño" o "Más pequeño".  En el caso de objetos como barreras en las que es posible que pueda ver a través de fisuras en el objeto u objetos transparentes, debe desactivar el estado "Occluder" del objeto en el menú desplegable "Estático" para que los objetos subyacentes no se oscile erróneamente. 
+* **La** selección de oclusión reduce el número de objetos que se representan solo a lo que está dentro de la frustum de la vista de la cámara y que están inmediatamente visibles (es decir, los objetos que se ocultan desde la vista se Culled).  La selección de oclusión casi siempre debe estar lista para la escena y los niveles deben diseñarse para admitirla (es decir, si tiene un nivel grande, se pueden usar paredes u objetos grandes para dividir la línea de visión del jugador, de modo que no siempre puedan ver hasta el extremo opuesto del nivel.  La configuración predeterminada de la "bake" debe funcionar, aunque es posible que tenga que reducir los valores "Occluder más pequeño" o "Más pequeño".  En el caso de objetos como barreras en las que es posible que pueda ver a través de fisuras en el objeto u objetos transparentes, debe desactivar el estado "Occluder" del objeto en el menú desplegable "Estático" para que los objetos subyacentes no se oscile erróneamente. 
 
 ## <a name="lightmaps"></a>**Mapas claros**
 
 * Idealmente, **solo un mapa de luz por escena** (2 000 o 4 k para todo), si no es así; Menos mapas de luz de resoluciones más altas son mejores que muchos mapas de luz de resoluciones más bajas.
 * Tener varios mapas claros también puede afectar al número de llamadas a draw, ya que los objetos que tienen o no tienen mapas claros estarán en lotes diferentes y otros mapas claros también estarán en lotes diferentes.
 * Por lo general, una resolución de mapa de luz de aproximadamente **25 elementos de** textura por unidad debe ser suficiente (establezca la resolución en la configuración de iluminación/escena).  Si tiene espacio adicional en el mapa de luz, puede aumentar este valor.
-* Cambie el **valor de Escala de Mapa** de luz por objeto para que la resolución se guarde para los objetos que lo necesiten. 
+* Cambie el **valor de Escala de Mapa** de luz por objeto para que la resolución se guarde para los objetos que la necesiten. 
 
 * **Gráfico de escalado de mapa de luz** (regla general) 
     * **Primer plano** (geoárrelo de nivel de recorrido): 1 
@@ -81,6 +81,8 @@ Un resumen de las herramientas estándar de Unity disponibles para ayudarle a op
 Además, como línea de base, estas son algunas opciones de configuración que se usaron para el entorno de Efecto de la puerta de pantalla:
 
 ![Ventana de iluminación en Unity](images/world-building-lightmaps.png)
+
+Nota: Si usa esta configuración, puede establecer lightmapper en "Lightmapper de GPU" y establecer el tamaño de mapa de luz en "2048" para obtener una vista previa mucho más rápida y, a continuación, realizar una copia de seguridad en CPU y 4k para la última".
 
 ## <a name="texture-compressionfile-size"></a>**Compresión de textura/tamaño de archivo**
 
