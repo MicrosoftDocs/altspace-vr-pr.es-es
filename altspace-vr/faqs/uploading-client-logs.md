@@ -4,12 +4,12 @@ description: Obtenga información sobre los campos de registro de cliente dispon
 ms.date: 02/10/2021
 ms.topic: article
 keywords: registros de cliente
-ms.openlocfilehash: e2fe1ea8b8070ca4c7d290269974610ce84f9cea
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a9e937c99a69139cd2b91372ef7b36180c55574f6b34d99f59a2a099b92c4081
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923172"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121224"
 ---
 # <a name="how-do-i-upload-my-client-logs"></a>Cómo cargar los registros de cliente?
 
@@ -19,18 +19,18 @@ La aplicación cliente AltspaceVR mantiene un registro de los datos de diagnóst
 
 Para cargar los registros de cliente en AltspaceVR, vaya al menú **de** configuración y **seleccione Soporte técnico** en la barra de navegación izquierda. Aquí hay varias opciones para cargar registros, como se muestra en la captura de pantalla siguiente.
 
-![Menú Configuración con el panel de soporte técnico abierto y campos de registro resaltados](images/help-altvr-uploadlogs.png)
+![Configuración con el panel de soporte técnico abierto y los campos de registro resaltados](images/help-altvr-uploadlogs.png)
 
 ## <a name="fields"></a>Campos
 
 **"¿Qué ha ido mal?"**
-Describa lo que ha ocurrido; por ejemplo, si encuentra un error, describa lo que esperaba que ocurriera a diferencia de lo que realmente ha sucedido). Esta información se enviará junto con el registro al presionar cargar.
+Describa lo que ha ocurrido; por ejemplo, si encuentra un error, describa lo que esperaba que ocurriera a diferencia de lo que realmente ha sucedido. Esta información se enviará junto con el registro al presionar cargar.
 
-**"Cargar registros"** Este botón cargará los registros de la sesión actual. Use esta opción si encuentra un problema en esta misma sesión (por ejemplo, si no ha cerrado el cliente AltspaceVR) y desea notificarlo.
+**"Upload registros"** Este botón cargará los registros de la sesión actual. Use esta opción si encuentra un problema en esta misma sesión (por ejemplo, si no ha cerrado el cliente AltspaceVR) y desea notificarlo.
 
-**"Cargar los últimos registros"** Este botón cargará los registros de la sesión anterior.
+**"Upload últimos registros"** Este botón cargará los registros de la sesión anterior.
 
-**"Upload Last Crash Log" (Cargar el último registro de bloqueo)** Este botón cargará más contenido de registro desde el último bloqueo que ha experimentado.
+**"Upload último registro de bloqueo"** Este botón cargará más contenido de registro desde el último bloqueo que ha experimentado.
 
 ## <a name="in-client-logs"></a>En los registros de cliente
 

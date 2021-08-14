@@ -1,28 +1,28 @@
 ---
-title: Presentar un informe de abuso
+title: Presentación de un informe de abuso
 description: Obtenga instrucciones actualizadas sobre cómo presentar informes de abuso y características de seguridad en la aplicación para AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: informes, problemas
-ms.openlocfilehash: b2b7a5818b068dde6252dade072d5f7625bc35dc
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: c3bab1b520998ec8dd77ca92c2eedcaae7158551aecc190d0654795d8b26db57
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213950"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126513"
 ---
-# <a name="filing-an-abuse-report"></a>Presentar un informe de abuso
+# <a name="filing-an-abuse-report"></a>Presentación de un informe de abuso
 
-En AltspaceVR, su comodidad y la seguridad son las principales prioridades. No se realiza ninguna acción ni comportamiento ofensivo, excepcional o inadecuado. La presentación de un informe de abuso le permite permitir que nuestro equipo de moderación Conozca los usuarios o el contenido que infringe nuestros estándares de la comunidad o las condiciones de servicio.
+En AltspaceVR, la comodidad y la seguridad son una prioridad máxima. No se admiten acciones ni comportamientos que sean ofensivos, ofensivos o inadecuados. La presentación de un informe de abuso le permite informar a nuestro equipo de moderación sobre cualquier usuario o contenido que infracción de nuestros estándares de Community o términos de servicio.
 
-Dedique un momento a revisar nuestros [estándares](community-standards.md) y [condiciones de servicio de](https://altvr.com/terms-of-service/#:~:text=1%20Consideration.%20AltVR%20currently%20provides%20free%20access%20to,...%205%20Eligibility.%20...%206%20Additional%20Terms.%20)la comunidad, para determinar si las acciones de la persona infringen nuestra expectativa de comportamiento del usuario. Si cree que garantiza nuestra atención, [archivo un informe de abuso](https://help.altvr.com/hc/requests/new?ticket_form_id=360000032154). Asegúrese de proporcionar una cuenta detallada de su experiencia, una correcta ortografía de los nombres para mostrar y los nombres de usuario relevantes, y la especificación de Cuándo tuvo lugar la instancia de abuso. 
+Tómese un momento para revisar Community [estándares](community-standards.md) y términos de servicio [para](https://altvr.com/terms-of-service/#:~:text=1%20Consideration.%20AltVR%20currently%20provides%20free%20access%20to,...%205%20Eligibility.%20...%206%20Additional%20Terms.%20)determinar si las acciones de la persona infringen nuestras expectativas de comportamiento del usuario. Si cree que merece nuestra atención, [presente un informe de abuso](https://help.altvr.com/hc/requests/new?ticket_form_id=360000032154). Asegúrese de proporcionar una cuenta detallada de su experiencia, una ortografía precisa de los nombres para mostrar y nombres de usuario pertinentes y la especificación de cuándo se produjo la instancia de abuso. 
 
-Haremos un seguimiento en caso de que sea necesario y tome las medidas necesarias para mantener AltspaceVR como un lugar donde los usuarios se sienten seguros y pueden comunicarse con otros usuarios. Como parte de nuestra política de privacidad, no se le informará sobre nuestras decisiones ni sobre el estado de las cuentas de los individuos.
+Realizaremos un seguimiento cuando sea necesario y tomaremos las medidas necesarias para mantener AltspaceVR como un lugar donde las personas se sientan seguras y puedan comunicarse con otras personas. Como parte de nuestra directiva de privacidad, no le informaremos sobre nuestras decisiones ni sobre el estado de la cuenta de ninguna persona.
 
-## <a name="in-app-safety-features"></a>Características de seguridad de In-App
+## <a name="in-app-safety-features"></a>In-App de seguridad
 
-Recuerde que, además del informe de abuso, hay varias herramientas de seguridad en la aplicación diseñadas para proporcionarle control sobre su experiencia. 
+Recuerde que, además del informe de abusos, hay varias herramientas de seguridad en la aplicación diseñadas para darle control sobre su experiencia. 
 
-En cualquier momento, puede bloquear y silenciar cualquier usuario con el que no desee interactuar. Para abrir la etiqueta de nombre de un usuario, haga clic en su avatar. Aquí encontrará varios botones, como silenciar y bloquear. Ya no oirá el audio de ningún usuario que silencia. Los usuarios bloqueados ya no se verán o escucharán y ya no podrán verlos ni oír su opinión. 
+En cualquier momento, puede bloquear y silenciar a cualquier usuario con el que no quiera interactuar. Para abrir la etiqueta de nombre de un usuario, haga clic en su avatar. Aquí encontrará varios botones, incluidos Mute (Silenciar) y Block (Bloquear). Ya no escuchará el audio de ningún usuario que se haya silenciado. Los usuarios bloqueados ya no se verán ni escucharán y ya no podrán verlos ni escucharle. 
 
-Si tiene problemas con otros usuarios que están demasiado cerca de su avatar, puede activar la burbuja de espacio personal. La burbuja de espacio personal hace que otros se queden invisibles si le resultan demasiado cercanos. 
+Si experimenta problemas con otros usuarios que se acercan demasiado a su Avatar, puede activar la burbuja de espacio personal. La burbuja de espacio personal hace que otros se vuelvan invisibles si se acercan demasiado a usted. 

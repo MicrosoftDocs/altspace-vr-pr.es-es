@@ -1,30 +1,30 @@
 ---
-title: Mi audio es entrecortado
-description: Obtenga información sobre cómo diagnosticar y corregir audio entrecortado en eventos de AltspaceVR.
+title: Mi audio está entrecortado
+description: Obtenga información sobre cómo diagnosticar y corregir audio con problemas en eventos AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: faq
-ms.openlocfilehash: 13cba16d10cd2b946435f1fb23d794df05cca693
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 387fa7d2c73388118da3ce442baae1fe4f13881deef3599e04163ad2abf321f9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213677"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128217"
 ---
-# <a name="my-audio-is-choppy"></a>Mi audio es entrecortado
+# <a name="my-audio-is-choppy"></a>Mi audio está entrecortado
 
-Algunos usuarios han observado que, cuando otro avatar está hablando, el audio se reproduce de manera entrecortada o con desventajas normales. En otras instancias, es posible que otros usuarios informan de que su propio audio está llegando a través de una voz entrecortada o robótica.
+Algunos usuarios han observado que, cuando otro avatar habla, el audio aparece como descuido o con abandonos normales. En otras instancias, otros usuarios pueden informar a los usuarios de que su propio audio llega a través de un sonido toráctico o robotizado.
 
-Lo primero que se debe probar es volver a escribir siempre el espacio en el que se encuentra, o incluso reiniciar AltspaceVR si se produce un error. Los problemas de audio no son frecuentes, pero cuando se producen esto suele ser una solución fácil. 
+Lo primero que hay que intentar es volver a escribir siempre el espacio en el que se encuentra o incluso reiniciar AltspaceVR si se produce un error. Los problemas de audio no son comunes, pero cuando se producen esto suele ser una corrección sencilla. 
 
-Si se produce un error en esta situación, puede investigar. 
+Si se produce un error, estas son otras cosas, puede investigar. 
 
 ## <a name="for-desktop-users"></a>Para usuarios de escritorio
 
 ### <a name="cpu-performance"></a>Rendimiento de la CPU
 
-Revise las [Especificaciones de sistema recomendadas](../getting-started/system-requirements.md) para el hardware que se recomienda para ejecutar AltspaceVR. Hemos descubierto que las CPU i3's y las causas más bajas no solo tienen problemas con las tarifas de fotogramas del vídeo, sino que pueden contribuir a problemas de audio como desventajas y mala calidad.
+Revise nuestras [especificaciones recomendadas del sistema](../getting-started/system-requirements.md) para el hardware que se recomienda para ejecutar AltspaceVR. Hemos descubierto que las CPU i3 y las inferiores provocan problemas no solo con las velocidades de fotogramas del vídeo, sino que pueden contribuir a problemas de audio, como abandonos y baja calidad.
 
 ### <a name="internet-bandwidth-and-network-connection"></a>Ancho de banda de Internet y conexión de red
 
-Los usuarios de conexiones de Internet lentas (menos de 5 Mbps) o en Wi-Fi pueden tener problemas de audio como los desplegables. Se recomienda Hardline conexión de un cable Ethernet al equipo y una conexión más rápida que 5 Mbps. Es posible que desee salir de los programas que puedan estar utilizando la conectividad a Internet en segundo plano.
+Los usuarios con conexiones lentas a Internet (menos de 5 Mbps) o en Wi-Fi pueden tener problemas de audio, como entregas. Se recomienda la conexión de línea dura de un cable Ethernet al equipo y una conexión más rápida de 5 Mbps. Es posible que quiera salir de cualquier programa que pueda estar usando la conectividad a Internet en segundo plano.

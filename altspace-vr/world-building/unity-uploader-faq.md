@@ -1,83 +1,83 @@
 ---
-title: Ayuda del cargador de Unity
-description: Manténgase al día de las últimas preguntas y soluciones más frecuentes para el cargador de Unity de AltspaceVR.
+title: Ayuda del carguedor de Unity
+description: Manténgase al día de las preguntas más frecuentes y las soluciones más recientes para altspaceVR Unity Uploader.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: ayuda, preguntas más frecuentes
-ms.openlocfilehash: 814ff293cb98490900cd929f33477d15d3d668ae
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: cb983ba4e23186f7cc62043f75e7ea1b2969e92b6bd30b132f1733b5e25e92dd
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213842"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125735"
 ---
-# <a name="unity-uploader-help"></a>Ayuda del cargador de Unity
+# <a name="unity-uploader-help"></a>Ayuda del carguedor de Unity
 
-**1. ¿Cómo es increíble esta herramienta?**
+**1. ¿Qué tan increíble es esta herramienta?**
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/cheyenne-mountain-gate-room-v1/player]
 
-Esta es mi escena Stargate Unity con una aplicación de SDK que enciende la puerta y DND
+Esa es mi escena de Stargate Unity con una aplicación de SDK que potencia la puerta y DND.
 
-**2. soy un aprendizaje en vídeo, ¿dónde están mis vídeos?**
+**2. Soy un aprendiz de vídeo, ¿dónde están mis vídeos?**
 
-[Consulte nuestros vídeos](https://youtu.be/km9CnVYPzoM)
+[Consulte nuestros vídeos.](https://youtu.be/km9CnVYPzoM)
 
 **3. ¿Dónde puedo encontrar ejemplos?**
 
-Los [mundos destacados](https://account.altvr.com/worlds/featured) y los [ejemplos de Jimmy](https://account.altvr.com/worlds/1046572460192825569) son buenos lugares para empezar
+[Los mundos destacados](https://account.altvr.com/worlds/featured) [y los ejemplos de Jimmy son](https://account.altvr.com/worlds/1046572460192825569) buenos lugares para empezar
 
-**4. ¿funcionará con kits y con el nuevo SDK?**
-Sí, puede usar todas las herramientas juntas si lo desea. Estamos intentando desarrollarlos para que funcionen juntos sin problemas.
+**4. ¿Funcionará esto con kits y el nuevo SDK?**
+Sí, puede usar todas las herramientas juntas si lo desea. Estamos intentando desarrollarlos para que funcionen sin problemas juntos.
 
-**5. ¿admite efectos de partículas?**
+**5. ¿Admite efectos de partícula?**
 
 ![GIF de efectos de partículas de nieve](images/uploader-faq-img-01.gif)
 
-**6. ¿puedo obtener audio espacial?**
-En este momento, pero puede colocar fuentes de audio para reproducirlos en áreas localizadas. 
+**6. ¿Puedo obtener audio espacializado?**
+No en este momento, pero puede colocar orígenes de audio para reproducirse en áreas localizadas. 
 
-**7. ¿funciona la iluminación?**
-Sí, pero las luces tienen que establecerse en "cocida" y no en "mixta"
+**7. ¿Funciona la iluminación asada?**
+Sí, pero las luces deben establecerse en "asada" y no en "mixta".
 
-**8. ¿funciona la iluminación global?**
+**8. ¿Funciona la iluminación global?**
 Sí
 
-**9. ¿siempre tiene que restablecer el mundo?**
+**9. ¿Siempre tiene que restablecer el mundo?**
 Sí. Tenemos que volver a cargar los paquetes de recursos de Unity cada vez. 
 
-**10. ¿Puedo usar mis propios materiales y sombreadores personalizados?**
+**10. ¿Puedo usar mis propios materiales personalizados y sombreadores?**
 
-![GIF de materiales y sombreadores personalizados](images/uploader-faq-img-02.gif)
+![GIF de materiales personalizados y sombreadores](images/uploader-faq-img-02.gif)
 
-**11. ¿puedo cargar solo en una plataforma?**
-Sí, con la herramienta de cargador. Sin embargo, las personas que se encuentran en Android no verán nada en su mundo hasta que cargue la escena para su plataforma. 
+**11. ¿Puedo cargar solo en una plataforma?**
+Sí, mediante la herramienta Uploader. Sin embargo, las personas que están en Android no verán nada en su mundo hasta que cargue la escena para su plataforma. 
 
-**12. ¿se permiten los scripts?**
-No, por motivos de seguridad, no se pueden permitir scripts ni referencias de script. Si la carga contiene scripts o referencias de script, se rechazarán. Eche un vistazo al nuevo SDK si necesita crear scripts. 
+**12. ¿Se permiten scripts?**
+No, por motivos de seguridad no se pueden permitir scripts ni referencias de script. Si la carga contiene scripts o referencias de script, se rechazará. Echa un vistazo al nuevo SDK si el mundo necesita scripting. 
 
-**13. ¿Qué tamaño de una escena se puede cargar?**
-Le recomendamos que comience a ser pequeño y tenga en cuenta las personas de Altspace que no tienen Monster PC. Dicho esto, hemos hecho que los juegos incorporen sus mapas de secuencias en directo (por ejemplo, en un juego de lanzamiento de la VR)
+**13. ¿Qué tamaño de una escena puedo cargar?**
+Le recomendamos que empiece por poco y que tenga en cuenta a las personas de Altspace que no tienen equipos macos. Dicho esto, hemos tenido juegos que traen sus mapas para transmisiones en vivo (por ejemplo, En adelante, un juego de juegos de vr).
 
-![Captura de pantalla del juego VR en AltspaceVR](images/uploader-faq-img-03.png)
+![Captura de pantalla del juego vr en AltspaceVR](images/uploader-faq-img-03.png)
 
-**14. ¿tengo que hospedar los archivos de la escena?**
-No, Altspace está sirviendo los archivos una vez cargados
+**14. ¿Tengo que hospedar los archivos de escena?**
+No, Altspace sirve los archivos una vez cargados.
 
-**15. ¿se permiten las sombras?**
+**15. ¿Se permiten sombras?**
 Sí
 
-**16. ¿con qué rapidez puedo recorrer en iteración el uso del cargador?**
-Si ya está en su mundo, puede presionar cargar en el cargador, restablecer su mundo y ver la escena actualizada en tan solo 10 segundos. Normalmente, verá bucles de 30 segundos a unos minutos según la complejidad de la escena. Tiene una bebida, se lo merece para ser un creador internacional.
+**16. ¿Con qué rapidez puedo iterar mediante el uploader?**
+Si ya está en su mundo, puede presionar Upload en el uploader, restablecer el mundo y ver la escena actualizada en tan solo 10 segundos. Normalmente, verá bucles de entre 30 segundos y unos minutos, en función de la complejidad de la escena. Beba algo, se lo merece por ser world-builder.
 
-**17. ¿Dónde obtengo los modelos 3D?**
-Sketchfab, SketchUp, Minecraft, almacén de recursos de Unity, etc.
+**17. ¿Dónde se obtienen los modelos 3D?**
+Sketchfab, Sketchup, Minecraft, Unity Asset Store, entre otros.
 
-**18. ¿admite animaciones?**
+**18. ¿Admite animaciones?**
 
 ![GIF de animaciones personalizadas en ejecución](images/uploader-faq-img-04.gif)
 
-**19. ¿Cómo puedo configurar el audio espacial?** Importe el archivo WAV que prefiera, cree un objeto de juego vacío en la escena y seleccione este objeto. Arrastre y coloque el sonido importado en el inspector del objeto y creará un origen de audio. Después, ajuste el volumen a un máximo de 0,5, cambie la mezcla espacial a 3D y ajuste la distancia mínima y máxima para crear un área de sonido adecuada. Esto se muestra como una esfera como colisionadores de forma predeterminada. Para obtener un verdadero desactivado, deberá ajustar la curva de la lista desplegable a su gusto. [(Via @IsThatToasted )](https://www.youtube.com/watch?v=ktb2vAAwknw&list=PLGmYIROty-5bpzKQNK3mRMi4pmh_LinV4&t=642s&index=29)
+**19. ¿Cómo puedo configurar el audio espacial?** Importe el archivo wav que prefiera, cree un objeto de juego vacío en la escena y seleccione este objeto. Arrastre y coloque el sonido importado en el inspector del objeto y creará un origen de audio. Después, ajuste el volumen a no más de 0,5, cambie la mezcla espacial a 3D y ajuste la distancia mínima y máxima para crear un área de sonido adecuada. Esto se muestra como esfera como colisionador de forma predeterminada. Para obtener una entrega verdadera, deberá ajustar la curva de entrega a su gusto. [(a través @IsThatToasted de )](https://www.youtube.com/watch?v=ktb2vAAwknw&list=PLGmYIROty-5bpzKQNK3mRMi4pmh_LinV4&t=642s&index=29)
 
-**20. ¿Cómo veo Cross-Eyed/extraña?**
-A veces, el cargador no invalida correctamente la configuración de representación. "Ir a editar > configuración del proyecto > Player". Asegúrese de que está activada la opción "XR Settings > realidad virtual" y "método de representación estéreo" es "Single pass" o "single Pass (Preview)" para PC y Android (seleccione el icono de robot). Después vuelva a compilar y volver a cargar y restablecer su mundo. 
+**20. ¿Por qué veo el desasociación con los ojos cruzados?**
+A veces, el uploader no invalida correctamente la configuración de representación. "Ir a Editar > Project Configuración > Player". Asegúrese de que la opción "XR Configuración > Virtual Reality Supported" (Compatibilidad con la realidad virtual de XR) esté activada y que "Stereo Rendering Method" (Método de representación estéreo) sea "Single Pass" (Paso único) o "Single Pass (Versión preliminar)" para PC y Android (seleccione el icono de robot). Después, vuelva a compilar y cargar y restablezca el mundo. 

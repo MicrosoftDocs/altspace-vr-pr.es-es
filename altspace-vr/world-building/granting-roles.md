@@ -4,24 +4,24 @@ description: Obtenga información sobre el sistema de roles y capacidades y obte
 ms.date: 04/14/2021
 ms.topic: article
 keywords: roles
-ms.openlocfilehash: 3a1d0f138b29fe545f52d851ff00062f156a860e
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: f299f637d77c989be5504532279fb42451367b4ac53095d00627f67402dd8552
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923201"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127130"
 ---
 # <a name="granting-world-roles"></a>Concesión de roles de mundo
 
-Altspace tiene un sistema roles y capacidades. Cada persona puede tener varios roles y sus roles pueden ser diferentes en función de dónde estén. Cada rol, a su vez, le proporciona una o varias capacidades. Por ejemplo, cuando se encuentra en su propio evento, recibe automáticamente los **roles host** **y moderador.** Con esos dos roles puede poner en marcha a los usuarios desenvolados, estar en el escenario y, quizás, liberar el confconfeso.
+Altspace tiene un sistema roles y capacidades. Cada persona puede tener varios roles y sus roles pueden ser diferentes en función de dónde estén. Cada rol, a su vez, le proporciona una o varias capacidades. Por ejemplo, cuando se encuentra en su propio evento, recibe automáticamente los **roles host** **y moderador.** Con esos dos roles puede poner en marcha a los usuarios desenfasados, estar en el escenario y, quizás, liberar el confconfeso.
 
 1. Edite su mundo y busque en la columna derecha **roles contextuales** [(Cómo administrar mundos)](managing-worlds.md)
 
 ![Cambio de roles en la sección Roles contextuales de los mundos](images/granting-roles.png)
 
-2. Haga **clic en Agregar** usuario en el campo Roles **contextuales** si desea conceder roles específicos a usuarios específicos solo para este mundo. Por ejemplo, si quiere proporcionarme **el moderador de host**, agregaría lo anterior y  +  seleccionaría **Guardar**. El formato es username **,** username no tiene mayúsculas de minúsculas, elija el rol en el menú desplegable **Terraformer,** haga clic en Agregar usuario varias veces para seguir agregando más usuarios y, a continuación, haga clic en **Actualizar.**
+2. Haga **clic en Agregar** usuario en el campo Roles **contextuales** si desea conceder roles específicos a usuarios específicos solo para este mundo. Por ejemplo, si quiere proporcionarme **el moderador de host**, agregaría lo anterior y  +  seleccionaría **Guardar**. El formato es username **,** username no tiene en cuenta mayúsculas de minúsculas, elija el rol en el menú desplegable **Terraformer,** haga clic en Agregar usuario varias veces para seguir agregando más usuarios y, a continuación, haga clic en **Actualizar.**
 
-* Para que el cambio suba efecto en Altspace, debe restablecer el espacio en el mundo forzando a todos los usuarios a volver a unirse o hacer que cada usuario con un nuevo rol se vuelva a unirse al mundo.
+* Para que el cambio suba efecto en Altspace, debe restablecer el espacio en el mundo, lo que obliga a todos a volver a unirse o hacer que cada usuario con un nuevo rol se vuelva a unirse al mundo.
 
 3. Edite **el campo Roles contextuales** predeterminados, en la sección En **REALIDAD** virtual, si desea conceder un rol a todos los usuarios que se unan a su mundo. Por ejemplo, si quiere permitir que los usuarios vuelen y usen el megáphone para que puedan escucharse mientras están lejos, agregue lo siguiente:
 
@@ -44,5 +44,5 @@ Después de seleccionar **Actualizar**, Restablecer espacio en el mundo. Esto so
 **¿Puedo eliminar roles?**
 Sí, edite su mundo, haga clic en **Quitar** debajo del rol que desea eliminar y haga clic en **Actualizar.**
 
-**¿Se copian los roles cuando un mundo importa de otro?**
+**¿Se copian los roles cuando un mundo importa desde otro?**
 No, los roles no se copian

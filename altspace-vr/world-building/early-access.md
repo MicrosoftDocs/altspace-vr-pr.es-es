@@ -1,42 +1,42 @@
 ---
-title: ¿Cuál es el programa de acceso temprano?
-description: Manténgase al día de las últimas noticias e instrucciones para unirse al programa de acceso temprano de AltspaceVR.
+title: ¿Qué es el Programa de acceso anticipado?
+description: Manténgase al día de las últimas noticias e instrucciones para unirse al programa de acceso anticipado AltspaceVR.
 ms.date: 03/11/2021
 ms.topic: article
-keywords: acceso temprano
-ms.openlocfilehash: a23edea1ef30b9ac96256150b967910a8aca11eb
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: acceso anticipado
+ms.openlocfilehash: f9ba7a3a46cc19188154078ace27fca21db5e159954c5d7d7356f666048d6ec9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213879"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127167"
 ---
-# <a name="what-is-the-early-access-program"></a>¿Cuál es el programa de acceso temprano?
+# <a name="what-is-the-early-access-program"></a>¿Qué es el Programa de acceso anticipado?
 
-El programa de acceso temprano le proporciona acceso a las características más recientes que todavía están en desarrollo y es gratuita. Estamos trabajando en diferentes cosas y queremos darles ayuda, incluso si no tiene todo el polaco. ¿Por qué pregunta? Porque queremos saber lo que piensa. ¿Le gusta? ¿Son útiles para usted? ¿Les molesta? Sus comentarios son valiosos para nosotros y, en última instancia, le ayudarán a mejorar el Altspace. Muchas características de creación mundial solo están disponibles para los usuarios que se encuentran en el primer acceso, por lo que aquí se muestra cómo puede participar:
+El programa acceso anticipado le proporciona acceso a las características más recientes que todavía están en desarrollo y es gratuito. Estamos trabajando en diferentes cosas y queremos dámoslas, aunque no tenga todo el polaco. ¿Por qué se pregunta? Porque queremos saber lo que piensa. ¿Le gustan? ¿Son valiosos para usted? ¿Son molestos? Sus comentarios son valiosos para nosotros y, en última instancia, ayudarán a mejorar Altspace. Muchas características de World-Building solo están disponibles para los usuarios que están en acceso anticipado, por lo que aquí se muestra cómo puede participar:
 
-## <a name="in-vr"></a>En VR
+## <a name="in-vr"></a>En REALIDAD virtual
 
-1. Abra el menú de **configuración > general** y cambie a **participar en el programa de acceso temprano**:
+1. Abra el menú para Configuración > **general y** active Participar en el programa de **acceso anticipado**:
 
-![Menú de configuración con la opción de acceso temprano resaltada](images/early-access-img-01.png)
+![Configuración menú con la opción de acceso anticipado resaltada](images/early-access-img-01.png)
 
 2. Reiniciar Altspace
-3. Explore las nuevas capacidades.
+3. Explore sus nuevas capacidades.
 
 ## <a name="on-the-web"></a>En la web
 
-1. Editar el [perfil](https://account.altvr.com/users/sign_in) de Altspace
-2. Compruebe el círculo de **acceso temprano** y presione **Actualizar**:
+1. Edición del perfil [de](https://account.altvr.com/users/sign_in) Altspace
+2. Compruebe el círculo **Acceso anticipado** y presione **Actualizar**:
 
-![Perfil de Altspace abierto con la opción de acceso temprano resaltada](images/early-access-img-02.png)
+![Perfil de Altspace abierto con la opción de acceso anticipado resaltada](images/early-access-img-02.png)
 
-3. Si ya se encuentra en Altspace, reinicie
-4. Explore las nuevas capacidades.
+3. Si ya está en Altspace, reinicie
+4. Explore sus nuevas capacidades.
 
 ## <a name="troubleshooting"></a>Solución de problemas
 
 * No tengo una capacidad determinada
-    * ¿Reinició Altspace? Las capacidades se cargan la primera vez que se inicia Altspace
-    * ¿Es la versión más reciente de Altspace? Abra el menú de configuración > acerca de cómo comprobarlo. Confirmar con un administrador en Campfire si es necesario
+    * ¿Ha reiniciado Altspace? Las capacidades se cargan al iniciar Altspace por primera vez
+    * ¿Es la versión más reciente de Altspace? Abra el menú para Configuración > Acerca de la comprobación. Confirme con un administrador en El campo si es necesario.
     * Algunas capacidades solo están disponibles para los administradores y otras solo están disponibles en determinados lugares. Por ejemplo, puede tener capacidades especiales en su hogar, pero no en un mundo público. Confirme con un administrador si debe tener una capacidad determinada en ese contexto.

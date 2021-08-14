@@ -1,69 +1,69 @@
 ---
 title: Exploración de la pantalla de título
-description: Obtenga información sobre cómo navegar por la primera vez a todas las características y funciones de la pantalla de título de AltspaceVR.
+description: Obtenga información sobre cómo navegar por todas las características y funciones de altspaceVR Title Screen como primera vez o devolver el usuario.
 ms.date: 03/19/2021
 ms.topic: article
-keywords: pantalla de título, características, tutoriales, Inicio de sesión, cuenta, código de entrada, destinos
-ms.openlocfilehash: 2c19002712fd645ce4b2fcb344c90d52520494be
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: pantalla de título, características, tutoriales, inicio de sesión, cuenta, código de entrada, destinos
+ms.openlocfilehash: d304f46528ea41296ba7be00457212dc92629d5e1489e4d2dc656622f2a584e3
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213934"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125310"
 ---
 # <a name="exploring-the-title-screen"></a>Exploración de la pantalla de título
 
-La pantalla de título AltspaceVR es el punto de partida principal para explorar la plataforma. Desde aquí, puede hacer cosas como iniciar sesión, explorar el menú principal, escribir un evento con un código, personalizar el avatar y mucho más. A continuación se muestra información general de la pantalla de título y sus funciones. 
+AltspaceVR Title Screen es el punto de partida principal para explorar la plataforma. Desde aquí, puede hacer cosas como iniciar sesión, explorar el menú principal, escribir un evento con un código, personalizar el avatar y mucho más. A continuación se muestra información general sobre la pantalla de título y sus funciones. 
 
-## <a name="tutorial-features--login"></a>Características del tutorial & inicio de sesión 
+## <a name="tutorial-features--login"></a>Tutorial Features & login 
 
-Si es la primera vez que inicia AltspaceVR, comenzará el viaje como usuario invitado. Un usuario invitado es una identidad temporal que se concede para que pueda explorar a su propio ritmo antes de iniciar sesión en su cuenta de AltspaceVR. En el caso de los nuevos usuarios de VR que desean practicar los aspectos básicos antes de pasar a la acción, pruebe nuestros [tutoriales](../tutorials/host-tools-overview.md). Puede omitir el tutorial e iniciar sesión si se siente cómodo pasando directamente a AltspaceVR. 
+Si es la primera vez que inicia AltspaceVR, iniciará el recorrido como usuario invitado. Un usuario invitado es una identidad temporal que se concede para permitirle explorar a su propio ritmo antes de iniciar sesión en su cuenta altspaceVR. Para los nuevos usuarios de realidad virtual que quieran practicar los conceptos básicos antes de saltar a la acción, pruebe nuestros [tutoriales.](../tutorials/host-tools-overview.md) Puede omitir el tutorial e iniciar sesión si se siente cómodo saltando directamente a AltspaceVR. 
 
 ![Pantalla del tutorial en modo 2D en PC](images/title-screen-01.png)
 
-Como invitado, también puede explorar el menú principal y ver el calendario de eventos, pero aún no puede escribir eventos. Se requiere el inicio de sesión de cuenta para ir más allá de la pantalla de título. Para continuar, inicie sesión en su cuenta de AltspaceVR. para ello, seleccione la opción **iniciar sesión** . 
+Como invitado, también puede explorar el menú principal y ver el calendario de eventos, pero aún no puede especificar eventos. El inicio de sesión de la cuenta es necesario para ir más allá de la pantalla de título. Para continuar, inicie sesión en su cuenta altspaceVR seleccionando la **opción Iniciar** sesión. 
 
-![Cuadro emergente de suscripción de la cuenta en el menú principal](images/title-screen-03.png)
+![Ventana emergente de registro de cuenta en el menú principal](images/title-screen-03.png)
 
-Si la cuenta de AltspaceVR está vinculada a su cuenta de Microsoft, seleccione la opción **iniciar sesión con Microsoft** . Si no tiene una cuenta vinculada a Microsoft, seleccione la opción **iniciar sesión con AltspaceVR** . Puede encontrar instrucciones de vinculación de cuentas paso a paso aquí: [vincular la cuenta de Microsoft](../getting-started/linking-microsoft-account.md). 
+Si la cuenta altspaceVR está vinculada a su cuenta Microsoft, seleccione la **opción Iniciar sesión con Microsoft.** Si no tiene una cuenta vinculada a Microsoft, seleccione la opción Iniciar sesión **con AltspaceVR.** Puede encontrar instrucciones de vinculación de cuentas paso a paso aquí: [Vinculación de su cuenta Microsoft](../getting-started/linking-microsoft-account.md). 
 
 ![Página de inicio de sesión para vincular cuentas Microsoft](images/title-screen-02.png)
 
 ## <a name="destinations"></a>Destinations 
 
-El botón de **destinos** verdes de la izquierda es donde encontrará aspectos como AltspaceVR hubs, su Homespace, próximos eventos destacados o cualquier evento que haya asistido recientemente. También encontrará eventos en los que sus amigos pueden encontrarse actualmente. En el panel **destinos** , la navegación por los lugares principales es rápida y sencilla. 
+El botón **verde Destinos** de la izquierda es donde encontrará cosas como AltspaceVR Hubs, su espacio de inicio, próximos eventos de Spotlight o cualquier evento al que haya asistido recientemente. También encontrará eventos en los que sus amigos pueden estar actualmente. El **panel Destinos** permite navegar a lugares clave de forma rápida y sencilla. 
 
-![Página destinos con opciones ENTER y info](images/title-screen-04.png)
+![Página Destinos con opciones de entrada e información](images/title-screen-04.png)
 
 ## <a name="entry-code"></a>Código de entrada 
 
-En AltspaceVR, los códigos de entrada son códigos alfanuméricos que permiten la entrada de eventos simplificada. Puede buscar un código de entrada mediante el botón **compartir** de la página de eventos de VR. También puede encontrarlo encima de los iconos de recursos compartidos sociales en la página de eventos de [altvr.com](https://altvr.com). 
+En AltspaceVr Entry Codes (Códigos de entrada altspaceVR) hay códigos alfanuméricos que permiten la entrada de eventos simplificada. Puede encontrar un código de entrada mediante el botón **Compartir** de la página del evento en VR. También puede encontrarlo justo encima de los iconos de recurso compartido de redes sociales en la página de eventos [altvr.com](https://altvr.com). 
 
-![Página de evento con el código de entrada y las opciones de uso compartido](images/title-screen-05.png)
+![Página de eventos con código de entrada y opciones de uso compartido](images/title-screen-05.png)
 
-Si tiene el código para el evento que le gustaría asistir, escríbalo en la pantalla de título y teletranspórtate directamente al destino.  
+Si tiene el código para el evento al que le gustaría asistir, indícoslo en la pantalla de título y teleporte directamente a su destino.  
 
-![Pantalla de título con el panel de código de evento Enter resaltado](images/title-screen-06.png)
+![Pantalla de título con el panel Escribir código de evento resaltado](images/title-screen-06.png)
 
 ## <a name="other-functions"></a>Otras funciones 
 
-Las pocas funciones disponibles en la pantalla de título son el **menú principal** de la **cuenta** y la **salida**. Estas opciones imitan las que se encuentran en el menú de HUD radial cuando se encuentra en eventos, hubs, mundos o Homespace. 
+Las últimas funciones disponibles en la pantalla de título son **Menú** **principal de la cuenta** y Salir **de**. Estas opciones imitan las que se encuentran en el menú de HUD radial cuando se encuentra en Eventos, Concentradores, Mundos o Su Espacio principal. 
 
-En la sección **cuenta** se ofrecen varias opciones relacionadas con la cuenta de AltspaceVR. Aquí puede revisar sus credenciales, conectar su cuenta de AltspaceVR a una cuenta de Microsoft (o AAD para usuarios empresariales), cambiar a otra cuenta o cerrar la sesión de su cuenta actual. 
+La **sección** Cuenta proporciona varias opciones relacionadas con la cuenta altspaceVR. Aquí puede revisar sus credenciales, conectar su cuenta altspaceVR a una cuenta Microsoft (o AAD para usuarios empresariales), cambiar a otra cuenta o cerrar sesión en la cuenta actual. 
 
-![Página cuentas con opciones adicionales](images/title-screen-07.png)
+![Página Cuentas con opciones adicionales](images/title-screen-07.png)
 
-La opción de **menú principal** de la pantalla de título es exactamente la misma que el menú principal al que se accede mediante el HUD radial en otro lugar. Aquí puede examinar las pestañas de las siguientes características:
+La **opción Menú** principal de la pantalla de título es exactamente la misma que el menú principal al que se accede mediante el HUD radial en otro lugar. Aquí puede examinar las pestañas para ver las siguientes características:
 
-* Detección de centros
-* Explorar el calendario de eventos
-* Examinar mundos
+* Detecciones de centros
+* Exploración del calendario de eventos
+* Mundos de exploración
 * Administración de la lista de amigos
-* Ver los detalles de la cuenta
-* Obtener acceso a la configuración.
+* Visualización de los detalles de la cuenta
+* Acceso a la configuración.
 
-![Centro radial del menú principal con la pestaña de detección resaltada](images/title-screen-08.png)
+![Concentrador radial del menú principal con la pestaña Detectar resaltada](images/title-screen-08.png)
 
-El botón **salir** es útil para cerrar la aplicación AltspaceVR. Al seleccionar esta opción, está optando por cerrar AltspaceVR completamente. Una vez que confirme el cuadro de diálogo de salida, la aplicación se cerrará automáticamente. 
+El **botón** Salir es útil para cerrar la aplicación AltspaceVR. Al seleccionar esta opción, está optando por apagar AltspaceVR por completo. Una vez que confirme el cuadro de diálogo de salida, la aplicación se cerrará automáticamente. 
 
-![Salir de la ventana emergente de AltspaceVR con las opciones de cancelación y salida](images/title-screen-09.png)
+![Salir del menú emergente AltspaceVR con opciones de cancelación y salida](images/title-screen-09.png)
