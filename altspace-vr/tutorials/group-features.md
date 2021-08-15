@@ -126,19 +126,19 @@ Plataformas como Patreon y Eventbrite permiten exportar un archivo *.csv (valor 
     * Si desea crear su propio mundo, debe hacerlo a través del sitio web [,](https://account.altvr.com/worlds/my)verá esos mundos como posibles opciones. 
 
 > [!NOTE]
-> Esta característica está en versión beta. Animamos a los grupos a que utilicen mundos preexistentes en el cuadro de diálogo Selección del entorno.
+> Esta característica está en versión beta. Animamos a los grupos a que utilicen mundos preexistentes en el cuadro de diálogo De selección de entorno.
 
-* La palabra "Commons" siempre aparecerá como sufijo en el mundo de los juegos de palabras de cualquier grupo.  
-* **Mensajes de correo electrónico de miembro**   : este campo le permite enumerar los usuarios por el correo electrónico asociado a una cuenta altspaceVR.  **El uso de esta lista invalida la lista "Usuarios" descrita anteriormente.**   Esta es la manera recomendada de administrar la pertenencia a un grupo, especialmente aquellos que usan plataformas de pago externas.  
+* La palabra "Commons" siempre aparecerá como sufijo en el mundo de cualquier grupo.  
+* **Correos electrónicos de miembros**   : este campo le permite enumerar los usuarios por correo electrónico asociado a una cuenta altspaceVR.  **El uso de esta lista invalida la lista "Usuarios" descrita anteriormente.**   Esta es la manera recomendada de administrar la pertenencia a un grupo, especialmente aquellos que usan plataformas de pago externas.  
     * Al rellenar este campo, asegúrese de que el correo electrónico asociado a la cuenta altspaceVR aparece en él o puede perder el acceso al grupo.  
     * Al pegar direcciones en su campo, asegúrese de que hay un correo electrónico por línea.  
-    * Esta lista acepta correos electrónicos sin una cuenta altspaceVR válida.Se comprueban los nombres de usuario de AltspaceVR, las direcciones de correo electrónico no. Sin embargo, cuando se usa ese correo electrónico para crear una cuenta altspaceVR, el usuario al que está asociado obtendrá acceso al grupo.  
-    * Puede importar una lista desde un archivo *.csv. Seleccione la opción "Elegir archivo" y seleccione el archivo.
-    * Se recomienda usar correos electrónicos de miembro como la manera de administrar los grupos que se crean desde plataformas de pago como Patreon o Eventbrite, ya que es una manera más definitiva de conciliar a los miembros.Tenga en cuenta que los administradores de grupo tendrán que informar a sus usuarios o miembros de que deben usar la misma dirección de correo electrónico EXACTA que usaron en la plataforma de pago para crear una cuenta altspaceVR.  
+    * Esta lista acepta correos electrónicos sin una cuenta altspaceVR válida.Se comprueban los nombres de usuario de AltspaceVR, las direcciones de correo electrónico no. Sin embargo, cuando ese correo electrónico se usa para crear una cuenta altspaceVR, el usuario al que está asociado obtendrá acceso al grupo.  
+    * Puede importar una lista desde un archivo *.csv datos. Seleccione la opción "Elegir archivo" y seleccione el archivo.
+    * Se recomienda usar los correos electrónicos de los miembros como la manera de administrar los grupos que se crean desde plataformas de pago como Patreon o Eventbrite, ya que es una manera más definitiva de conciliar a los miembros.Tenga en cuenta que los administradores de grupo deberán informar a sus usuarios o miembros de que deben usar la misma dirección de correo electrónico EXACTA que usaron en la plataforma de pago para crear una cuenta altspaceVR.  
     * Consulte la sección Importar usuarios en grupos para ver instrucciones sobre cómo obtener la lista de usuarios.   
-* **Habilitación de la importación automática**   : la importación automática es un proceso periódico que se ejecuta en la lista de permitidos por correo electrónico. Concilia si un correo electrónico tiene ahora una cuenta de AltspaceVR válida asociada y concede acceso.   
+* **Habilitación de la importación automática**   : la importación automática es un proceso periódico que se ejecuta en la lista de permitidos de correo electrónico. Concilia si un correo electrónico ahora tiene una cuenta de AltspaceVR válida asociada y concede acceso.   
     * Se recomienda habilitarla si usa una carga de archivos CSV.
-* **Id. de vídeo de**   YouTube : permite insertar un vídeo de YouTube en la página de aterrizaje del grupo en el sitio web.Tenga en cuenta que esto es solo para el sitio web de grupo y no aparece dentro de AltspaceVR.
+* **Identificador de vídeo de**   YouTube : permite insertar un vídeo de YouTube en la página de aterrizaje del grupo en el sitio web.Tenga en cuenta que esto es solo para el sitio web de grupo y no aparece dentro de AltspaceVR.
     * Debe usar el identificador de vídeo, no la dirección completa. El identificador de vídeo es el conjunto de caracteres que aparecen después del inicio de sesión "=" (igual) en YouTube.  
 * **Identificador de Twitter**   : inserte los tweets más recientes de una cuenta de Twitter en la página de aterrizaje del grupo en el sitio web.Tenga en cuenta que esto es solo para el sitio web de grupo y no aparece dentro de AltspaceVR.
 * **Crear grupo**   : botón situado en la parte inferior de la página. Cuando haya completado los campos descritos anteriormente, seleccione este botón para crear el grupo.  
@@ -148,7 +148,7 @@ Plataformas como Patreon y Eventbrite permiten exportar un archivo *.csv (valor 
 Si es miembro o administrador de un grupo, tiene herramientas adicionales para administrar los eventos. Para acceder a estas opciones, vaya a la página Grupos del sitio [web](https://account.altvr.com/groups).  
 
 1. Seleccione Miembro o Administrador en la barra superior y seleccione el grupo que desea administrar o actualizar. 
-2. Una vez en la página Miembro o Administrador, seleccione el grupo al que desea acceder haciendo clic en su imagen de icono.
+2. Una vez en la página Miembro o Administrador, haga clic en la imagen del icono para seleccionar el grupo al que desea acceder.
 
 ![Panel de miembro o administrador abierto](images/group-features-img-08.png)
 
@@ -156,18 +156,18 @@ Esta es la página principal para ver todas las pertenencias a grupos como miemb
 
 ![Pantalla de pertenencia a grupos](images/group-features-img-09.png)
 
-La página Grupo que ve cuando es miembro de un grupo.
+La página Grupo que se ve cuando es miembro de un grupo.
 
 **Como miembro:**
 
 * Puede acceder a la página de aterrizaje del grupo en el sitio web para ver las actualizaciones del grupo.* Tiene un botón para "Salir" del grupo.Una vez hecho esto, se mostrará lo siguiente:  
     * Ya no tendrá acceso a la página de aterrizaje del grupo.  
     * Ya no verá ni escribirá el grupo "Commons" world.  
-    * No puede ver eventos de grupo.
+    * No puede ver Eventos de grupo.
 
 ![Página Eventos de grupo](images/group-features-img-10.png)
 
-La página de grupo que ve cuando es administrador de un grupo.Tenga en cuenta que verá las opciones de administrador independientemente de cómo escriba la página del grupo.
+La página de grupo que se ve cuando es administrador de un grupo.Tenga en cuenta que verá las opciones de administrador independientemente de cómo escriba la página del grupo.
 
 **Como administrador:**   Tiene las mismas opciones que un miembro, pero tiene funcionalidades adicionales.  
 
@@ -177,7 +177,7 @@ La página de grupo que ve cuando es administrador de un grupo.Tenga en cuenta q
 > [!NOTE]
 > Debe ser el nombre de usuario altspaceVR del usuario y no el correo electrónico de su cuenta.  
 
-* También tiene acceso a un **botón "Crear** evento".  
+* También tiene acceso a un **botón "Crear evento".**  
     * **La creación de un evento desde la página del grupo establecerá automáticamente los permisos de grupo para el evento.**  
     * La documentación detallada para crear un evento a través del sitio web está [aquí.](https://help.altvr.com/hc/en-us/articles/360033140854-Creating-an-Event)
 * **También puede deshacerse del grupo presionando el botón "Eliminar".**
@@ -196,22 +196,22 @@ Se trata de una página de grupo con un evento programado. Los eventos creados p
 
 **Patreon ** 
 
-[Patreon](https://www.patreon.com/)   es una plataforma de pertenencia en la que los creativos pueden crear un programa de suscripción para su contenido.Aunque Patreon tiene varias maneras de exportar datos complicados, nos centraremos en las direcciones de CSV. Puede encontrar su página de ayuda para esta información [aquí](https://www.patreon.com/portal/how-to/export-pledge-data)   o puede seguir las instrucciones siguientes:  
+[Patreon](https://www.patreon.com/)   es una plataforma de pertenencia en la que los creativos pueden crear un programa de suscripción para su contenido.Aunque Patreon tiene varias maneras de exportar datos de apoyo, nos centraremos en las direcciones csv. Puede encontrar su página de ayuda para esta información [aquí](https://www.patreon.com/portal/how-to/export-pledge-data)   o puede seguir las instrucciones siguientes:  
 
-1. Busque el campo "Lores" en la barra lateral del creador, a la izquierda del sitio de Patreon.  
+1. Busque el campo "Suss" en la barra lateral del creador, a la izquierda del sitio de Patreon.  
 2. Expándalo para buscar el "Administrador de relaciones" y selecciónelo.  
 3. En la parte superior de la página, hay un botón de descarga denominado CSV. Selecciónela.  
-4. Se abrirá un campo de cuadro de diálogo de Windows para guardar el archivo.Guarde y  
+4. Aparecerá un campo de cuadro de diálogo de Windows para guardar el archivo.Guarde y  
 5. Siga las instrucciones de importación de la página del grupo AltspaceVR para usar este archivo.  
 
 **Eventbrite ** 
 
-[Eventbrite](https://www.eventbrite.com)   es un sitio web de vales que permite a los usuarios administrar y crear incidencias para eventos.Al igual que Patreon, hay muchas maneras de generar listas de correo electrónico de asistentes.Nos centraremos de nuevo en las direcciones de CSV. Puede encontrar su página de ayuda para esta información [aquí](https://www.eventbrite.com/support/articles/en_US/How_To/how-to-edit-and-export-an-attendee-summary-report?lg=en_US)o puede seguir las instrucciones siguientes para obtener una   manera de extraer estos datos.  
+[Eventbrite](https://www.eventbrite.com)   es un sitio web de vales que permite a los usuarios administrar y crear vales para eventos.Al igual que Patreon, hay muchas maneras de generar listas de correo electrónico de asistentes.Nos centraremos de nuevo en las direcciones csv. Puede encontrar su página de ayuda para esta información [aquí](https://www.eventbrite.com/support/articles/en_US/How_To/how-to-edit-and-export-an-attendee-summary-report?lg=en_US)o puede seguir las instrucciones siguientes para obtener una   manera de extraer estos datos.  
 
 1. En el menú Perfil, busque el menú "Administrar eventos". 
-2. Seleccione el evento en el que desea obtener la lista de correo electrónico del asistente. 
+2. Seleccione el evento donde desea obtener la lista de correo electrónico del asistente. 
 3. En el panel del evento, busque la categoría denominada "Informes comunes". 
-4. También puede encontrar "Informes comunes" en el menú de columnas de la izquierda en "Analizar -> informes de eventos".   
+4. También puede encontrar "Informes comunes" en el menú de la columna izquierda en "Analizar -> informes de eventos".   
 5. Seleccione "Resumen del asistente". 
 6. Busque la sección "Resultados del informe". 
 7. Seleccione el botón "CSV" para descargar el archivo. 
