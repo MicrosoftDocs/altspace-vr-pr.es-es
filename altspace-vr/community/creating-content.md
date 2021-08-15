@@ -1,44 +1,44 @@
 ---
-title: Creación de contenido de AltspaceVR
-description: Obtenga información sobre cómo crear contenido de AltspaceVR, usar extensiones de realidad mixta y unirse a la comunidad de expansión.
+title: Creación de contenido altspaceVR
+description: Obtenga información sobre cómo crear contenido altspaceVR, usar extensiones de realidad mixta y unirse a la comunidad en expansión.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: extensiones de realidad mixta, comunidad, creación mundial, recursos
-ms.openlocfilehash: f77c1ad1dfc5a6e95882f153152ad6dcbefcab8b
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: extensiones de realidad mixta, comunidad, edificio del mundo, recursos
+ms.openlocfilehash: 83888f0a6a4d81ca4573641daa28d0e5343039ea073337c2b18d8e7610d2a14e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213683"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125107"
 ---
-# <a name="creating-altspacevr-content"></a>Creación de contenido de AltspaceVR
+# <a name="creating-altspacevr-content"></a>Creación de contenido altspaceVR
 
-AltspaceVR es una magnífica comunidad para quienes desean crear y compartir contenido de VR. 
+AltspaceVR es una excelente comunidad para aquellos que desean crear y compartir contenido de realidad virtual. 
 
-## <a name="mre-mixed-reality-extension-sdk"></a>SDK de MRE (extensión de realidad mixta)
+## <a name="mre-mixed-reality-extension-sdk"></a>SDK de MRE (Mixed Reality extensión)
 
-Queremos ofrecer soporte técnico y crecer a nuestra comunidad de desarrolladores. Hemos creado varios recursos que esperamos que ayuden incluso a los desarrolladores principiantes con la creación de experiencias y aplicaciones web multiusuario en 3D. 
+Queremos admitir y hacer crecer nuestra comunidad de desarrolladores. Hemos creado varios recursos que esperamos que ayuden incluso a los desarrolladores principiantes a crear experiencias y aplicaciones web 3D para varios usuarios. 
 
 ## <a name="start-creating"></a>Empezar a crear
 
-Visite nuestro [portal para desarrolladores de AltspaceVR](https://developer.altvr.com/) para obtener más información sobre el SDK de MRE (extensión de realidad mixta).
+Visite nuestra [página de Portal para desarrolladores AltspaceVR](https://developer.altvr.com/) para obtener más información sobre el SDK de MRE (Mixed Reality extension).
 
 ## <a name="join-the-community"></a>Unirse a la comunidad
 
-Puede ponerse en contacto con otros miembros de la comunidad en nuestros canales de descables:
+Puede irse a otros miembros de la comunidad en nuestros canales de Discord:
 
-* [AltspaceVRs oficiales](https://discord.gg/eYQ5VxK)
-* [Descables: SDK de MRE](https://discord.gg/ypvBkWz)
+* [Discordia: AltspaceVR oficial](https://discord.gg/eYQ5VxK)
+* [Discordia: SDK de MRE](https://discord.gg/ypvBkWz)
 
-También puede unirse a nosotros en AltspaceVR en el SDK de AltspaceVR quincenal (Mié @ 16:00 PT/Thu @ 11 PT) [encuentros!](https://account.altvr.com/channels/sdk)
+También puede unirse a nosotros en AltspaceVR en nuestros encuentros del SDK de [AltspaceVR](https://account.altvr.com/channels/sdk) (mié @ 4 p. m. PT /Thu @ 11 a.m. PT)
 
-## <a name="world-building"></a>Creación mundial
+## <a name="world-building"></a>World-Building
 
-La creación mundial permite a los usuarios arrastrar y colocar objetos fácilmente en su propio espacio para compilar su propio mundo.
+La creación mundial permite a los usuarios arrastrar y colocar fácilmente objetos en su propio espacio para crear su propio mundo.
 
 ## <a name="resources"></a>Recursos
 
-* Páginas de ayuda: creación mundial
-    * [Cómo comenzar a crear el mundo](../world-building/world-building-getting-started.md)
+* Páginas de Ayuda: creación mundial
+    * [Cómo empezar a crear mundo?](../world-building/world-building-getting-started.md)
     * [¿Dónde puedo obtener ayuda con la creación mundial?](../world-building/getting-help.md)
-* [AltspaceVRs oficiales](https://discord.gg/eYQ5VxK), en el canal de creación de #world
+* [Discord - Official AltspaceVR](https://discord.gg/eYQ5VxK), en el canal de #world creación

@@ -1,41 +1,41 @@
 ---
-title: Controles de Avatar con Mouse/teclado en modo de PC 2D
-description: Obtenga información sobre cómo cambiar entre los esquemas de control nuevos y clásicos para trasladar los avatares con el mouse y el teclado en el modo de PC 2D.
+title: Controles de Avatar con el mouse o el teclado en modo de PC 2D
+description: Aprenda a cambiar entre esquemas de control nuevos y clásicos para mover los avatares con el mouse y el teclado en modo pc 2D.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: Avatar, Mouse, teclado, 2D, modo PC, controles
-ms.openlocfilehash: ec63ae241ac1d91817e8f8a6675299f8d83a1bdb
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: avatar, mouse, teclado, 2d, modo pc, controles
+ms.openlocfilehash: 670cd05bdcaa63b3a0c6ff772bef0e9f7d05bb3c3ba795d104bf5d857401a848
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213734"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128005"
 ---
-# <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>Controles de Avatar con Mouse/teclado en modo de PC 2D
+# <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>Controles de Avatar con el mouse o el teclado en modo de PC 2D
 
-Hay dos esquemas de control diferentes para el modo de PC 2D mediante un mouse y un teclado:
+Hay dos esquemas de control diferentes para el modo pc 2D mediante un mouse y un teclado:
 * Nuevos controles de PC, que es el valor predeterminado para las cuentas nuevas
-* Controles de equipos clásicos
+* Controles de PC clásicos
 
-Puede cambiar entre los controles nuevos y clásicos en el **menú > configuración > entrada > controles de PC clásico** y activar o desactivar la opción.
+Para cambiar entre controles nuevos o clásicos, vaya a Menú > Configuración > entrada > controles de **PC** clásicos y cambie la opción de activar o desactivar.
 
 ## <a name="new-pc-controls"></a>Nuevos controles de PC
 
-Tiene dos modos diferentes al usar los nuevos controles de PC: modo de cursor y modo de apariencia. Haga clic con el botón derecho en el equipo portátil o el mouse para usar el control de **alternancia de cursor o apariencia** para alternar entre los dos modos.
+Tiene dos modos diferentes al usar los controles Nuevo equipo: Modo de cursor y Modo de apariencia. Haga clic con el botón derecho en el portátil o el mouse para usar el botón de **alternancia Cursor/Look para** alternar entre los dos modos.
 
-* El **modo de cursor** le permite interactuar con los menús. Sabrá que está en modo de cursor cuando vea el botón de menú o el logotipo de AltspaceVR en la parte inferior izquierda de la vista:
+* **Modo de** cursor le permite interactuar con los menús. Sabrá que está en modo de cursor cuando vea el botón AltspaceVR Logo/Menu (Logotipo o menú de AltspaceVR) en la parte inferior izquierda de la vista:
 
 ![Modo de cursor con menú](images/avatar-controls-img-01.png)
 
-* El **modo de búsqueda** le permite buscar y es excelente si usa un superusuario de portátil. Puede usar el modo de búsqueda y el teclado para buscar o moverse al mismo tiempo. Sabrá que está en modo de vista si la parte inferior izquierda es similar a la captura de pantalla siguiente:
+* **El modo de** aspecto le permite mirar alrededor y es excelente si usa un trackpad de portátil. Puede usar el modo de apariencia y el teclado para buscar o moverse al mismo tiempo. Sabrá que está en modo de apariencia si la parte inferior izquierda de la vista es similar a la captura de pantalla siguiente:
 
-![Modo de búsqueda](images/avatar-controls-img-02.png)
+![Modo de apariencia](images/avatar-controls-img-02.png)
 
-### <a name="new-pc-controls-for-keyboard--mouse"></a>Nuevos controles de PC para el teclado o el mouse
+### <a name="new-pc-controls-for-keyboard--mouse"></a>Nuevos controles de PC para teclado y mouse
 
 ![Teclado y mouse con asignaciones de entrada](images/avatar-controls-img-03.png)
 
-## <a name="classic-pc-controls"></a>Controles de equipos clásicos 
+## <a name="classic-pc-controls"></a>Controles de PC clásicos 
 
 ### <a name="mouse-controls"></a>Controles del mouse
 
@@ -43,40 +43,40 @@ Tiene dos modos diferentes al usar los nuevos controles de PC: modo de cursor y 
 
 | Entrada | Acción |
 |---|---|
-| Hacer clic con el botón izquierdo | Teletranspórtate a la ubicación de destino |
-| Mantener clic con el botón primario | Vista previa de la ubicación de destino |
-| Clic central | Avanzar |
-| Clic con el botón derecho + movimiento del mouse | Girar o panoramizar la cámara para buscar |
-| Clic con el botón derecho + rueda central desplazamiento hacia delante o hacia atrás | Acercar o alejar la cámara |
+| Hacer clic con el botón izquierdo | Teleportar a la ubicación de destino |
+| Mantener presionado el clic izquierdo | Vista previa de la ubicación de destino |
+| Clic intermedio | Avanzar |
+| Haga clic con el botón derecho en + Mover el mouse | Girar o desplazar la cámara para mirar alrededor |
+| Clic con el botón derecho + Desplazamiento hacia delante y hacia atrás de la rueda central | Acercar y alejar la cámara |
 
 **Opciones del menú**
 
 | Entrada | Acción |
 |---|---|
-| Clic con el botón primario (sobre botones) | Botón seleccionar |
-| Mantenga presionado el botón primario y haga clic con el botón derecho | Ocultar menú AltspaceVR |
+| Clic izquierdo (sobre botones) | Seleccionar botón |
+| Mantenga presionado el botón izquierdo y haga clic con el botón derecho. | Ocultar el menú AltspaceVR |
 
 ### <a name="keyboard-controls"></a>Controles de teclado
 
 **Movimiento**
 
-| Acción | Key | Clave alternativa |
+| Acción | Clave | Clave alternativa |
 |---|---|---|
 | Avanzar | W | Flecha arriba |
 | Retroceder | S | Flecha abajo |
-| Strafe a la izquierda | A | No aplicable |
-| Strafe derecha | D | No aplicable |
-| Ejecutar hacia delante | Mayús + W | Mayús + Flecha arriba |
-| Ejecutar atrás | Mayús + S | Mayús + Flecha abajo |
-| Ejecutar a la izquierda | Mayús + A | No aplicable |
-| Ejecutar a la derecha | Mayús + D | No aplicable |
-| Giro de "modo de comodidad" a la izquierda | Q | Flecha izquierda |
-| Derecho de giro de "modo de confort" | E | Flecha derecha |
+| Strafe left | A | N/D |
+| Derecha de Strafe | D | N/D |
+| Ejecutar hacia delante | Mayús + W | Mayús + flecha arriba |
+| Ejecutar hacia atrás | Mayús + S | Mayús + flecha abajo |
+| Ejecutar a la izquierda | Mayús + A | N/D |
+| Ejecutar a la derecha | Mayús + D | N/D |
+| Rotación "Modo de confort" a la izquierda | Q | Flecha izquierda |
+| Derecha de rotación del "modo de confort" | E | Flecha derecha |
 
 **Opciones del menú**
 
-| Acción | Key | Clave alternativa |
+| Acción | Clave | Clave alternativa |
 |---|---|---|
-| Menú de alternancia | Esc | No aplicable |
-| Alternar pantalla completa de la aplicación | Alt + Entrar | No aplicable |
+| Menú Alternar | Esc | N/D |
+| Alternar pantalla completa de la aplicación | Alt + Entrar | N/D |
 | Alternar micrófono | Barra espaciadora | Ctrl + Alt + T |

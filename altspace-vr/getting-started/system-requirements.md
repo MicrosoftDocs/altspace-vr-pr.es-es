@@ -3,13 +3,13 @@ title: Requisitos mínimos del sistema
 description: Manténgase al día con los requisitos más recientes del sistema para AltspaceVR en pantallas montadas en la cabeza, Oculus Dimensional y dispositivos DE LAV Vive.
 ms.date: 06/03/2021
 ms.topic: article
-keywords: requisitos, pantallas montadas en la cabeza, oculus, así como el modo windows 2d
-ms.openlocfilehash: db76d3594102d292d0d6f3741222b92a1677640a
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+keywords: requisitos, pantallas montadas en la cabeza, oculus locución, número de teléfono, modo windows 2d
+ms.openlocfilehash: 7783d2c6e1acbbc48c4b0ca63d26c58c107f48559fc9d0fe7d88156a1d6762f9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923162"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127562"
 ---
 # <a name="minimum-system-requirements"></a>Requisitos mínimos del sistema
 
@@ -20,15 +20,15 @@ Se recomiendan los perfiles mínimos del sistema siguientes para obtener la expe
 * [Oculus Quest](oculus-installation.md)
 * [Windows Mixed Reality](wmr-installation.md)
 
-## <a name="oculus-rift-cv1-windows-only"></a>Oculus Dimensional CV1 (solo Windows)
+## <a name="oculus-rift-cv1-windows-only"></a>Oculus Cv1 (solo Windows)
 
 * NVIDIA GTX 960 o superior 
 * Intel i3-6100/AMD FX4350 o superior 
 * Más de 8 GB de RAM 
 * Salida de vídeo compatible con HDMI 1.3 
-* Windows 8 o más reciente 
+* Windows 8 o posterior 
 
-## <a name="htc-vive-windows-only"></a>¡¡
+## <a name="htc-vive-windows-only"></a>ASÍNs Vive (solo Windows)
 
 * NVIDIA GeForce® GTX 970, AMD Radeon™ R9 290 equivalente o mejor
 * Intel® i5-4590, AMD FX 8350 equivalente o mejor   
@@ -36,7 +36,7 @@ Se recomiendan los perfiles mínimos del sistema siguientes para obtener la expe
 * HDMI 1.4, DisplayPort 1.2 o posterior
 * Windows 7 SP1, Windows 8.1 o Windows 10
 
-## <a name="windows-2d-mode"></a>Modo 2D de Windows
+## <a name="windows-2d-mode"></a>Windows modo 2D
 
 * Windows 10 de 64 bits, versión 1809 o posterior.
 * Intel i5
@@ -46,7 +46,7 @@ Se recomiendan los perfiles mínimos del sistema siguientes para obtener la expe
 
 ## <a name="windows-mixed-reality"></a>Windows Mixed Reality
 
-[Windows Mixed Reality de hardware de equipos](https://docs.microsoft.com/windows/mixed-reality/enthusiast-guide/windows-mixed-reality-minimum-pc-hardware-compatibility-guidelines)
+[Windows Mixed Reality Directrices de hardware de PC](https://docs.microsoft.com/windows/mixed-reality/enthusiast-guide/windows-mixed-reality-minimum-pc-hardware-compatibility-guidelines)
 
 ## <a name="bandwidth-requirements"></a>Requisitos de ancho de banda
 

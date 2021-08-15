@@ -4,12 +4,12 @@ description: Obtenga instrucciones paso a paso sobre cómo desvincular y volver 
 ms.date: 05/11/2021
 ms.topic: article
 keywords: registro, cuenta, vinculación de cuentas, cuentas microsoft, preguntas más frecuentes, solución de problemas, MSA, AAD
-ms.openlocfilehash: 3ad57ca9becbec610bada7bcf029474a9283906a
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 2629a474b2d22402a3e89b908ae7bdee1c29f299baa458dd0139e25b2f22d4cf
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112961291"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121248"
 ---
 # <a name="unlinking-and-re-linking-your-microsoft-account"></a>Desvinculación y Re-Linking cuenta Microsoft
 
@@ -36,16 +36,16 @@ Se recomienda encarecidamente vincular la cuenta altspaceVR con una cuenta Micro
 
 ## <a name="troubleshooting-tips"></a>Sugerencias para la solución de problemas
 
-* Si está intentando vincular una cuenta Microsoft pero recibe un error que dice "Ya se ha tomado el correo electrónico", es probable que tenga una cuenta de AltspaceVR clásica con el mismo correo electrónico que su cuenta Microsoft. Se recomienda iniciar sesión en altvr.com vincular su cuenta:
+* Si intenta vincular una cuenta Microsoft pero recibe un error que dice "Ya se ha tomado el correo electrónico", es probable que tenga una cuenta de AltspaceVR clásica con el mismo correo electrónico que su cuenta Microsoft. Se recomienda iniciar sesión en altvr.com para vincular su cuenta:
     1. Vaya a altvr.com haga clic en "Iniciar sesión".
-    2. Inicie sesión con su cuenta altspaceVR (correo electrónico y contraseña). Si no conoce la contraseña, haga clic en "Restablecer contraseña" en la parte superior de la página y siga el proceso de recuperación de contraseñas. 
+    2. Inicie sesión con su cuenta de AltspaceVR (correo electrónico y contraseña). Si no conoce la contraseña, haga clic en "Restablecer contraseña" en la parte superior de la página y siga el proceso de recuperación de contraseñas. 
     3. Una vez que haya iniciado sesión, haga clic en "Más > Perfil".
     4. Haga clic en "Vincular cuenta" y la cuenta de Altspace clásica y la cuenta microsoft ahora deben estar vinculadas. (NOTA: Actualmente no se admiten cuentas de trabajo o educativas a menos que el administrador le haya dicho lo contrario).
     5. Ejecución de Altspace e inicio de sesión con su cuenta Microsoft
     
 * Si está intentando usar la versión de consumidor de AltspaceVR, debe usar una cuenta Microsoft. Si usa una cuenta de trabajo o educativa, recibirá un mensaje de error en el que se le pedirá que vincule a una cuenta microsoft personal en su lugar. Siga los pasos anteriores para desvincular y volver a vincular cuentas. 
 
-* Envíe los registros si tiene algún problema; para lo que debe ir al MENÚ PRINCIPAL > CONFIGURACIÓN > soporte técnico **> cargar registros**.
+* Envíe los registros si tiene algún problema; para lo que debe ir al MENÚ PRINCIPAL > CONFIGURACIÓN > soporte técnico **> Upload registros**.
 
 * Encuentre más sugerencias en las preguntas [más frecuentes sobre cuentas.](../getting-started/creating-and-linking-accounts.md)
 

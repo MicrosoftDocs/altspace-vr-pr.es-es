@@ -1,29 +1,29 @@
 ---
-title: Métodos abreviados de teclado
+title: Accesos directos del teclado
 description: Manténgase al día con todos los métodos abreviados de teclado y las acciones disponibles que admite la aplicación AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: teclado, accesos directos
-ms.openlocfilehash: 9e8ec2475c650e27f201e8b265740f9e68425c63
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: teclado, métodos abreviados
+ms.openlocfilehash: 5106f34d7cdba5ad42ca04070e66b7b77157f46554e5f3542b08ecb6e7f15030
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213762"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127885"
 ---
-# <a name="keyboard-shortcuts"></a>Métodos abreviados de teclado
+# <a name="keyboard-shortcuts"></a>Accesos directos del teclado
 
 | Clave | Acción |
 |---|---|
-| ESC | Abrir o cerrar el menú principal |
-| de 1 a 6 teclas (por encima de QWERTY) | Emojis |
-| CTRL + ALT + F5 | Vuelva a escribir el espacio |
+| ESC | Abrir o cerrar menú principal |
+| De 1 a 6 claves (por encima de qwerty) | Emojis |
+| CTRL + ALT + F5 | Volver a escribir espacio |
 | CTRL + ALT + R | Restablecer espacio |
-| CTRL + ALT + P | Activar o desactivar la interfaz de usuario |
-| MAYÚS + ALT + B | Activar o desactivar cursor |
-| Botón secundario del mouse + rueda de desplazamiento del mouse | Acercar/alejar |
-| CTRL + ALT + T o barra espaciadora | Activar o desactivar silenciar |
-| CTRL + ALT + barra espaciadora | Abra la línea de comandos, escriba "ayuda" para las opciones |
-| CTRL + ALT + N | Jimmy CAM para el modo VR |
-| CTRL + ALT + K | Alternar "silenciar cuando AltspaceVR está inactivo" |
-| CTRL + ALT + X | Activar o desactivar el modo de edición del editor mundial |
+| CTRL + ALT + P | Desactivación o activación de la interfaz de usuario |
+| MAYÚS + ALT + B | Desactivar o activar el cursor |
+| Botón derecho del mouse + Rueda de desplazamiento del mouse | Acercar/alejar |
+| CTRL + ALT + T o barra espaciadora | Desactivar o activar la exclusión mutua |
+| CTRL + ALT + Barra espaciadora | Abra línea de comandos y escriba "ayuda" para las opciones. |
+| CTRL + ALT + N | Jimmy Cam para el modo VR |
+| CTRL + ALT + K | Desactivar o activar la opción "Mute when AltspaceVR is idle" (Desactivar cuando AltspaceVR está inactivo) |
+| CTRL + ALT + X | Activar o desactivar el modo de edición del Editor del mundo |

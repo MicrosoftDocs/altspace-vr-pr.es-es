@@ -1,15 +1,15 @@
 ---
 title: Uso de la consola multimedia
-description: Aprenda a configurar, publicar y controlar la consola multimedia en sus experiencias altspaceVR.
+description: Aprenda a configurar, publicar y controlar la consola multimedia en las experiencias altspaceVR.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: consola, multimedia
-ms.openlocfilehash: 4a51ff76e44d3870972bc17288ae77c1fa888922
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: a24b3700f1687aed6bc00fd218aacd7cc12908e521af6239fac0ae97f48b4b9a
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923012"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127375"
 ---
 # <a name="using-the-multimedia-console"></a>Uso de la consola multimedia
 
@@ -17,20 +17,20 @@ La consola multimedia es una herramienta que permite compartir contenido multime
 
 ## <a name="getting-started"></a>Introducción
 
-La introducción a la consola multimedia es un proceso de dos partes.  En primer lugar, está el portal web que usará para generar y publicar una configuración para la sesión de la consola multimedia que coloque en su entorno.  En segundo lugar, se coloca la aplicación de consola multimedia real en su entorno y se establece el código de configuración que debe usar.
+La introducción a la consola multimedia es un proceso de dos partes.  En primer lugar, está el portal web que usará para generar y publicar una configuración para la sesión de consola multimedia que coloque en su entorno.  En segundo lugar, se coloca la aplicación de consola multimedia real en su entorno y se establece el código de configuración que debe usar.
 
 ### <a name="configuring-the-multimedia-console-with-the-web-portal"></a>Configuración de la consola multimedia con el portal web
 
-1. En primer lugar, deberá asegurarse de que el contenido se hospeda en línea porque necesitará una dirección URL. (Puede cargar fotos en altvr.com, hospedar un archivo de .mp4 en línea o usar un vínculo de streaming en vivo de Dlive: https://dlive.tv/yourlivestream) 
+1. En primer lugar, deberá asegurarse de que el contenido se hospeda en línea, ya que necesitará una dirección URL. (Puede cargar fotos en altvr.com, hospedar un archivo de vídeo .mp4 en línea o usar un vínculo de streaming en vivo de Dlive: https://dlive.tv/yourlivestream) 
 2. Vaya al portal web de la consola multimedia en [https://multimedia-console.altvr.com/](https://multimedia-console.altvr.com/)
 3. Desde el portal web, puede generar y publicar una configuración para la consola multimedia.  (Consulte a continuación para obtener más información sobre las distintas propiedades).
-4. Una vez que haya escrito los medios en la lista de medios y haya configurado la configuración general, seleccione el botón Publicar en la parte superior derecha de la aplicación.
+4. Una vez que haya escrito el medio en la lista de medios y haya configurado la configuración general, seleccione el botón Publicar en la parte superior derecha de la aplicación.
 5. Una vez completada la publicación, aparecerá un cuadro de diálogo con un código de dos palabras para que escriba en la consola multimedia que ha colocado.
   
 ### <a name="placing-the-multimedia-console-in-your-environment"></a>Colocación de la consola multimedia en su entorno
 
 1. Seleccione en World Editor > Editor Panel > SDK Apps > Multimedia Console (Aplicaciones **> multimedia).** (No vaya a World **Editor > Basics > SDK App**,es decir, para las aplicaciones no registradas).  
-2. Coloque la consola multimedia en el mejor conjunto de su espacio y audiencia.
+2. Coloque la consola multimedia para que el espacio y la audiencia se adapten mejor.
 3. Salga del modo de edición haciendo clic en el botón naranja Modo de edición.
 4. Se le preguntará **¿Es el propietario del reproductor multimedia?** Si es la persona que debe ser el propietario oficial de esta sesión de consola multimedia, confirme y continúe. (También hay otros roles con permisos disponibles. Consulte a continuación una lista detallada).
 5. Seleccione Sí para confirmar que es el host principal.  
@@ -72,26 +72,26 @@ Asignaciones de roles para controlar y configurar la consola multimedia.    Esto
 * **Usuarios con privilegios** elevados: usuarios que tienen roles de moderador o host en el espacio en el que se configuró originalmente la consola multimedia
 * **Todos los usuarios:** todos los usuarios
 
-Estos roles se apilan en el sentido de que todos los roles por encima del elegido en esta lista también tendrán permiso para usar esa característica.  Ejemplo: **Los usuarios con** privilegios elevados incluyen el propietario incluso si no son un moderador o host** en AltspaceVR.  Las características controladas por asignaciones de roles son las siguientes:
+Estos roles se apilan en el sentido de que a todos los roles por encima del elegido en esta lista también se les concederá permiso para usar esa característica.  Ejemplo: **Los usuarios con** privilegios elevados incluyen el propietario incluso si no son un moderador o host** en AltspaceVR.  Las características controladas por las asignaciones de roles son las siguientes:
 
 * **Puede controlar el reproductor multimedia:** determina qué roles pueden controlar los botones de reproducción multimedia de la consola multimedia.
 * **Puede configurar el reproductor multimedia:** determina qué roles pueden configurar la consola multimedia con el acceso al **botón Config (Configuración).**
 
 ### <a name="adding-photos-and-videos-to-the-media-list"></a>Adición de fotos y vídeos a la lista de medios
 
-Los medios son el núcleo de la consola multimedia.  Las imágenes y los vínculos de vídeo se admiten como tipos de medios en la consola multimedia.  Para agregar nuevos medios,  seleccione  los iconos Agregar imagen o Agregar vídeo para que se haga emergente un cuadro de diálogo para especificar la información y la configuración multimedia.  A continuación se muestra el desglose de los tipos de medios y la configuración asociada.
+Los medios son el núcleo de la consola multimedia.  Las imágenes y los vínculos de vídeo se admiten como tipos de medios en la consola multimedia.  Para agregar nuevos medios,  seleccione  los iconos Agregar imagen o Agregar vídeo para que se haga emergente un cuadro de diálogo para especificar la información y la configuración de los medios.  A continuación se muestra el desglose de los tipos de medios y la configuración asociada.
 
-**Image**
+**Imagen**
 
 Las imágenes deben ser un tipo de imagen estándar, como jpeg, png e son on. Deben hospedarse en algún lugar con un vínculo público.
 
-* **Nombre:** nombre (obligatorio) con el que desea identificar la imagen.
+* **Nombre:** (obligatorio) Nombre con el que desea identificar la imagen.
 * **Dirección URL de** la imagen: (obligatorio) La dirección URL pública de la imagen
 * **Omitir después:** número de segundos después de los que se debe omitir la imagen
 
 **Vídeo**
 
-Los vídeos se pueden hospedar en vídeos o transmisiones en vivo a través de La tracción y DLive.  (Otra compatibilidad puede funcionar con trabajo adicional para obtener la dirección URL de secuencia adecuada, pero no es totalmente compatible en la consola multimedia)
+Los vídeos se pueden hospedar en vídeos o transmisiones en vivo a través de Lans y DLive.  (Otra compatibilidad puede funcionar con trabajo adicional para obtener la dirección URL de secuencia adecuada, pero no es totalmente compatible en la consola multimedia)
 
 * **Nombre:** nombre (obligatorio) con el que desea identificar el vídeo.
 * **Dirección URL del** vídeo: (obligatorio) Dirección URL pública en la que se hospeda el vídeo o desde la que se sirve el streaming en vivo.
@@ -103,14 +103,14 @@ Los vídeos se pueden hospedar en vídeos o transmisiones en vivo a través de L
 * **Volumen:** el volumen del vídeo de 0 (min) a 1 (máx.) valores.
 * **Hora de** inicio: número de segundos a partir del principio del vídeo.
 * **Roll Off Start Distance :la** distancia en metros del mundo en la que el volumen comienza a despegar cuando se aleja de la consola multimedia
-* **Final de la acción de vídeo:** la acción que se debe realizar una vez que se alcanza el final del vídeo.
+* **Fin de la acción de vídeo:** la acción que se debe realizar una vez que se alcanza el final del vídeo.
     * Detener: la lista de elementos multimedia se detiene una vez finalizado el vídeo
     * Bucle: el vídeo se recorrerá en bucle hasta que se omita manualmente.
     * Reproducir siguiente: el siguiente medio de la lista de elementos multimedia se inicia una vez que finaliza el vídeo actual.
 
 ## <a name="working-with-json-directly-advancedoptional"></a>Trabajar directamente con JSON (avanzado/opcional)
 
-La consola multimedia admite la introducción de JSON directamente en el símbolo del sistema de la consola en AltspaceVR.  JSON es el mecanismo interno con el que se habilitan las configuraciones del reproductor multimedia. Exponer la capacidad de establecer JSON directamente es algo que permite a los usuarios más avanzados crear sus propios flujos de trabajo que se ajusten a sus necesidades y familiaridad con JSON.  A continuación se muestra una breve descripción de la estructura JSON y el esquema por el que se valida el JSON. Para obtener descripciones más detalladas de las propiedades siguientes, consulte las secciones anteriores en las que se explica cómo configurar la consola multimedia.  Esta sección se centra principalmente en los ejemplos de esquema y la estructuración de los datos JSON.
+La consola multimedia admite la introducción de JSON directamente en el símbolo del sistema de la consola en AltspaceVR.  JSON es el mecanismo interno con el que se habilitan las configuraciones del reproductor multimedia. Exponer la capacidad de establecer JSON directamente es algo que permite a los usuarios más avanzados crear sus propios flujos de trabajo que se ajusten a sus necesidades y familiaridad con JSON.  A continuación se muestra una breve descripción de la estructura JSON y el esquema mediante el que se valida el JSON. Para obtener descripciones más detalladas de las propiedades siguientes, consulte las secciones anteriores en las que se explica cómo configurar la consola multimedia.  Esta sección se centra principalmente en los ejemplos de esquema y la estructuración de los datos JSON.
 
 ### <a name="global-media-settings"></a>Configuración de medios globales
 
@@ -126,7 +126,7 @@ La consola multimedia admite la introducción de JSON directamente en el símbol
 
 ### <a name="media-list"></a>Lista de elementos multimedia
 
-La lista de elementos multimedia es una propiedad establecida en la raíz de la estructura JSON, como roles y configuración de reproducción.  Se trata de una matriz simple que puede contener una de las siguientes estructuras de configuración de medios. (Consulte las descripciones de propiedades anteriores para obtener más información sobre lo que hace cada uno).
+La lista de elementos multimedia es una propiedad establecida en la raíz de la estructura JSON, como roles y reproducción Configuración.  Se trata de una matriz simple que puede contener una de las siguientes estructuras de configuración de medios. (Consulte las descripciones de propiedades anteriores para obtener más información sobre lo que hace cada uno).
 
 **Ejemplo de imagen**
 
@@ -195,7 +195,7 @@ La lista de elementos multimedia es una propiedad establecida en la raíz de la 
 }
 ```
 
-### <a name="schema"></a>Schema
+### <a name="schema"></a>Esquema
 
 ```json
 {

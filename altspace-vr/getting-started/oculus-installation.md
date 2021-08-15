@@ -1,67 +1,67 @@
 ---
-title: Instalación de Oculus Quest/Quest 2
-description: Obtenga instrucciones paso a paso sobre la instalación de AltspaceVR en dispositivos Oculus Quest desde la aplicación móvil o el almacén de Oculus.
+title: Instalación de Oculus Quest/Quest 2
+description: Obtenga instrucciones paso a paso sobre cómo instalar AltspaceVR en dispositivos Oculus Quest desde la aplicación móvil o la tienda Oculus.
 ms.date: 03/11/2021
 ms.topic: article
-keywords: Oculus, Oculus Quest, Quest 2, solución de problemas, micrófono, soporte técnico
-ms.openlocfilehash: 355b6720711868a75c280922deae4db00c132661
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: oculus, oculus, ticket 2, solución de problemas, micrófono, soporte técnico
+ms.openlocfilehash: 712e5c0c4057e94f3464b723943d6b26534cf116d4f0d6fd8855016cb90d67be
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213735"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127769"
 ---
-# <a name="oculus-questquest-2-installation"></a>Instalación de Oculus Quest/Quest 2
+# <a name="oculus-questquest-2-installation"></a>Instalación de Oculus Quest/Quest 2
 
 > [!IMPORTANT]
-> Asegúrese de que ha configurado la búsqueda de Oculus antes de instalar AltspaceVR. **[Consulte Oculus support-cómo configure My Oculus Quest cascos?](https://support.oculus.com/855551644803876/#faq_525406631321134)** para obtener más información.
+> Asegúrese de que ha configurado Oculus Quest antes de instalar AltspaceVR. **[Consulte Soporte técnico de Oculus: Cómo configurar el casco de Oculus Quest.](https://support.oculus.com/855551644803876/#faq_525406631321134)** para obtener más detalles.
 
-## <a name="oculus-store-from-the-mobile-app"></a>Tienda Oculus (desde la aplicación móvil)
+## <a name="oculus-store-from-the-mobile-app"></a>Oculus Store (desde la aplicación móvil)
 
-Para instalar AltspaceVR desde la aplicación móvil de la tienda Oculus:
+Para instalar AltspaceVR desde la aplicación móvil Oculus Store:
 
 1. Abra la aplicación Oculus.
-2. [Abra AltspaceVR en el almacén de Oculus](https://www.oculus.com/experiences/quest/2133027990157329/).
-3. Seleccione **gratis** para agregar AltspaceVR a la biblioteca. 
-4. Cuando el botón gratis cambie a **instalar en Oculus Quest**, selecciónelo para poner en cola la aplicación para su instalación en el dispositivo.
-5. Una vez completado, el botón instalar en Oculus Quest pasará a **Start (iniciar**). 
-6. Seleccione **iniciar** para iniciar la aplicación y, a continuación, coloque el casco para comenzar.
+2. [Abra AltspaceVR en el almacén de Oculus.](https://www.oculus.com/experiences/quest/2133027990157329/)
+3. Seleccione **Gratis** para agregar AltspaceVR a la biblioteca. 
+4. Cuando el botón Gratis pasa a **Instalar en Oculus Quest,** selecciónelo para poner en cola la aplicación para su instalación en el dispositivo.
+5. Una vez completado, el botón Instalar en Oculus Quest pasará a **Iniciar.** 
+6. Seleccione **Iniciar** para iniciar la aplicación y, a continuación, ponerse el casco para comenzar.
 
-## <a name="oculus-store-from-the-oculus-quest"></a>Oculus Store (de Oculus Quest)
+## <a name="oculus-store-from-the-oculus-quest"></a>Oculus Store (from the Oculus Quest)
 
-Si va a instalar desde el almacén de Oculus en Oculus Quest:
+Si va a instalar desde Oculus Store en Oculus Quest:
 
-1. Abra la barra de herramientas; para ello, presione el **botón Oculus** en el **controlador táctil derecho** con el icono Oculus.
-2. Seleccione **navegar** desde la barra de herramientas, que abrirá otra barra de herramientas: seleccione **tienda** en la segunda barra de herramientas.
-3. Vaya a la aplicación AltspaceVR en la tienda. Puede examinar la tienda o hacer clic en **Buscar** en la parte superior derecha del almacén y escribir "Altspace".
-4. En la página de la tienda AltspaceVR, seleccione el botón azul **gratis** para obtener e iniciar la instalación de la aplicación.
-5. Si la instalación no comienza inmediatamente, busque un botón instalar en la página y haga clic en él para iniciar la instalación.
-6. Una vez instalada la aplicación, puede seleccionar **abrir** en la página de la tienda para iniciarla. También puede iniciarlo en cualquier momento desde la biblioteca.
+1. Para abrir la barra de herramientas, **presione el botón Oculus** del controlador **táctil** derecho etiquetado con el icono Oculus.
+2. Seleccione **Navegar en** la barra de herramientas, que abrirá otra barra de herramientas; seleccione **Almacenar** en la segunda barra de herramientas.
+3. Vaya a la aplicación AltspaceVR en la tienda. Puede examinar la tienda o hacer clic en **Buscar** en la parte superior derecha de la tienda y escribir "Altspace".
+4. En la página AltspaceVR Store, seleccione el botón azul **Gratis** para obtener y empezar a instalar la aplicación.
+5. Si la instalación no se inicia inmediatamente, busque un botón Instalar en la página y haga clic en él para comenzar la instalación.
+6. Una vez instalada la aplicación, puede seleccionar **Abrir en** la página de la tienda para iniciarla. También puede iniciarla en cualquier momento desde la biblioteca.
 
 ## <a name="troubleshooting"></a>Solución de problemas
 
 **El permiso de micrófono está desactivado**
 
-AltspaceVR requiere que el permiso de micrófono se alterne en la posición "activada" para que los usuarios hablen.  Si los usuarios tienen el permiso activado "desactivado", pueden escribir, pero pueden experimentar los siguientes problemas:
+AltspaceVR requiere que el permiso de micrófono se alterne en la posición "on" para que los usuarios hablen.  Si los usuarios tienen el permiso desactivado, todavía pueden entrar, pero pueden experimentar los siguientes problemas:
 
 <!-- Missing image -->
 <!-- oculus-permissions-denymicrophone.png -->
     
 * El usuario no puede hablar en AltspaceVR.
 * El usuario puede hablar en otras aplicaciones.
-* El botón silenciar está deshabilitado en la posición "silenciada" en AltspaceVR.
+* El botón Silenciar está deshabilitado en la posición "muted" en AltspaceVR.
 
 **AltspaceVR no se iniciará tras la primera instalación**
 
-* Si la aplicación AltspaceVR está abierta pero no se está iniciando correctamente, salga de la aplicación e inténtelo de nuevo.
-* Si los errores de inicio continúan, desinstale completamente la aplicación de Oculus Quest y, a continuación, vuelva a instalarla.
-* Si los errores de inicio continúan, abra una incidencia de soporte técnico con nosotros para que podamos ayudarle.
+* Si la aplicación AltspaceVR está abierta pero no se inicia correctamente, salga de la aplicación e inténtelo de nuevo.
+* Si los errores de inicio continúan, desinstale completamente la aplicación de Oculus Quest y vuelva a instalarla.
+* Si los errores de inicio continúan, abra una vale de soporte técnico con nosotros para que podamos ayudarle más.
 
-**AltspaceVR no se iniciará después de la instalación de prueba de la aplicación.**
+**AltspaceVR no se iniciará después de la instalación local de la aplicación**
 
-* Desinstale completamente la aplicación transferida localmente e intente volver a instalarla de nuevo desde la tienda.
-* Si los errores de inicio continúan, abra una incidencia de soporte técnico con nosotros para que podamos ayudarle.
+* Desinstale completamente la aplicación de instalación local e intente volver a instalarla desde la tienda.
+* Si los errores de inicio continúan, abra una vale de soporte técnico con nosotros para que podamos ayudarle más.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulte también
 
-* [Compatibilidad con Oculus: uso del almacén de Oculus](https://support.oculus.com/414963819268125/)
+* [Compatibilidad con Oculus: uso de Oculus Store](https://support.oculus.com/414963819268125/)

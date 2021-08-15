@@ -3,17 +3,17 @@ title: Suscripción a nuestro boletín
 description: Regístrese en nuestro boletín semanal y manténgase al día con los próximos eventos, nuevas características e información de la comunidad.
 ms.date: 03/11/2021
 ms.topic: article
-keywords: procedencia
-ms.openlocfilehash: ebd0f2dd2166588ad0c4f2c04877400df4678e66
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+keywords: Boletín
+ms.openlocfilehash: e2d2c7a31c790cbf3b4b661add566de45385e279f42918249bd6b20a203aeb94
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213783"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119125090"
 ---
 # <a name="subscribing-to-our-newsletter"></a>Suscripción a nuestro boletín
 
-Nos complace saber que está interesado en recibir actualizaciones y noticias sobre AltspaceVR. Nuestro boletín semanal es el mejor lugar para conocer los próximos eventos y las nuevas características. Algunos de nuestros eventos en directo incluyen comedia, Q&una sesión y rendimientos musicales. ¿Ve un evento que le gustaría asistir? Seleccione el botón "interesado" en el correo electrónico y nos aseguraremos de enviarle un recordatorio antes de que se inicie el evento para que no se pierda.
+Nos complace saber que está interesado en recibir actualizaciones y noticias sobre AltspaceVR. Nuestro boletín semanal es el mejor lugar para conocer los próximos eventos y nuevas características. Algunos de nuestros eventos en directo incluyen stand up comedy, Q&sesiones A y presentaciones de música. ¿Ve un evento al que le gustaría participar? Seleccione el botón "Interesado" en nuestro correo electrónico y nos aseguraremos de enviarle un recordatorio antes de que se inicie el evento para que no se pierda.
 
 Estamos actualizando constantemente AltspaceVR y programando eventos solo para usted. 
 
