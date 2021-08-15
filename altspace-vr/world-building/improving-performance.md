@@ -13,7 +13,7 @@ ms.locfileid: "119126933"
 ---
 # <a name="improving-world-performance"></a>Mejora del rendimiento mundial
 
-Queremos que los usuarios tengan una buena experiencia, por lo que el rendimiento o el funcionamiento de su mundo en cascos de realidad virtual son enormemente importantes. Nuestro sistema World Building está diseñado para ofrecer un rendimiento excelente para los casos de uso más comunes. Si desea maximizar la presencia, esta guía es para usted. Altspace se utiliza para admitir todas las plataformas de hardware. Aunque animamos a World Builders a que presione los límites, en el caso de los mundos públicos, se recomienda dirigirse a Oculus Quest y a cualquier plataforma basada en PC como Windows Mixed Reality, Oculus Alsao s, o BIEN a TRAVÉS Vive. Para que sea sencillo, si el mundo se ejecuta bien en una misión, probablemente sea excelente para Altspace.
+Queremos que los usuarios tengan una buena experiencia, por lo que el rendimiento o el funcionamiento de su mundo en cascos de realidad virtual son enormemente importantes. Nuestro sistema World Building está diseñado para ofrecer un rendimiento excelente para los casos de uso más comunes. Si desea maximizar la presencia, esta guía es para usted. Altspace se utiliza para admitir todas las plataformas de hardware. Aunque animamos a World Builders a que presione los límites, en el caso de los mundos públicos, se recomienda dirigirse a Oculus Quest y a cualquier plataforma basada en PC como Windows Mixed Reality, Oculus Alsao s, o BIEN aLENT Vive. Para que sea sencillo, si el mundo se ejecuta bien en una misión, probablemente sea excelente para Altspace.
 
 ## <a name="tools-and-measurement"></a>Herramientas y medida
 
@@ -44,7 +44,7 @@ Cuando una persona comienza a viajar a su mundo (intenta entrar), primero cargar
 
 ## <a name="troubleshooting-and-tips"></a>Solución de problemas y sugerencias
 
-**La gente ve una "pantalla negra"** Normalmente, esto se debe a que el dispositivo se quedó sin memoria de vídeo. Intente reducir el número de objetos en el área problemática del mundo y reduzca el tamaño de elementos como Skybox o Template o el número de Fotos. Esos tipos tienden a tener el mayor impacto en el uso de memoria de vídeo.
+**La gente ve una "pantalla negra"** Normalmente, esto se debe a que el dispositivo se quedó sin memoria de vídeo. Intente reducir el número de objetos en el área problemática del mundo y reducir el tamaño de cosas como skybox o plantilla o el número de Fotos. Esos tipos tienden a tener el mayor impacto en el uso de memoria de vídeo.
 
 **Las personas se bloquean**
     * A veces, un kit o artefacto roto puede provocar esto.
@@ -64,5 +64,5 @@ Cuando una persona comienza a viajar a su mundo (intenta entrar), primero cargar
 
 **Agregar amigos como "administradores" para su mundo** Edite su mundo y agregue a sus amigos a la lista de administradores. Esto les permitirá ver la herramienta Diagnósticos para su mundo. Sin embargo, tenga cuidado, ya que también pueden editar otros aspectos de su mundo. 
 
-**La optimización del rendimiento es difícil, por lo que nuestra comunidad está ansiosa por ayudar.** Únase a [la discordia oficial altspaceVR](https://discordapp.com/invite/altspacevr) *Visite el canal #world creación de aplicaciones para obtener ayuda general con los mundos.
+**La optimización del rendimiento es difícil, por lo que nuestra comunidad está ansiosa por ayudar.** Únase a [la discordia oficial de AltspaceVR](https://discordapp.com/invite/altspacevr) *Visite el #world de creación de aplicaciones para obtener ayuda general con los mundos.
     * Visite los canales del SDK de MRE para obtener ayuda específica con ayuda más técnica y relacionada con el uploader de Unity (plantillas y kits personalizados).

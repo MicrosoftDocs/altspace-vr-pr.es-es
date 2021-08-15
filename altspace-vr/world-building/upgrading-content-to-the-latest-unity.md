@@ -22,7 +22,7 @@ Aunque este cambio a 2020.3.9 no ha afectado al contenido generado por el usuari
 > [!NOTE]
 > Si usa regularmente contenido que es propiedad de otra persona y que se ha compartido con usted, póngase en contacto con el propietario del kit o el mundo y asegúrese de que planea actualizar su contenido.
 
-> Si es creador de contenido y tiene preguntas o necesita ayuda, póngase en contacto con nuestro equipo de soporte técnico para obtener ayuda: altvr.com/support
+> Si es un creador de contenido y tiene preguntas o necesita ayuda, póngase en contacto con nuestro equipo de soporte técnico para obtener ayuda: altvr.com/support
 
 ## <a name="testing-your-spi-content"></a>Prueba del contenido de SPI
 
@@ -69,7 +69,7 @@ Uploader 0.9 se empaqueta de forma diferente a las versiones anteriores del uplo
 
 6. **INSTALL THE UPLOADER** : use la herramienta de características de MR para seleccionar el proyecto de Unity y agregue la característica AltspaceVR Uploader (bajo el encabezado AltspaceVR). Siga las instrucciones de la herramienta.
 
-En macOS, descargue manualmente la [](https://dev.azure.com/aipmr/MixedReality-Unity-Packages/_packaging?_a=package&feed=Unity-packages&package=com.microsoft.altspacevr_uploader&protocolType=Npm&version=0.9.0&view=versions)versión más reciente del Registro e instálela desde el administrador de paquetes del editor de Unity (Windows > Administrador de paquetes > + > Add package from tarball).
+En macOS, descargue manualmente la [](https://dev.azure.com/aipmr/MixedReality-Unity-Packages/_packaging?_a=package&feed=Unity-packages&package=com.microsoft.altspacevr_uploader&protocolType=Npm&version=0.9.0&view=versions)versión más reciente del Registro e instálla desde el administrador de paquetes del editor de Unity (Windows > Administrador de paquetes > + > Agregar paquete desde tarball).
 
 Una vez que el paquete termine de importarse, la conocida ventana Uploader debe estar disponible en el elemento de menú AltspaceVR.
 
@@ -77,7 +77,7 @@ Una vez que el paquete termine de importarse, la conocida ventana Uploader debe 
 
 1. Si tiene problemas de controlador o entrada en el casco de WinMR, asegúrese de que está situado en la cabeza para interactuar correctamente con el sensor de presencia. Se trata de un problema conocido y Microsoft está trabajando activamente para resolverlo.
 
-2. Compruebe la compatibilidad de los cascos y la compilación de la tienda. Si usa un casco WinMR, por ejemplo, asegúrese de que la compilación altspaceVR se adquirió a través de Windows Store.
+2. Compruebe la compatibilidad de los cascos y la compilación de la tienda. Si usa un casco winMR, por ejemplo, asegúrese de que la compilación altspaceVR se adquirió a través de Windows Store.
 
 3. Si durante las pruebas detecta que el contenido solo aparece en un ojo en modo VR, es probable que los sombreadores personalizados que use no admitan la representación SPI. Deberá elegir otro sombreador o seguir la guía de actualización [de SPI](https://docs.unity3d.com/Manual/SinglePassInstancing.html) de Unity para editar manualmente el sombreador y agregar compatibilidad.
 
@@ -85,4 +85,4 @@ Una vez que el paquete termine de importarse, la conocida ventana Uploader debe 
     1. Descargue e instale OpenXR para Windows Mixed Reality desde el Microsoft Store.
         1. Abrir la Portal de realidad mixta aplicación
         2. En la esquina inferior izquierda de la aplicación, seleccione "Ver más".
-        3. En el menú que aparece, seleccione Configurar OpenXR. Si lo hace, se iniciará Windows Store desde donde puede instalar el entorno de ejecución. Si este elemento de menú no aparece, es posible que OpenXR ya esté instalado en el equipo.
+        3. En el menú que aparece, seleccione Configurar OpenXR. Esto hará que la Windows Store se inicie desde donde puede instalar el runtime. Si este elemento de menú no aparece, es posible que OpenXR ya esté instalado en el equipo.

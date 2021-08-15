@@ -27,7 +27,7 @@ Al silenciar a los asistentes, puede limitar los sonidos de distraer y mantener 
 
 ### <a name="message-all"></a>Todos los mensajes
 
-Los hosts pueden enviar un mensaje a todos los asistentes presentes. Use cualquiera de nuestras notas rápidas o escriba una original. Una vez enviado, todos recibirán el mensaje como un mensaje emergente.
+Los hosts pueden enviar un mensaje a todos los asistentes presentes. Use cualquiera de nuestras notas rápidas o escriba una original. Una vez enviado, todos los usuarios recibirán el mensaje como un mensaje emergente.
 
 ### <a name="amplify-my-voice"></a>Ampliar mi voz
 
@@ -35,10 +35,10 @@ Los hosts pueden ampliar sus micrófonos para asegurarse de que todos los usuari
 
 ### <a name="stage-blocking-onoff"></a>Bloqueo de fase (on/off)
 
-Decida cuándo y dónde pueden ponerse de pie los asistentes. Elija entre seleccionar los destacados, turnar la presentación o invitar a todos los usuarios en el escenario para una party de grupo.
+Decida cuándo y dónde pueden ponerse de pie los asistentes. Elija entre seleccionar los focos de atención, turnar la presentación o invitar a todos los usuarios al escenario para una party de grupo.
 
 > [!IMPORTANT]
-> No todos los mundos contienen un bloqueador de fases, por lo que debe elegir las plantillas de evento con sensatez. Familiarícese con nuestras plantillas de eventos en eventos de prueba antes de crear el evento oficial.
+> No todos los mundos contienen un bloqueador de fases, por lo que debe elegir las plantillas de evento de forma inteligente. Familiarícese con nuestras plantillas de eventos en eventos de prueba antes de crear el evento oficial.
 
 ![Menú Herramientas de host expandido para mostrar las opciones disponibles con el bloqueador de fases de alternancia resaltado](images/host-tools-img-02.png)
 
@@ -54,16 +54,16 @@ La pestaña Invitados permite realizar un seguimiento de los invitados, moderado
 
 ### <a name="moderation-tools"></a>Herramientas de moderación
 
-Como host de eventos, usted es responsable de administrar la experiencia de otros usuarios. Para hacerlo de forma eficaz, necesita herramientas de moderación sólidas. Como host de un evento, puede silenciar a los usuarios con interrupciones, activar los separadores de reglas del evento (temporalmente o durante el evento) e incluso asignar el rol Moderator a otros usuarios para obtener ayuda para administrar la audiencia.
+Como host de eventos, usted es responsable de administrar la experiencia de otros usuarios. Para hacerlo de forma eficaz, necesita herramientas de moderación sólidas. Como host de un evento, puede silenciar a los usuarios con interrupciones, activar los separadores de reglas del evento (temporalmente o durante el evento) e incluso asignar el rol De moderador a otros usuarios para obtener ayuda para administrar la audiencia.
 
 ![Panel host abierto con la pestaña participación resaltada](images/host-tools-img-04.png)
 
 ## <a name="audience-participation-panel"></a>Panel de participación del público
 
-El Panel de participación está diseñado para ayudarle a administrar la interacción y la participación de su audiencia. Aquí puede activar la opción "Permitir aumentos de mano" para desbloquear la participación del público. En los eventos de FrontRow, debe estar en el aire para activarlo; de lo contrario, este botón aparecerá como atenuado. Cuando la función "Permitir elevaciones de mano" está en funcionamiento, aparece un botón "Elevar mano" en la sección inferior derecha del campo de vista de los invitados. Cuando un invitado selecciona este botón, su nombre y nombre de usuario aparecerán en el Panel de participación. 
+El Panel de participación está diseñado para ayudarle a administrar la interacción y la participación de su audiencia. Aquí puede activar la opción "Permitir aumentos de mano" para desbloquear la participación del público. En los eventos de FrontRow, debe estar en el aire para activarlo; de lo contrario, este botón aparecerá como atenuado. Cuando la función "Permitir elevaciones de mano" está en funcionamiento, aparece un botón "Elevar mano" en la sección inferior derecha del campo de vista de los invitados. Cuando un invitado selecciona este botón, su nombre y nombre de usuario se abren en el Panel de participación. 
 
 Desde aquí puede llamarlos, megámelos, silenciarlos, descartarlos y, si el evento es un evento de front-row, colocarlos "En el aire" para reflejarlos en varias salas. Para ayudarle a realizar un seguimiento, el panel de participación se encenderá incluso en rojo cuando haya invitados a la espera de que se le llame, y también le permitirá saber cuánto tiempo ha estado esperando cada uno de los invitados.
  
 ![Panel de participación del público abierto con la mano alta resaltada](images/host-tools-img-05.png)
 
-¿Se siente desasistido por probarlo todo? Estupendo. Vaya y a stretch those host al aire.
+¿Se siente desasistido por probarlo todo? Estupendo. Vaya hacia delante y a stretch those host- and-stretch

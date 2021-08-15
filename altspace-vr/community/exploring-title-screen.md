@@ -15,9 +15,9 @@ ms.locfileid: "119125310"
 
 AltspaceVR Title Screen es el punto de partida principal para explorar la plataforma. Desde aquí, puede hacer cosas como iniciar sesión, explorar el menú principal, escribir un evento con un código, personalizar el avatar y mucho más. A continuación se muestra información general sobre la pantalla de título y sus funciones. 
 
-## <a name="tutorial-features--login"></a>Tutorial Features & login 
+## <a name="tutorial-features--login"></a>Características del tutorial & inicio de sesión 
 
-Si es la primera vez que inicia AltspaceVR, iniciará el recorrido como usuario invitado. Un usuario invitado es una identidad temporal que se concede para permitirle explorar a su propio ritmo antes de iniciar sesión en su cuenta altspaceVR. Para los nuevos usuarios de realidad virtual que quieran practicar los conceptos básicos antes de saltar a la acción, pruebe nuestros [tutoriales.](../tutorials/host-tools-overview.md) Puede omitir el tutorial e iniciar sesión si se siente cómodo saltando directamente a AltspaceVR. 
+Si es la primera vez que inicia AltspaceVR, iniciará el recorrido como usuario invitado. Un usuario invitado es una identidad temporal que se concede para permitirle explorar a su propio ritmo antes de iniciar sesión en su cuenta altspaceVR. Para los nuevos usuarios de REALIDAD virtual que quieran practicar los conceptos básicos antes de saltar a la acción, pruebe nuestros [tutoriales.](../tutorials/host-tools-overview.md) Puede omitir el tutorial e iniciar sesión si se siente cómodo saltando directamente a AltspaceVR. 
 
 ![Pantalla del tutorial en modo 2D en PC](images/title-screen-01.png)
 
@@ -41,7 +41,7 @@ En AltspaceVr Entry Codes (Códigos de entrada altspaceVR) hay códigos alfanum�
 
 ![Página de eventos con código de entrada y opciones de uso compartido](images/title-screen-05.png)
 
-Si tiene el código para el evento al que le gustaría asistir, indícoslo en la pantalla de título y teleporte directamente a su destino.  
+Si tiene el código para el evento al que le gustaría asistir, inscrátelo en la pantalla de título y teleporte directamente a su destino.  
 
 ![Pantalla de título con el panel Escribir código de evento resaltado](images/title-screen-06.png)
 

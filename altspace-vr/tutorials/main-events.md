@@ -13,7 +13,7 @@ ms.locfileid: "119126299"
 ---
 # <a name="main-events-and-maximizing-event-visibility"></a>Eventos principales y maximización de la visibilidad de los eventos
 
-La creación y la atraigación de un público para el evento puede ser una gran preocupación, pero no se preocupe. Aquí encontrará información general sobre el proceso de anuncio y promoción del calendario, para que pueda maximizar la visibilidad del evento.
+La creación y la atraigación de un público para el evento puede ser muy acodador, pero no se preocupe. Aquí encontrará información general sobre el proceso de anuncio y promoción del calendario, para que pueda maximizar la visibilidad del evento.
 
 Con los eventos, tiene tres opciones en lo que respecta a la visibilidad en el calendario:
 
@@ -31,7 +31,7 @@ La pestaña "Todos" es la lista total de todos los eventos públicos en Altspace
 
 ## <a name="how-can-my-event-become-a-main-event"></a>¿Cómo puede mi evento convertirse en un evento principal?
 
-Durante el proceso de creación de eventos, puede seleccionar "Agregar como evento principal" y agregar automáticamente la designación. Si el evento cumple los requisitos de idoneidad, se agregará al calendario como evento principal inmediatamente. El objetivo principal de los requisitos de elegibilidad es ayudar a garantizar que tanto el host como el evento se configuren correctamente.
+Durante el proceso de creación de eventos, puede seleccionar "Agregar como evento principal" y agregar automáticamente la designación. Si el evento cumple los requisitos de elegibilidad, se agregará al calendario como evento principal inmediatamente. El objetivo principal de los requisitos de elegibilidad es ayudar a garantizar que tanto el host como el evento se configuren correctamente.
 
 ## <a name="what-are-the-eligibility-requirements-for-main-events"></a>¿Cuáles son los requisitos de idoneidad para Main Events?
 
@@ -41,7 +41,7 @@ Durante el proceso de creación de eventos, puede seleccionar "Agregar como even
 * La cuenta AltspaceVR del creador o host debe tener una antigüedad mínima de una semana (siete días).
 * El creador o host debe haber hospedado al menos un (1) evento público anterior.
 * El creador o host debe estar bien con AltspaceVR promocionando su evento a través de cualquiera o todos los métodos pertinentes (redes sociales, boletín, eventos de Oculus, y así sucesivamente.
-* Si se considera que un evento no es de alto rendimiento, que contiene contenido inadecuado o que infringe nuestros estándares o términos de servicio de Community, el host debe seguir las solicitudes o ediciones emitidas por el personal de AltspaceVR para mantener la designación del evento principal.
+* Si se considera que un evento no es de rendimiento, que contiene contenido inadecuado o que infringe nuestras normas o términos de servicio de Community, el host debe seguir las solicitudes o ediciones emitidas por el personal de AltspaceVR para mantener la designación del evento principal.
 * El mundo de origen debe pasar la comprobación de diagnóstico: (se permiten todas las métricas de las tablas GOOD y OKAY. Las métricas de la tabla BAD no lo son).
 
 | Diagnostic | Bueno (pasará) | Correcto (pasará) | Bad (se producirá un error) |
@@ -80,7 +80,7 @@ Sí, absolutamente. Nuestras fuentes de redes sociales y el boletín semanal seg
 
 Hay algunas cosas que se recomiendan al crear el evento para ayudar a aumentar las posibilidades de que se descumenten en el calendario de eventos & que se selecciona para la promoción:
 
-1. Uso del título para pique people's people's people's people'
+1. Use su título para pique people's hasta las curiosidades de los demás
     * Ser específico. Hable con los intereses de las personas. Ser invitacional.
     * Por ejemplo: "Chat de partido" es menos atractivo que "partido de reloj de finales DESION"
 2. Escribir una descripción breve pero informativa

@@ -20,7 +20,7 @@ Esta guía le ayudará a crear y compartir su primer Altspace World.
 ## <a name="creating"></a>Creating
 
 1. Regístrese (de forma gratuita, si aún no lo ha hecho) para obtener su cuenta altspaceVR y complete el tutorial en la aplicación AltspaceVR.
-2. Abra el menú y vaya a **Worlds > My Worlds (Mis mundos):**
+2. Abra el menú y vaya a **Worlds > My Worlds**(Mis mundos):
 
 ![Mis mundos abiertos en el menú AltspaceVR](images/world-building-img-01.png)
 
@@ -32,7 +32,7 @@ Esta guía le ayudará a crear y compartir su primer Altspace World.
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-Create-a-Label-Using-the-World-Editor/player]
 
-Enhorabuena. Ha creado su primera experiencia de realidad virtual social multijugador altspace World. Jugar con el Editor del mundo, empezando por kits que contienen objetos que se pueden colocar y manipular.
+Enhorabuena. Ha creado su primera experiencia de realidad virtual social multijugador altspace World. Moverse por el Editor del mundo, empezando por kits que contienen objetos que se pueden colocar y manipular.
 
 ## <a name="sharing"></a>Uso compartido
 
@@ -46,7 +46,7 @@ Enhorabuena. Ha creado su primera experiencia de realidad virtual social multiju
 ![Información de mis mundos con el botón portal resaltado ](images/world-building-img-04.png)
  ![ Nuevo portal con avatar](images/world-building-img-05.png)
 
-4. Espere a que los usuarios usen el portal para unirse a su entidad y, cuando esté listo, vuelva a seleccionar el portal para llevar la entidad a su mundo:
+4. Espere a que los usuarios usen el portal para unirse a su grupo y, cuando esté listo, vuelva a seleccionar el portal para llevar la entidad a su mundo:
 
 ![Nueva entidad que se ejecuta en el mundo de la realidad virtual](images/world-building-img-06.png)
 

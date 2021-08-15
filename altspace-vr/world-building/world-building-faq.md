@@ -14,7 +14,7 @@ ms.locfileid: "119126751"
 # <a name="world-building-help"></a>Ayuda para la creación mundial
 
 1. **¿Qué es un mundo? ¿Qué es un universo?**
-Un altspace "World" es un lugar virtual en el que los usuarios pueden unirse y pasar el rato. Un "universo" es una colección de mundos. Por ejemplo, el universo "Star Universe" podría contener los mundos "Missooine" y "Coruscant".
+Un altspace "World" es un lugar virtual en el que los usuarios pueden unirse y pasar el rato. Un "Universo" es una colección de mundos. Por ejemplo, el universo "Star Universe" podría contener los mundos "Clonooine" y "Coruscant".
 
 2. **¿Cómo comenzar?**
 Hemos previsto sus necesidades y hemos creado esta guía.

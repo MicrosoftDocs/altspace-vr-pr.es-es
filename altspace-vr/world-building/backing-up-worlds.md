@@ -57,7 +57,7 @@ No hay ningún límite en el número de copias de seguridad y tener más copias 
 
 ## <a name="troubleshooting"></a>Solución de problemas
 
-**Ayuda. He restaurado accidentalmente una copia de seguridad y mi trabajo ha desaparecido,** no se preocupe. Creamos automáticamente una nueva copia de seguridad antes de restaurar la anterior. Busque uno con un nombre que comience por **Auto** con la marca de tiempo correcta y restáurelo (por ejemplo, **Auto 2019-01-14T08:23:33-08:00**).  Si eso no funciona, envíe un [Support Request](https://help.altvr.com/hc/requests/new)
+**Ayuda. He restaurado accidentalmente una copia de seguridad y mi trabajo ha desaparecido,** no se preocupe. Creamos automáticamente una nueva copia de seguridad antes de restaurar la anterior. Busque uno con un nombre que comience por **Auto** con la marca de tiempo correcta y restáurelo (por ejemplo, **Auto 2019-01-14T08:23:33-08:00**).  Si eso no funciona, envíe [un](https://help.altvr.com/hc/requests/new) Support Request
 
 **He restaurado una copia de seguridad y faltan algunos objetos** Si alguna fuera fotos, ¿se eliminaron esas fotos? No se pueden restaurar las fotos eliminadas por motivos de privacidad. Enviar una [Support Request](https://help.altvr.com/hc/requests/new) para que podamos investigar
 

@@ -38,5 +38,5 @@ El programa acceso anticipado le proporciona acceso a las características más 
 
 * No tengo una capacidad determinada
     * ¿Ha reiniciado Altspace? Las capacidades se cargan al iniciar Altspace por primera vez
-    * ¿Es la versión más reciente de Altspace? Abra el menú para Configuración > Acerca de la comprobación. Confirme con un administrador en El campo si es necesario.
+    * ¿Es la versión más reciente de Altspace? Abra el menú para Configuración > acerca de la comprobación. Confirme con un administrador en El campo si es necesario.
     * Algunas capacidades solo están disponibles para los administradores y otras solo están disponibles en determinados lugares. Por ejemplo, puede tener capacidades especiales en su hogar, pero no en un mundo público. Confirme con un administrador si debe tener una capacidad determinada en ese contexto.

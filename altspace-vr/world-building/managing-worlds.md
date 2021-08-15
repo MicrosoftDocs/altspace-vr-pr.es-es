@@ -1,6 +1,6 @@
 ---
 title: Administración de mundos
-description: Aprenda a crear, administrar y promover sus mundos AltspaceVR, así como a generar su propio universo personalizado.
+description: Aprenda a crear, administrar y promover sus mundos altspaceVR, así como a generar su propio universo personalizado.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: mundos, características
@@ -21,7 +21,7 @@ ms.locfileid: "119125650"
 
 ![Mundos abiertos en la vista web AltspaceVR con el panel Minería seleccionado](images/manage-worlds-img-01.png)
 
-2. Debería ver el hogar y el universo predeterminado. Un universo es una colección de mundos. Facilita la organización de todos los mundos increíbles que va a crear. Elija el universo predeterminado y, a continuación, **seleccione Crear mundo:**
+2. Debería ver su hogar y su universo predeterminado. Un universo es una colección de mundos. Facilita la organización de todos los mundos increíbles que va a crear. Elija el universo predeterminado y, a continuación, **seleccione Crear mundo:**
 
 ![Panel universo con el mundo seleccionado](images/manage-worlds-img-02.png)
 
@@ -30,7 +30,7 @@ ms.locfileid: "119125650"
 
 ![Creación de un panel de mundo abierto con campos de entrada](images/manage-worlds-img-03.png)
 
-5. ¡Enhorabundo por su nuevo mundo! Puede elegir **Entrar ahora para** iniciar Altspace o compartir el vínculo a esta página con sus amigos. En VR, puede encontrarlo en Worlds > My Worlds (Mis mundos). No hay ningún límite en el número de mundos que puede crear.
+5. ¡Enhorabundo por su nuevo mundo! Puede elegir **Entrar ahora para** iniciar Altspace o compartir el vínculo a esta página con sus amigos. En VR, puede encontrarlo en Worlds > My Worlds (Mundos > mis mundos). No hay ningún límite en el número de mundos que puede crear.
 
 ![Mundo iniciado en realidad virtual](images/manage-worlds-img-04.png)
 
@@ -38,7 +38,7 @@ ms.locfileid: "119125650"
 
 * **Mundos privados:** active **la casilla privada** si desea cierta privacidad. Puede permitir que los usuarios de la lista se unan agregándolos al campo In VR > Allow List (Lista de permitidos).
 * **Promoción:** puede insertar widgets desde sitios de redes sociales para mostrarlos en la página web de su mundo; esto no los agrega a su en VR World.
-* **Instrucciones:** este mensaje se muestra a las personas cada vez que entran
+* **Instrucciones:** este mensaje se muestra a las personas cada vez que entran.
 * **Mundos no publicados:** ocultar el mundo de los mundos > popular y buscar
 * **Importar desde el** mundo: puede importar desde otro de sus mundos.
 * **Buscar:** agregue etiquetas para que el mundo sea más fácil de buscar.
