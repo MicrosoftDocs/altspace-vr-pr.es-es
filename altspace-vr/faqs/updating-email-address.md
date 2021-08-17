@@ -1,5 +1,5 @@
 ---
-title: Cómo Actualizar mi información personal?
+title: Cómo actualizar mi información personal?
 description: Aprenda a actualizar la información personal y la dirección de correo electrónico en su cuenta de AltspaceVR o a presentar un problema de soporte técnico.
 ms.date: 02/10/2021
 ms.topic: article
@@ -11,9 +11,9 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119127953"
 ---
-# <a name="how-do-i-update-my-personal-information"></a>Cómo Actualizar mi información personal?
+# <a name="how-do-i-update-my-personal-information"></a>Cómo actualizar mi información personal?
 
-Somos conscientes de que se cometen errores y es posible que necesite un cambio en su nombre o nombre de usuario. Abra una [solicitud de soporte técnico](https://help.altvr.com/hc/requests/new) con el equipo de Community AltspaceVR. Aplicaremos el cambio en su cuenta lo antes posible.
+Somos conscientes de que se cometen errores y es posible que necesite un cambio en su nombre o nombre de usuario. Abra una [solicitud de soporte](https://help.altvr.com/hc/requests/new) técnico con el equipo de Community AltspaceVR. Aplicaremos el cambio en su cuenta lo antes posible.
 
 > [!IMPORTANT]
 > AltspaceVR se reserva el derecho de denegar los cambios de nombre si infringen los estándares de Community o si hay solicitudes excesivas en una cuenta determinada.

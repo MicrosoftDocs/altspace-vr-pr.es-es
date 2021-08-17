@@ -15,11 +15,11 @@ ms.locfileid: "119126800"
 
 Skybox es una manera de crear un **fondo** para su mundo que hace que la experiencia sea más envolvente. Hay diferentes tipos de skyboxes, pero actualmente se **admiten equirectangulares.** Este es un ejemplo tomado con una cámara 360 (más ejemplo [aquí):](http://moments.mankindforward.com/) 
 
-![Vista equirectangular de 360 de una sala de estar](images/custom-skyboxes-img-01.jpeg)
+![360 vista equirectangular de una sala de estar](images/custom-skyboxes-img-01.jpeg)
 
 También puede usar el [uploader de Unity,](world-building-toolkit-getting-started.md) pero este enfoque es más sencillo.
 
-1. Vaya a [Worlds > Skyboxes](https://account.altvr.com/skyboxes) y presione el **botón Crear** de la derecha.
+1. Vaya a [Worlds > Skyboxes](https://account.altvr.com/skyboxes) y presione el **botón** Crear a la derecha.
 
 ![Página del sitio web de Worlds abierta en el panel skyboxes](images/custom-skyboxes-img-02.png)
 
@@ -45,7 +45,7 @@ También puede usar el [uploader de Unity,](world-building-toolkit-getting-start
 **No encuentro una foto 360**
     * Noé es una buena fuente (cambie los filtros para buscar los creative commons).
     * ¡Tómese la suya propia! Hemos tenido éxito con las cámaras de Ricoh. 
-**El cielo tiene un aspecto de grano o bloque** Es posible que tenga que encontrar una imagen de mayor resolución. Normalmente, alrededor de 2-5 MB y ~5000 px x 2000 px
+**El cielo tiene un aspecto de grano o bloque** Es posible que deba encontrar una imagen de mayor resolución. Normalmente, alrededor de 2-5 MB y ~5000 px x 2000 px
 
 **¡Esto daña la velocidad de fotogramas de mi mundo!**
 La imagen probablemente sea demasiado grande. Algunos skyboxes generados pueden ser de 8 k. Normalmente vienen con versiones de 2k compatibles con dispositivos móviles: úsese eso.

@@ -19,13 +19,13 @@ ms.locfileid: "119127868"
 
 | Mano izquierda | Mano derecha |
 |---|---|
-| Desplazamiento y desplazamiento a la izquierda | Desplazamiento o giro a la derecha |
+| Botón de posición izquierdo: mover/desplazar | Botón de posición derecho: Girar/desplazarse |
 | X: acción | A: acción |
 | Y- Teleport | B- Teleport |
 | Menú: abrir el menú AltspaceVR | Oculus: abrir OculusHome |
 | Control izquierdo: agarrar el objeto con la mano izquierda | Control derecho: agarrar el objeto con la mano derecha |
 | Desencadenador izquierdo: activar/ejecutar | Desencadenador derecho: activar |
-| Hacer clic en el icono de posición izquierdo: restablecer HMD y altitud |  |
+| Clic en el botón de posición izquierdo: restablecer HMD y altitud |  |
 
 ## <a name="hand-gestures"></a>Gestos con la mano
 
@@ -33,7 +33,7 @@ ms.locfileid: "119127868"
 |---|---|
 | En reposo | Posición predeterminada |
 | Dedo índice de punto | Botón De control mantenido |
-| Pulgares arriba | Botones de & de control mantenidos |
+| Pulgares arriba | Control de & botones de desencadenador mantenidos |
 | Puño | Botones de control, desencadenador y A/X mantenidos |
 
 ## <a name="managing-permissions"></a>Administración de permisos

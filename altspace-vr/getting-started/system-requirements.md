@@ -3,7 +3,7 @@ title: Requisitos mínimos del sistema
 description: Manténgase al día con los requisitos más recientes del sistema para AltspaceVR en pantallas montadas en la cabeza, Oculus Dimensional y dispositivos DE LAV Vive.
 ms.date: 06/03/2021
 ms.topic: article
-keywords: requisitos, pantallas montadas en la cabeza, oculus locución, número de teléfono, modo windows 2d
+keywords: requisitos, pantallas montadas en la cabeza, oculus, así como el modo windows 2d
 ms.openlocfilehash: 7783d2c6e1acbbc48c4b0ca63d26c58c107f48559fc9d0fe7d88156a1d6762f9
 ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
@@ -20,15 +20,15 @@ Se recomiendan los perfiles mínimos del sistema siguientes para obtener la expe
 * [Oculus Quest](oculus-installation.md)
 * [Windows Mixed Reality](wmr-installation.md)
 
-## <a name="oculus-rift-cv1-windows-only"></a>Oculus Cv1 (solo Windows)
+## <a name="oculus-rift-cv1-windows-only"></a>Oculus Dimensional CV1 (Windows solo)
 
 * NVIDIA GTX 960 o superior 
 * Intel i3-6100/AMD FX4350 o superior 
 * Más de 8 GB de RAM 
 * Salida de vídeo compatible con HDMI 1.3 
-* Windows 8 o posterior 
+* Windows 8 o más reciente 
 
-## <a name="htc-vive-windows-only"></a>ASÍNs Vive (solo Windows)
+## <a name="htc-vive-windows-only"></a>SEIÁn (solo Windows)
 
 * NVIDIA GeForce® GTX 970, AMD Radeon™ R9 290 equivalente o mejor
 * Intel® i5-4590, AMD FX 8350 equivalente o mejor   

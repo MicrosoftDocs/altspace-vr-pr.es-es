@@ -13,14 +13,14 @@ ms.locfileid: "119127351"
 ---
 # <a name="recovering-deleted-events"></a>Recuperación de eventos eliminados
 
-Se han registrado accidentes. Eso es la vida. Pero puede resultar frustrante perder todo un evento a un error de clic ineficble. Si ha eliminado accidentalmente o accidentalmente uno de los eventos, no se preocupe. Esta guía ofrece instrucciones paso a paso sobre el proceso de recuperación de eventos.
+Se han registrado accidentes. Eso es la vida. Pero puede resultar frustrante perder un evento completo a un error de clic ineficble. Si ha eliminado accidentalmente o accidentalmente uno de los eventos, no se preocupe. Esta guía ofrece instrucciones paso a paso sobre el proceso de recuperación de eventos.
 
 1. Para empezar, primero debe iniciar sesión en su cuenta en el sitio web de AltspaceVR.
 2. Vaya a la **pestaña Eventos.**
 3. Verá una pestaña **Mis eventos eliminados** recientemente. Selecciónelo.
 4. Seleccione un evento y seleccione **Establecer en borrador** (*Solo los eventos eliminados en los últimos 30 días se rellenarán en esta pestaña).
 
-![El sitio web de AltspaceVR se abre con el panel de eventos seleccionado y la pestaña Eventos eliminados recientemente resaltada](images/recovering-deleted-events.png)
+![El sitio web de AltspaceVR se abre con el panel de eventos seleccionado y la pestaña De eventos eliminados recientemente resaltada](images/recovering-deleted-events.png)
 
 5. Solo los propietarios & los administradores pueden ver los detalles de un evento eliminado. Todos los demás verán una página de error 404 si van al vínculo directo.
 6. Una vez que haya **establecido en Borrador,** puede realizar cambios en el evento.

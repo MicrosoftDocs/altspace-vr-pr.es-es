@@ -17,14 +17,14 @@ ms.locfileid: "119127477"
 
 Para configurar Windows Mixed Reality desde el Microsoft Store:
 1. Complete el [proceso de instalación de WMR](https://docs.microsoft.com/windows/mixed-reality/enthusiast-guide/set-up-windows-mixed-reality) en el equipo.
-2. Conectar el casco en el equipo & abrir Portal de realidad mixta.
-3. Active los controladores de movimiento, pero aún no se ponga el casco.
-4. Espere a que Windows Mixed Reality la página principal cargue & que los controladores sean visibles.
+2. Conectar el casco al equipo & abrir Portal de realidad mixta.
+3. Encienda los controladores de movimiento, pero aún no se ponga el casco.
+4. Espere a que el Windows Mixed Reality principal cargue & que los controladores sean visibles.
 
 A continuación, para ejecutar AltspaceVR:
 1. [Obtenga AltspaceVR en el Microsoft Store](https://www.microsoft.com/p/altspacevr/9nvr7mn2fchq).
-2. Abra el menú Inicio y escriba **AltspaceVR** en el cuadro de búsqueda.
-3. Identifique la aplicación AltspaceVR en los resultados de búsqueda y haga clic para iniciarla.
+2. Abra el menú Inicio y escriba **AltspaceVR en** el cuadro de búsqueda.
+3. Identifique la aplicación AltspaceVR en los resultados de la búsqueda y haga clic para iniciarla.
 
 ## <a name="steam"></a>Vapor
 
@@ -33,10 +33,10 @@ Para configurar Windows Mixed Reality para SteamVR:
 2. [Instale Windows Mixed Reality para SteamVR.](http://store.steampowered.com/app/719950/Windows_Mixed_Reality_SteamVR_preview/)
 
 A continuación, para ejecutar AltspaceVR:
-1. Conectar el casco al equipo y active los controladores de movimiento.
-2. Una vez Windows Mixed Reality se haya cargado el dispositivo principal y los controladores estén visibles, abra la aplicación Dete en el escritorio.
+1. Conectar el casco al equipo y encienda los controladores de movimiento.
+2. Una vez que Windows Mixed Reality la página principal y los controladores estén visibles, abra la aplicación Dete en el escritorio.
 3. [Instale AltspaceVR.](https://store.steampowered.com/app/407060/AltspaceVR/)
-4. Use la aplicación Dete para iniciar AltspaceVR desde la biblioteca de Steam.
+4. Use la aplicación Steam para iniciar AltspaceVR desde la biblioteca de Steam.
 
 > [!NOTE]
 > Para iniciar juegos de SteamVR sin quitarse el casco, use la aplicación de escritorio (Iniciar **> Desktop)** para ver e interactuar con el escritorio del equipo dentro de Windows Mixed Reality.

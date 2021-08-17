@@ -16,5 +16,5 @@ ms.locfileid: "119125381"
 Los amigos no permiten a los amigos crear mundos por sí solos. Estas son algunas maneras de obtener ayuda:
 
 * Busque en este [Knowledge Base](../index.yml) y examine la [sección world-building](world-editor-getting-started.md), en particular. Cree una cuenta (haga clic en "Iniciar sesión" en la parte superior derecha y, a continuación, en "Registrarse") y siga esta sección para recibir alertas cuando se publiquen nuevos artículos.
-* Únase a [la discordia de World Builders.](https://discordapp.com/invite/altspacevr) La mayoría de los creadores del mundo y algunos ingenieros de Altspace se pueden quedar aquí. Pruebe a hacer preguntas en el #help web.
-* Únase a [la discordia del SDK de MRE.](https://discord.gg/xyBcQec) Para desarrolladores de mundo más avanzados que usan nuestro Kit de desarrollo de software (SDK) de programación y las herramientas de Unity. 
+* Únase a [World Builders Discord](https://discordapp.com/invite/altspacevr). La mayoría de los creadores del mundo y algunos ingenieros de Altspace se pueden quedar aquí. Pruebe a hacer preguntas en el #help web.
+* Únase a [MRE SDK Discord](https://discord.gg/xyBcQec). Para creadores de mundo más avanzados que usan nuestro Kit de desarrollo de software (SDK) de programación y las herramientas de Unity. 

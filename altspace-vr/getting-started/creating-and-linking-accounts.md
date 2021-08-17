@@ -24,7 +24,7 @@ Si ha creado una cuenta con MSA y no tiene una contraseña altspaceVR, inicie se
 
 ## <a name="how-to-create-an-account-in-vr"></a>Creación de una cuenta en VR
 
-Creación de una cuenta con un inicio de sesión de Microsoft:
+Creación de la cuenta con un inicio de sesión de Microsoft:
 
 1. Empiece por descargar la compilación en directo de AltspaceVR desde la biblioteca o la tienda de aplicaciones de REALIDAD virtual. <br>*Si ya tiene la aplicación, asegúrese de que tiene instaladas las actualizaciones más recientes.*
 2. Inicie la aplicación y vaya al botón "Iniciar sesión" en el lado izquierdo.
@@ -36,9 +36,9 @@ Creación de una cuenta con un inicio de sesión de Microsoft:
 9. Una vez que haya completado el proceso de vinculación de cuenta, se le pedirá que rellene el nombre para mostrar y el nombre de usuario.
 10. Seleccione "Registrar".
 
-## <a name="how-to-create-an-account-in-2d-mode"></a>Creación de una cuenta en modo 2D
+## <a name="how-to-create-an-account-in-2d-mode"></a>Cómo crear una cuenta en modo 2D
 
-Creación de una cuenta con un inicio de sesión de Microsoft:
+Creación de la cuenta con un inicio de sesión de Microsoft:
 
 1. Empiece por [descargar la compilación en directo de AltspaceVR](https://altvr.com/getaltspacevr) desde la biblioteca o la tienda de aplicaciones que prefiera. <br>*Si ya tiene la aplicación, asegúrese de que tiene instaladas las actualizaciones más recientes.*
 2. Inicie la aplicación.
@@ -55,7 +55,7 @@ Vinculación con el modo 2D en pc:
 
 1. Asegúrese de que tiene instaladas las actualizaciones más recientes e inicie AltspaceVR.
 2. Inicie AltspaceVR y asegúrese de que ha iniciado sesión con su cuenta de AltspaceVR clásica. Si se le pide que inicie sesión cuando se inicie AltspaceVR, seleccione el botón "Iniciar sesión" y, a continuación, el vínculo "Iniciar sesión con una cuenta altspaceVR".
-2. En la pantalla título, seleccione la pestaña "Cuenta" en el lado derecho. Si la cuenta no está vinculada, el estado de la cuenta debe ser "Cuenta de Altspace clásica".
+2. En la pantalla de título, seleccione la pestaña "Cuenta" en el lado derecho. Si la cuenta no está vinculada, el estado de la cuenta debe ser "Cuenta de Altspace clásica".
 3. Seleccione "Vincular cuenta Microsoft". Compruebe que se muestra el nombre de usuario correcto y, a continuación, seleccione el botón "Vincular".
 4. Se abrirá una ventana independiente, en la que se le pedirá que seleccione la cuenta Microsoft que desea vincular. Seleccione una cuenta Microsoft personal, no una que esté asociada a una cuenta de trabajo o educativa.
 5. Siga las instrucciones de vinculación. Una vez que haya completado el proceso de vinculación de cuenta, verá que las credenciales de la cuenta se han actualizado en la sección "Cuenta" del menú. El estado debe ser "Microsoft Home Account (MSA)" (Cuenta principal de Microsoft [MSA]).
@@ -64,7 +64,7 @@ Vinculación con el modo VR en el casco:
 
 1. Asegúrese de que tiene instaladas las actualizaciones más recientes e inicie AltspaceVR.
 2. Inicie AltspaceVR y asegúrese de que ha iniciado sesión con su cuenta de AltspaceVR clásica. Si se le pide que inicie sesión cuando se inicie AltspaceVR, seleccione el botón "Iniciar sesión" y, a continuación, el vínculo "Iniciar sesión con una cuenta altspaceVR".
-2. En la pantalla título, seleccione la pestaña "Cuenta" en el lado derecho. Si la cuenta no está vinculada, el estado de la cuenta debe ser "Cuenta de Altspace clásica".
+2. En la pantalla de título, seleccione la pestaña "Cuenta" en el lado derecho. Si la cuenta no está vinculada, el estado de la cuenta debe ser "Cuenta de Altspace clásica".
 4. Seleccione "Vincular cuenta Microsoft". Compruebe que se muestra el nombre de usuario correcto y, a continuación, seleccione el botón "Vincular".
 4. Aparecerá una pantalla independiente que le pedirá que active el dispositivo a través de un código único, que deberá copiar.
 5. Cambie a la pantalla del explorador del equipo y vaya a https://www.microsoft.com/devicelogin
@@ -84,7 +84,7 @@ Sugerencias para solución de problemas:
 
 **¿Qué nombre verán otros usuarios?**
 
-El "nombre para mostrar" es lo que verán otros usuarios sobre su avatar. El "nombre de usuario" se mostrará en la pestaña de amigos del menú para las personas que le han agregado como un amigo. Tanto el nombre para mostrar como el nombre de usuario estarán visibles en la etiqueta de nombre del avatar.
+El "nombre para mostrar" es lo que otros usuarios verán encima de su avatar. El "nombre de usuario" se mostrará en la pestaña de amigos del menú para las personas que le han agregado como un amigo. Tanto el nombre para mostrar como el nombre de usuario estarán visibles en la etiqueta de nombre del avatar.
 
 **¿Mi nombre para mostrar debe ser único?**
  
@@ -97,7 +97,7 @@ No, el nombre de usuario puede compartir el mismo nombre para mostrar que otros.
 
 **¿Cómo puedo cambiar mi nombre de usuario o nombre para mostrar?**
 
-Para cambiar **el** nombre de usuario o el nombre para mostrar, inicie sesión en altvr.com, seleccione el icono de perfil en la parte superior derecha, Perfil de usuario, Editar y actualice su nombre de usuario o nombre para mostrar. 
+Para cambiar el nombre **de** usuario o el nombre para mostrar, inicie sesión en altvr.com, seleccione el icono de perfil en la parte superior derecha, Perfil de usuario, Editar y actualice su nombre de usuario o nombre para mostrar. 
 
 *Nota: Solo podrá cambiar el nombre de usuario una vez. En cualquier momento posterior, tendrá que enviar una vale de soporte técnico.*
 
@@ -119,7 +119,7 @@ Sí, hemos redecorado un poco. Ahora puede administrar su cuenta para cambiar & 
 
 **¿Ya tengo una cuenta Microsoft?**
 
-Es posible que ya tenga una cuenta Microsoft. ¿Se puede Minecraft, jugar en xbox, suscribirse a Office 365 o usar de otro modo cualquier otro producto o servicio de Microsoft con regularidad? Si es así, probablemente ya tenga un inicio de sesión de Microsoft. Puede comprobar si el correo electrónico ya está asociado a una MSA [existente aquí.](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)
+Es posible que ya tenga una cuenta Microsoft. ¿Se puede Minecraft, jugar en xbox, suscribirse a Office 365 o usar otros productos o servicios de Microsoft con regularidad? Si es así, probablemente ya tenga un inicio de sesión de Microsoft. Puede comprobar si el correo electrónico ya está asociado a una MSA [existente aquí.](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1610764342&rver=7.0.6738.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index&lc=1033&id=292666&lw=1&fl=easi2)
 
 **¿Esto significa que tengo que crear una nueva dirección de correo electrónico con Outlook?**
 
@@ -157,4 +157,4 @@ No hay ningún cambio en nuestros [términos de servicio](../community/terms-of-
 * [Ayuda para cuando no se puede iniciar sesión](https://support.microsoft.com//account-billing/when-you-can-t-sign-in-to-your-microsoft-account-475c9b5c-8c25-49f1-9c2d-c64b7072e735)
 * [Restablecimiento de la contraseña de MSA](https://support.microsoft.com//account-billing/how-to-reset-your-microsoft-account-password-eff4f067-5042-c1a3-fe72-b04d60556c37)
 * [Mantener la cuenta Microsoft segura](https://support.microsoft.com//account-billing/how-to-help-keep-your-microsoft-account-safe-and-secure-628538c2-7006-33bb-5ef4-c917657362b9)
-* [Controles y cuentas secundarias y familiares](https://account.microsoft.com/family/about?refd=www.microsoft.com&ru=https:%2F%2Faccount.microsoft.com%2Ffamily%3Frefd%3Dwww.microsoft.com)
+* [Cuentas y controles secundarios y familiares](https://account.microsoft.com/family/about?refd=www.microsoft.com&ru=https:%2F%2Faccount.microsoft.com%2Ffamily%3Frefd%3Dwww.microsoft.com)

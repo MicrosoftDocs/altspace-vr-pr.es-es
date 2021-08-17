@@ -13,7 +13,7 @@ ms.locfileid: "119127902"
 ---
 # <a name="using-a-gamepad-in-altspacevr"></a>Uso de un Gamepad en AltspaceVR
 
-AltspaceVR tiene compatibilidad integrada con el controlador para juegos Windows y reconoce automáticamente Xbox 360 controladores. Los controles vr se asignan al Xbox 360, incluido el sistema de teleportación, el control de cursor del mouse y el desplazamiento de página. A continuación encontrará una lista completa de los controles y la asignación de acciones.
+AltspaceVR tiene compatibilidad integrada con el controlador de juegos Windows y reconoce automáticamente Xbox 360 controladores. Los controles vr se asignan al Xbox 360, incluido el sistema de teleportación, el control de cursor del mouse y el desplazamiento de página. A continuación encontrará una lista completa de los controles y la asignación de acciones.
 
 ## <a name="gamepad-controls"></a>Controles de Gamepad
 

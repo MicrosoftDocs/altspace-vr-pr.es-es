@@ -1,6 +1,6 @@
 ---
-title: Ayuda para la creación mundial
-description: Manténgase al día con las preguntas más frecuentes y las soluciones más recientes para la creación mundial en AltspaceVR.
+title: Ayuda de creación mundial
+description: Manténgase al día con las últimas preguntas más frecuentes y soluciones para la creación mundial en AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: ayuda
@@ -11,7 +11,7 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119126751"
 ---
-# <a name="world-building-help"></a>Ayuda para la creación mundial
+# <a name="world-building-help"></a>Ayuda de creación mundial
 
 1. **¿Qué es un mundo? ¿Qué es un universo?**
 Un altspace "World" es un lugar virtual en el que los usuarios pueden unirse y pasar el rato. Un "Universo" es una colección de mundos. Por ejemplo, el universo "Star Universe" podría contener los mundos "Clonooine" y "Coruscant".
@@ -22,8 +22,8 @@ Hemos previsto sus necesidades y hemos creado esta guía.
 3. **Cómo administrar mis mundos y universos?**
 Puede hacerlo en nuestro sitio web. Esta es una guía. 
 
-4. **¿Puedo hacer una copia de seguridad de mis mundos?**
+4. **¿Puedo realizar una copia de seguridad de mis mundos?**
 Sí, hay varias maneras, principalmente guardar copias de seguridad de restauración (actualmente denominadas instantáneas en el cliente).
 
-5. **¿Hay una característica Deshacer/Rehacer?**
+5. **¿Hay una característica deshacer o rehacer?**
 Estamos trabajando en ella.

@@ -15,16 +15,16 @@ ms.locfileid: "119126530"
 
 ## <a name="what-is-a-community-helper"></a>¿Qué es Community helper? 
 
-Community Los asistentes son miembros habituales de AltspaceVR que ofrecen su tiempo para compartir información, enseñar a otros usuarios y actuar como colaboradores de la comunidad. Están familiarizados con los distintos aspectos de AltspaceVR, como el hospedaje de eventos o la creación [](terms-of-service.md)mundial, y ejemplifican y mantienen nuestros estándares y términos de servicio de [Community.](community-standards.md) Aunque Community helpers no son personal ni administradores de AltspaceVR, son un gran grupo de personas que se comprometen a dar la bienvenida a nuevas personas, enseñar a otros sobre la cultura de AltspaceVR y convertir AltspaceVR en un lugar de bienvenida para todos.
+Community Los asistentes son miembros habituales de AltspaceVR que ofrecen su tiempo para compartir información, enseñar a otros usuarios y actuar como colaboradores de la comunidad. Están familiarizados con los distintos aspectos de AltspaceVR, como el hospedaje de eventos o la creación [](terms-of-service.md)mundial, y ejemplifican y mantienen nuestros estándares y términos de servicio de [Community.](community-standards.md) Aunque Community helpers no son personal ni administradores de AltspaceVR, son un gran grupo de personas que se comprometen a dar la bienvenida a nuevos usuarios, enseñar a otros sobre la cultura de AltspaceVR y convertir AltspaceVR en un lugar de bienvenida para todos.
 
-## <a name="how-do-i-find-a-community-helper"></a>Cómo encuentra un Community auxiliar de Community? 
+## <a name="how-do-i-find-a-community-helper"></a>Cómo encuentra un asistente Community aplicaciones? 
 Community Los asistentes están en todas partes en AltspaceVR. Para identificarlos, mantenga el puntero sobre un avatar y busque su etiqueta de nombre. Community Las etiquetas de nombre de los asistentes tienen un contorno verde y un distintivo de corazón verde. Dado que son voluntarias, Community asistentes pueden activar o desactivar su distintivo en cualquier momento para disfrutar también de AltspaceVR como altspacers normales.
 
 ## <a name="how-can-i-become-a-community-helper"></a>¿Cómo puedo convertirme en Community asistente? 
 
 Calificaciones: 
 
-Todos Community asistentes deben formar parte de AltspaceVR durante al menos tres meses (90 días) antes de solicitar el rol Community helper. Para aplicar a un Community, debe cumplir un mínimo de dos de tres calificaciones: 
+Todos Community asistentes deben formar parte de AltspaceVR durante al menos tres meses (90 días) antes de solicitar el rol Community asistente. Para aplicar para ser un Community de aplicaciones, debe cumplir un mínimo de dos de tres calificaciones: 
 
 1. Ha hospedado al menos tres eventos [principales](../tutorials/main-events.md) en el último mes (30 días). 
 2. Ha moderado al menos cinco [eventos principales](../tutorials/main-events.md) en los últimos tres meses (90 días). 
@@ -34,7 +34,7 @@ Todos Community asistentes deben formar parte de AltspaceVR durante al menos tre
 
 Como Community asistente debe cumplir o superar estas expectativas: 
 
-1. Siga y [asememe a Community estándares](community-standards.md) [y términos de servicio.](terms-of-service.md)
+1. Siga y [asememe a Community estándares](community-standards.md) y [términos de servicio.](terms-of-service.md)
 2. Ejemplifique un comportamiento que haga que AltspaceVR sea agradable, seguro y maduro.
 3. Servir como enlace entre la comunidad y el equipo de AltspaceVR:
     * Enseñar a otros usuarios, ser útil siempre que sea posible, responder preguntas de extraños altspacers en el mundo
@@ -52,8 +52,8 @@ Como Community asistente debe cumplir o superar estas expectativas:
 
 Sí... nuestro amor y la satisfacción idinos. Además:
 
-1. Vote-to-Suspend: como asistente de Community, tiene herramientas de seguridad adicionales para tomar medidas contra los andenes y los que infringen nuestros Community Estándares. Revise las reglas & responsabilidades para votar para suspender, [aquí](community-helper-guide.md).
-2. Acceso a un canal especial Community Helpers en el servidor oficial AltspaceVR Discord.
+1. Vote-to-Suspend: como asistente de Community, tiene herramientas de seguridad adicionales para tomar medidas contra los ánes y los que infringen nuestros estándares de Community. Revise las reglas & responsabilidades del voto para suspender, [aquí](community-helper-guide.md).
+2. Acceso a un canal Community Helpers especial en el servidor oficial AltspaceVR Discord.
 3. Acceso anticipado a determinados anuncios de la comunidad.
 
 ## <a name="other-considerations"></a>Otras consideraciones

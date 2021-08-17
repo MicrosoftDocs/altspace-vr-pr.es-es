@@ -13,7 +13,7 @@ ms.locfileid: "119127407"
 ---
 # <a name="using-the-interactables-spawner"></a>Uso del spawner Interactables
 
-Interactables Spawner permite colocar elementos interactuables en el evento, el mundo o el espacio de inicio. Esta característica forma parte actualmente de [nuestro](../world-building/early-access.md) Programa de acceso anticipado y no estará disponible a menos que haya participado en el menú principal.
+Interactables Spawner le permite colocar elementos interactables en el evento, el mundo o el espacio de inicio. Esta característica forma parte actualmente de [nuestro](../world-building/early-access.md) Programa de acceso anticipado y no estará disponible a menos que haya participado en el menú principal.
 
 > [!NOTE]
 > Aunque seguimos piloto de esta característica, tenga en cuenta que la generación de demasiados interactuables puede afectar al rendimiento de su entorno o evento. 
@@ -23,17 +23,17 @@ Interactables Spawner permite colocar elementos interactuables en el evento, el 
 Para convertir el objeto en un objeto interactable:
 
 1. Coloque el objeto en el espacio.
-2. A continuación, busque la entrada en la lista de objetos y seleccione el icono **de engranaje** junto a ella para abrir su configuración:
+2. A continuación, busque la entrada en la lista de objetos y seleccione el icono de **engranaje** junto a ella para abrir su configuración:
 
 ![Editor del mundo abierto con la lista de objetos resaltada](images/interactables-spawner-img-01.png)
 
-En la página de configuración encontrará una nueva casilla **"Object spawner"**(Generador de objetos), que se usa para convertirla en un objeto interactuable.
+En la página de configuración encontrará una nueva casilla **"Object spawner"**(Generador de objetos), que se usa para convertirla en un objeto que se puede interactuar.
 
 1. Active la casilla y seleccione **Confirmar**.
 2. Mientras está en modo de edición, puede desplazarse por la ubicación de generación del objeto en el espacio.
 3. **Salga del modo de edición** para habilitar la interacción de elementos.
 
-![Ventana actualizar artefacto abierta en la aplicación AltspaceVR](images/interactables-spawner-img-02.png)
+![Ventana Actualizar artefacto abierta en la aplicación AltspaceVR](images/interactables-spawner-img-02.png)
 
 ## <a name="other-customizations"></a>Otras personalizaciones
 
@@ -44,6 +44,6 @@ Después de **habilitar "Object spawner"** (Generador de objetos) al volver a la
 
 Es posible que los creadores del kit observen que los cambios en el kit mientras se ejecuta AltspaceVR no se realizarán hasta que reinicie AltspaceVR.
 
-Recientemente hemos agregado un botón en la pestaña **Moderador Configuración** llamada **Reload Worlds Kits (Volver** a cargar kits de mundos). Al hacer clic en este botón, (solo usted) volverá a entrar en el espacio y volverá a cargar todos los kits, lo que descargará solo las nuevas versiones de los kits que se han actualizado mientras estaba en AltspaceVR.
+Recientemente hemos agregado un botón en la pestaña **Moderador Configuración** llamada Reload Worlds Kits ( Volver a cargar kits **de mundos).** Al hacer clic en este botón, (solo usted) volverá a entrar en el espacio y volverá a cargar todos los kits, lo que descargará solo las nuevas versiones de los kits que se han actualizado mientras estaba en AltspaceVR.
 
 ![Panel de configuración moderado abierto en la aplicación AltspaceVR](images/interactables-spawner-img-03.png)

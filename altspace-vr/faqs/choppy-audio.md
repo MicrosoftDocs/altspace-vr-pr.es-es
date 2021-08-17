@@ -15,7 +15,7 @@ ms.locfileid: "119128217"
 
 Algunos usuarios han observado que, cuando otro avatar habla, el audio aparece como descuido o con abandonos normales. En otras instancias, otros usuarios pueden informar a los usuarios de que su propio audio está llegando a través de un sonido descuido o robótico.
 
-Lo primero que hay que intentar es volver a escribir siempre el espacio en el que se encuentra o incluso reiniciar AltspaceVR si se produce un error. Los problemas de audio no son comunes, pero cuando se producen suele ser una corrección sencilla. 
+Lo primero que hay que intentar es volver a escribir siempre el espacio en el que se encuentra o incluso reiniciar AltspaceVR si se produce un error. Los problemas de audio no son comunes, pero cuando se producen esto suele ser una solución fácil. 
 
 Si se produce un error, estas son otras cosas, puede investigar. 
 

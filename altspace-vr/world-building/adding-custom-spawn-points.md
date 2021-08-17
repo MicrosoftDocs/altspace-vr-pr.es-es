@@ -13,9 +13,9 @@ ms.locfileid: "119127269"
 ---
 # <a name="adding-custom-spawn-points"></a>Adición de puntos de generación personalizados
 
-Las personas que  entran en su mundo se generan o aparecen en el origen, la posición (0,0,0), cuando entran en su mundo. Sin embargo, puede agregar uno o varios puntos de generación si quiere, por ejemplo, hacer que las personas comiencen en la entrada a su casa. Si especifica varios puntos de generación, se elegirá uno aleatoriamente cada vez que alguien entre y no se incluya el origen. Puede administrar puntos de generación en cualquier mundo o evento en el que esté habilitado el Editor del mundo. Puede controlar dónde se generan las personas (posición) y a qué dirección se enfrentarán (rotación). Los puntos de generación solo estarán visibles en el modo de edición. 
+Las personas que  entren en su mundo aparecerán o aparecerán en el origen, la posición (0,0,0), cuando entren en su mundo. Sin embargo, puede agregar uno o varios puntos de generación si quiere, por ejemplo, hacer que las personas comiencen en la entrada a su casa. Si especifica varios puntos de generación, se elegirá uno aleatoriamente cada vez que alguien entre y no se incluya el origen. Puede administrar puntos de generación en cualquier mundo o evento en el que esté habilitado el Editor del mundo. Puede controlar dónde se generan las personas (posición) y a qué dirección se enfrentarán (rotación). Los puntos de generación solo estarán visibles en el modo de edición. 
 
-1. Vaya cerca del lugar donde desea que se desa generar la gente. Abra **World Editor > Basics (Conceptos básicos** de World Editor) y asegúrese de que la opción Rotación de **bloqueos** está activada. Seleccione **Punto de generación** para crear uno. Muévelo a la posición exacta que desee:
+1. Vaya cerca del lugar donde desea que se desa generar la gente. Abra **world Editor > Basics (Conceptos básicos** del Editor mundial) y asegúrese de que la opción Rotación de **bloqueos** está activada. Seleccione **Punto de generación** para crear uno. Muévelo a la posición exacta que desee:
 
 ![Ventana Conceptos básicos del editor del mundo abierta](images/spawn-points-img-01.png)
 
@@ -23,7 +23,7 @@ Las personas que  entran en su mundo se generan o aparecen en el origen, la posi
 
 ![Actualización de puntos de generación en la configuración del editor mundial](images/spawn-points-img-02.png)
 
-3. Volver a escribir el mundo a través **del menú > Configuración > general > volver a escribir espacio > volver a entrar**
+3. Volver a escribir el mundo a través **del menú > Configuración > General > volver a escribir espacio > volver a entrar**
 4. Debe generar en el nuevo punto de generación.
 5. Si desea que las personas se aleen en otra dirección, seleccione la configuración del punto de generación y establezca **Rotación > solo Y.** Intente establecer Y en 180 y X y Z en 0 (advertencia: X y Z están avanzados puede hacer que las personas se vuelvan mal). A **continuación, seleccione** Confirmar y vuelva a escribir el mundo. Esto debería generar que se enfrentase a la dirección opuesta. 
 
@@ -31,7 +31,7 @@ Las personas que  entran en su mundo se generan o aparecen en el origen, la posi
 
 **¿Las personas siguen generando en el origen?**
     * Asegúrese de que los puntos de generación están ligeramente por encima del suelo o la superficie. Si el punto de generación se superpone a otros objetos, las personas se generan en la ubicación predeterminada, el origen. Esto puede ocurrir si el punto de generación dentro de un objeto y la altura de la persona varía. 
-    * Pruebe a restablecer el mundo a través del **menú > Configuración > moderar > restablecer espacio**
+    * Pruebe a restablecer el mundo a través del **menú > Configuración > moderar > restablecer el espacio**
 
 **¿Tiene varios puntos de generación pero sigue generando en el mismo lugar?**
 Es posible que no tenga suerte, es aleatorio después de todo. Pruebe a volver a escribir al menos cinco veces antes de suponer que hay un error. 

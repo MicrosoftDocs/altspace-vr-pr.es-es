@@ -15,27 +15,27 @@ ms.locfileid: "119128099"
 
 En primer lugar, determine si AltspaceVR detecta el audio del micrófono. Para determinarlo, consulte si el icono de micrófono de la parte inferior izquierda de la vista parpadea cuando está hablando. Si el icono parpadea al hablar, el micrófono funciona. Si el icono es rojo, está silenciado. Seleccione el icono para silenciar o desenmuesar usted mismo.
 
-Si no ve el icono del micrófono parpadeando después de un desplazamiento, es posible que tenga que ajustar la configuración del micrófono en AltspaceVR, vaya a Menú / Configuración / Audio / Selección de entrada de audio. A continuación, use los botones de flecha para seleccionar el micrófono que le gustaría usar.
+Si no ve el icono de micrófono parpadeando después de un desplazamiento, es posible que tenga que ajustar la configuración del micrófono en AltspaceVR, vaya a Menú / Configuración / Audio / Selección de entrada de audio. A continuación, use los botones de flecha para seleccionar el micrófono que le gustaría usar.
  
 ## <a name="oculus-quest"></a>Oculus Quest 
 
 Asegúrese de conceder permisos para usar el audio micrófono al instalar AltspaceVR. Otra comprobación que puede hacer es buscar en: Menú / Configuración / Audio / Selección de entrada de audio y asegurarse de que está establecido en entrada de audio de Android (es decir, el micrófono predeterminado de La 1/2).
  
-## <a name="windows-mixed-reality-oculus-rift-htc-vive-or-2d-mode"></a>Windows Mixed Reality, Oculus Dimensional, USB Vive o modo 2D
+## <a name="windows-mixed-reality-oculus-rift-htc-vive-or-2d-mode"></a>Windows Mixed Reality, Oculus Dimensional, DIMENSIONAL Vive o modo 2D
 
 Asegúrese de que tiene la configuración correcta del micrófono en AltspaceVR: Menú / Configuración / Audio / Selección de entrada de audio. A continuación, use los botones de flecha para seleccionar el micrófono que le gustaría usar.
 
 Antes de iniciar AltspaceVR, asegúrese de que el micrófono adecuado esté establecido como el dispositivo de grabación predeterminado en Windows. Tanto Oculus Dimensional como DIMENSIONAL Vive tienen un micrófono integrado, si tiene otro micrófono conectado en AltspaceVR, es posible que esté intentando usar ese dispositivo.
  
 Para cambiar el dispositivo de grabación predeterminado en Windows:
-* Haga clic con el botón derecho en el icono del altavoz Windows seleccione **Playback Devices (Reproducir dispositivos).**
+* Haga clic con el botón derecho en el icono del altavoz Windows seleccione **Dispositivos de reproducción.**
 * Vaya a la **pestaña Grabación.**
 * Busque el micrófono que le gustaría usar. El micrófono de LARED Se etiquetará **como Micrófono -** Dispositivo de audio USB y el micrófono de sonido de Oculus se etiquetará como Micrófono - Audio de **sonido.**
 * Haga clic con el botón derecho en ese micrófono y seleccione **Establecer como dispositivo predeterminado.**
 * Después de reiniciar AltspaceVR, ahora se seleccionará el micrófono.
  
 Si después de seguir estos pasos sigue teniendo problemas, puede que le afecten otros problemas:
-* Si no Alt-Tab más de 30 segundos, AltspaceVR le mostrará automáticamente, puede deshabilitarlo mediante el método abreviado de teclado: barra espaciadora para desactivar o activar la exclusión mutua.
+* Si no Alt-Tab durante más de 30 segundos, AltspaceVR le mostrará automáticamente, puede deshabilitarlo mediante el método abreviado de teclado: barra espaciadora para desactivar o activar la exclusión mutua.
 * El sistema de audio AltspaceVR tiene un umbral de volumen que puede estar por debajo. Establezca los niveles de micrófono en max, establezca el micrófono más cerca de la voz y hable en el volumen normal.
 * Salga de VR e intente conectar el cable USB del casco a un puerto USB 3.0 alternativo. En nuestra experiencia, algunos puertos USB 3.0 provocan problemas.
 

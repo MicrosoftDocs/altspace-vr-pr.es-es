@@ -20,7 +20,7 @@ AltspaceVR Web Projector es una sólida solución de uso compartido de medios qu
 1. Debe usar un equipo PC o Mac para transmitir el explorador.
 2. La extensión de explorador necesaria es compatible actualmente con el explorador Edge. (Estamos trabajando para expandir esta lista).
 3. Aunque puede transmitir desde un equipo Mac, el proyector web aún no está disponible en el cliente AltspaceVR Mac.
-4. Si tiene todo configurado correctamente (ha iniciado sesión en la extensión del explorador o AltspaceVR con la misma cuenta, conectado o difundiendo con El proyector web en AltspaceVR) y sigue viendo una pantalla verde, WebProjector necesita el puerto TCP 443 abierto y el intervalo de puertos UDP 20000-20400.
+4. Si tiene todo configurado correctamente (ha iniciado sesión en la extensión del explorador/AltspaceVR con la misma cuenta, conectado o difundiendo con el proyector web en AltspaceVR) y sigue viendo una pantalla verde, WebProjector necesita el puerto TCP 443 abierto y el intervalo de puertos UDP 20000-20400.
 
 > [!NOTE]
 > Esta característica está diseñada principalmente para transmitir una pestaña del explorador de su elección. Si en su lugar intenta transmitir la aplicación de escritorio, el proyector web transmitirá todo el audio del equipo (incluido AltspaceVR), lo que puede dar lugar a eco o comentarios. Tendrá que silenciar AltspaceVR para evitar que esto suceda. Como alternativa, también puede usar un dispositivo independiente para ejecutar AltspaceVR mientras transmite desde el equipo.
@@ -47,10 +47,10 @@ Una vez que la extensión se haya descargado e instalado, estará listo para usa
 ## <a name="projecting-your-browser-in-world"></a>Proyección del explorador en el mundo
 
 1. Una vez que el explorador esté configurado para la proyección y haya iniciado la transmisión por secuencias a través de la extensión, abra AltspaceVR.
-2. Para configurar el proyector web en el entorno que prefiera, abra el Editor mundial > basics > Web Projector
+2. Para configurar el proyector web en el entorno que prefiera, abra el editor del mundo > basics > Web Projector
 3. Una vez colocado, puede usar los controles del Editor del mundo para cambiar el tamaño del proyector web. (También incluirá instrucciones, en pantalla).
 4. Seleccione el **botón Conectar** para empezar a transmitir el explorador Edge.
-5. No olvide hacer clic **en Difusión** para empezar a compartir con todos los invitados del espacio.
+5. Recuerde hacer clic **en Difusión** para empezar a compartir con todos los invitados del espacio.
 6. No olvide detener el **streaming.** La sesión terminará de completarse, pero hasta entonces seguirá proyectando en directo el explorador. Es mejor finalizar la sesión en cuanto haya terminado.
 
 ![Explorador proyectado en AltspaceVR world](images/web-project-img-01.png)
@@ -61,4 +61,4 @@ Una vez que la extensión se haya descargado e instalado, estará listo para usa
 > En este momento, los botones de control adicionales situados en la parte superior del proyector web aún no están en directo. Seguirán siendo grises y no se puede hacer clic en ellos. Esto no es un error, es por diseño (por ahora).
 
 > [!IMPORTANT]
-> DECLINACIÓN DE RESPONSABILIDAD: Nota: El uso del proyector web, al [](../community/terms-of-service.md) igual que todas las demás características de AltspaceVR, está sujeto a nuestros términos de servicio y nuestros [estándares de Community estándares](../community/community-standards.md). Por lo tanto, el proyector web no se puede usar para transmitir contenido que infracción de ninguno de los contratos. Si lo hace, altspaceVR realizará acciones de moderación. No se garantiza el acceso a Web Projector Open Beta y solo se puede conceder para una evaluación temporal. La longitud de la versión beta y la duración de la participación están a discreción del equipo de AltspaceVR. No es necesario usar la versión beta de Web Projector y la participación en la versión beta es puramente voluntaria. Se anima a los participantes a ofrecer comentarios sobre el proyector web que ayudarán a dar forma a la funcionalidad y facilidad de uso de la característica a medida que el desarrollo continúa. La versión beta del proyector web puede tener una funcionalidad limitada y puede estar sujeta a errores inesperados. Gracias, de antemano, por su participación.
+> DECLINACIÓN DE RESPONSABILIDADES: El uso del proyector web, al igual [](../community/terms-of-service.md) que todas las demás características de AltspaceVR, está sujeto a nuestros términos de servicio y nuestros [estándares de Community.](../community/community-standards.md) Por lo tanto, el proyector web no se puede usar para transmitir contenido que infracción de ninguno de los contratos. Si lo hace, altspaceVR realizará acciones de moderación. No se garantiza el acceso a Web Projector Open Beta y solo se puede conceder para una evaluación temporal. La longitud de la versión beta y la duración de la participación están a discreción del equipo de AltspaceVR. No es necesario usar la versión beta de Web Projector y la participación en la versión beta es puramente voluntaria. Se anima a los participantes a ofrecer comentarios sobre el proyector web que ayudarán a dar forma a la funcionalidad y facilidad de uso de la característica a medida que el desarrollo continúa. La versión beta del proyector web puede tener una funcionalidad limitada y puede estar sujeta a errores inesperados. Gracias, de antemano, por su participación.

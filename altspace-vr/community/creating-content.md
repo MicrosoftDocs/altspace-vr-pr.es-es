@@ -17,11 +17,11 @@ AltspaceVR es una excelente comunidad para aquellos que desean crear y compartir
 
 ## <a name="mre-mixed-reality-extension-sdk"></a>SDK de MRE (Mixed Reality extensión)
 
-Queremos admitir y hacer crecer nuestra comunidad de desarrolladores. Hemos creado varios recursos que esperamos que ayuden incluso a los desarrolladores principiantes a crear experiencias y aplicaciones web 3D para varios usuarios. 
+Queremos admitir y hacer crecer nuestra comunidad de desarrolladores. Hemos creado varios recursos que esperamos que ayuden incluso a desarrolladores principiantes a crear experiencias y aplicaciones web 3D para varios usuarios. 
 
 ## <a name="start-creating"></a>Empezar a crear
 
-Visite nuestra [página de Portal para desarrolladores AltspaceVR](https://developer.altvr.com/) para obtener más información sobre el SDK de MRE (Mixed Reality extension).
+Visite nuestra [página de Portal para desarrolladores AltspaceVR para](https://developer.altvr.com/) obtener más información sobre el SDK de MRE (Mixed Reality extensión).
 
 ## <a name="join-the-community"></a>Unirse a la comunidad
 

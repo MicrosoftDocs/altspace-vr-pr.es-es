@@ -13,11 +13,11 @@ ms.locfileid: "119125047"
 ---
 # <a name="community-standards"></a>Estándares de la comunidad
 
-AltspaceVR Community Standards es un conjunto de principios que permitirán a los miembros de la comunidad experimentar un entorno realmente increíble sin la amenaza de desfasamiento, receptación y hala, comportamiento lascivo o la presentación de contenido ofensivo. A continuación se aborda cada una de estas áreas y mucho más, y cuál es la expectativa de Microsoft del comportamiento del usuario al iniciar sesión en el servicio AltspaceVR o durante la publicación en páginas y foros de redes sociales administrados por Microsoft.
+AltspaceVR Community Standards es un conjunto de principios que permitirán a los miembros de la comunidad experimentar un entorno realmente increíble sin la amenaza de la degradación, el sentimiento, el agresor y el halago, el comportamiento lascivo o la presentación de contenido ofensivo. A continuación se aborda cada una de estas áreas y mucho más, y cuál es la expectativa de Microsoft del comportamiento del usuario al iniciar sesión en el servicio AltspaceVR o durante la publicación en páginas y foros de redes sociales administrados por Microsoft.
 
 ## <a name="defamation-and-intolerance"></a>Familiaridad y desconsolación
 
-AltspaceVR es una comunidad internacional de usuarios que proceden de muchos orígenes culturales diferentes. Cada miembro de la comunidad tiene su propio fondo individual, prácticas culturales, acentos y maníamos, estructura de las convicciones y motivos para estar en realidad virtual. Como comunidad enriquecida por este entorno multi cultural, no habrá tolerancia a la tolerancia a la tolerancia con respecto a la carrera, la nacionalidad, las convicciones educativas, las capacidades físicas o la orientación sexual de cualquier usuario. Cualquier lenguaje diseñado para desfasar o infieren a otro usuario dará lugar a una suspensión inmediata y la determinación de si la cuenta se cerrará permanentemente.
+AltspaceVR es una comunidad internacional de usuarios que proceden de muchos orígenes culturales diferentes. Cada miembro de la comunidad tiene su propio fondo individual, prácticas culturales, acentos y maníamos, estructura de las convicciones y motivos para estar en realidad virtual. Como comunidad enriquecida por este entorno multi cultural, no habrá tolerancia a la fanamor sobre la carrera, la nacionalidad, las convicciones educativas, las capacidades físicas o la orientación sexual de cualquier usuario. Cualquier lenguaje diseñado para desfasar o infieren a otro usuario dará lugar a una suspensión inmediata y la determinación de si la cuenta se cerrará permanentemente.
 
 ## <a name="harassment"></a>Acoso 
 
@@ -25,7 +25,7 @@ Una comunidad en buen estado se basa en la comprensión compartida de que todo e
 
 ## <a name="cyber-bullying-and-intimidation"></a>Cyber-Bullying e indestion
 
-Aunque Cyber-Bullying se considera un problema que afecta a las aficiones y precarga, lo incluymos como parte de los estándares de Community para dejar claro que cualquier forma de receptación contra otro usuario, ya sea en la plataforma AltspaceVR o en cualquier sitio de foro o redes sociales administrado por Microsoft, se considerará como insocuo para la suspensión o la terminación de la cuenta.
+Aunque Cyber-Bullying se considera un problema que afecta a las aficiones y precarga, lo incluymos como parte de los estándares de Community para dejar claro que cualquier forma de receptación contra otro usuario, ya sea en la plataforma AltspaceVR o en cualquier sitio de foro o redes sociales administrado por Microsoft, se considerará como un acto de suspensión o finalización de la cuenta.
 
 ## <a name="lewd-or-unwanted-advances"></a>Avances lascivos o no deseados
 
@@ -33,7 +33,7 @@ Somos conscientes de que habrá situaciones en las que dos adultos con consentim
 
 ## <a name="discovery-and-disclosure-of-personal-information"></a>Detección y divulgación de información personal
 
-Community Los miembros tienen derecho a un nivel razonable de privacidad en la plataforma AltspaceVR. No se permite el uso compartido de información personal sobre los usuarios compañeros sin su consentimiento, incluidos el sexo, la edad, el estado de la pareja, la carrera, las preferencias sexuales, los nombres de cuenta alternativos y la ubicación real más allá de lo que les proporcionan. La de descubrimiento de esta información y su uso para ponerse en contacto con la persona sin el consentimiento del miembro de la comunidad se considerará un comportamiento inadecuado y puede ser motivo de suspensión o finalización de la cuenta.
+Community Los miembros tienen derecho a un nivel razonable de privacidad en la plataforma AltspaceVR. No se permite el uso compartido de información personal sobre sus compañeros sin su consentimiento, incluidos el sexo, la mujer, la edad, el estado de la pareja, la carrera, las preferencias sexuales, los nombres de cuenta alternativos y la ubicación real más allá de lo que les proporcionan. La de descubrimiento de esta información y su uso para ponerse en contacto con la persona sin el consentimiento del miembro de la comunidad se considerará un comportamiento inadecuado y puede ser motivo de suspensión o finalización de la cuenta.
 
 ## <a name="impersonation-of-an-altspacevr-employee"></a>Suplantación de un empleado altspaceVR
 
@@ -45,7 +45,7 @@ Los eventos y/o mundos accesibles públicamente NO pueden contener, tal como det
 
 ## <a name="personal-space"></a>Espacio personal
 
-AltspaceVR es un entorno realmente único. La capacidad de la plataforma es la capacidad de comunicarse verbalmente con los compañeros de trabajo, pero también de interactuar con ellos no verbalmente a través de gestos corporales y el posicionamiento espacial del avatar. Al igual que con la interacción real, los usuarios de vr pueden sentirse incomodes en las redes sociales si los usuarios con los que interactúan infringen el espacio personal normal del mundo real. Esto puede incluir la proximidad de un avatar a otro, la colocación de manos, manos o manos capturadas con movimiento cerca de la cara del avatar, o incluso un enfoque de alta velocidad y el paso de un avatar a través de otro.  Los usuarios 2D deben ser conscientes de que los usuarios de vr experimentan estos aspectos de forma diferente. Si un usuario expresa incomodidad con un comportamiento determinado y la actividad continúa, esto se puede considerar incomodable y puede dar lugar a la suspensión o finalización de la cuenta.
+AltspaceVR es un entorno realmente único. La capacidad de la plataforma es la capacidad de comunicarse verbalmente con los compañeros de trabajo, pero también de interactuar con ellos no verbalmente a través de gestos corporales y el posicionamiento espacial del avatar. Al igual que con la interacción real, los usuarios de vr pueden sentirse incomodes en las redes sociales si los usuarios con los que interactúan infringen el espacio personal normal del mundo real. Esto puede incluir la proximidad de un avatar a otro, la colocación de manos, manos o manos capturadas con movimiento cerca de la cara del avatar, o incluso un enfoque de alta velocidad y el paso de un avatar a través de otro.  Los usuarios en 2D deben tener en cuenta que los usuarios de vr experimentan estos aspectos de forma diferente. Si un usuario expresa incomodidad con un comportamiento determinado y la actividad continúa, esto se puede considerar incomodable y puede dar lugar a la suspensión o finalización de la cuenta.
 
 <br>
 <hr>

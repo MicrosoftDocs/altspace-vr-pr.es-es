@@ -25,9 +25,9 @@ Las herramientas de host aparecen en la parte inferior derecha del campo de vist
 
 Al silenciar a los asistentes, puede limitar los sonidos de distraer y mantener las cosas bien y silenciosas en el espacio. La función mute dura tanto como un host lo permita, o cuando el host deje el espacio. Cuando un asistente entra en el espacio o intenta desenmuesar, los asistentes recibirán un mensaje en pantalla que les indica que el host los ha silenciado. Cuando el host se desmute, los asistentes recibirán un mensaje que les indica que también están inmutados.
 
-### <a name="message-all"></a>Todos los mensajes
+### <a name="message-all"></a>Mensaje todo
 
-Los hosts pueden enviar un mensaje a todos los asistentes presentes. Use cualquiera de nuestras notas rápidas o escriba una original. Una vez enviado, todos los usuarios recibirán el mensaje como un mensaje emergente.
+Los hosts pueden enviar un mensaje a todos los asistentes presentes. Use cualquiera de nuestras notas rápidas o escriba una original. Una vez enviado, todos recibirán el mensaje como un mensaje emergente.
 
 ### <a name="amplify-my-voice"></a>Ampliar mi voz
 
@@ -38,7 +38,7 @@ Los hosts pueden ampliar sus micrófonos para asegurarse de que todos los usuari
 Decida cuándo y dónde pueden ponerse de pie los asistentes. Elija entre seleccionar los focos de atención, turnar la presentación o invitar a todos los usuarios al escenario para una party de grupo.
 
 > [!IMPORTANT]
-> No todos los mundos contienen un bloqueador de fases, por lo que debe elegir las plantillas de evento de forma inteligente. Familiarícese con nuestras plantillas de eventos en eventos de prueba antes de crear el evento oficial.
+> No todos los mundos contienen un bloqueador de fases, por lo que debe elegir las plantillas de evento con sensatez. Familiarícese con nuestras plantillas de eventos en eventos de prueba antes de crear el evento oficial.
 
 ![Menú Herramientas de host expandido para mostrar las opciones disponibles con el bloqueador de fases de alternancia resaltado](images/host-tools-img-02.png)
 
@@ -50,7 +50,7 @@ Al hacer clic en el botón Panel host, se abrirán opciones más avanzadas para 
 
 ### <a name="guests-tab"></a>Pestaña Invitados
 
-La pestaña Invitados permite realizar un seguimiento de los invitados, moderadores y hosts del espacio. Se trata de una lista interactiva que proporciona un desglose de varias páginas de quién está en el evento. Al hacer clic en un invitado se le ofrece más opciones (el menú de hamburguesa) que le permiten silenciar y megáphone por persona.
+La pestaña Invitados permite realizar un seguimiento de los invitados, moderadores y hosts del espacio. Se trata de una lista interactiva que proporciona un desglose de varias páginas de quién está en el evento. Al hacer clic en un invitado, se le ofrece más opciones (el menú de hamburguesa) que le permiten silenciar y megáphone por persona.
 
 ### <a name="moderation-tools"></a>Herramientas de moderación
 

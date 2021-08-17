@@ -1,6 +1,6 @@
 ---
 title: Accesos directos del teclado
-description: Manténgase al día con todos los métodos abreviados de teclado y las acciones disponibles que admite la aplicación AltspaceVR.
+description: Manténgase al día con todos los métodos abreviados de teclado disponibles y las acciones que admite la aplicación AltspaceVR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: teclado, métodos abreviados
@@ -15,15 +15,15 @@ ms.locfileid: "119127885"
 
 | Clave | Acción |
 |---|---|
-| ESC | Abrir o cerrar menú principal |
+| ESC | Menú principal Abrir/Cerrar |
 | De 1 a 6 claves (por encima de qwerty) | Emojis |
 | CTRL + ALT + F5 | Volver a escribir espacio |
 | CTRL + ALT + R | Restablecer espacio |
-| CTRL + ALT + P | Desactivación o activación de la interfaz de usuario |
-| MAYÚS + ALT + B | Desactivar o activar el cursor |
-| Botón derecho del mouse + Rueda de desplazamiento del mouse | Acercar/alejar |
-| CTRL + ALT + T o barra espaciadora | Desactivar o activar la exclusión mutua |
-| CTRL + ALT + Barra espaciadora | Abra línea de comandos y escriba "ayuda" para las opciones. |
+| CTRL + ALT + P | Activar o desactivar la interfaz de usuario |
+| MAYÚS + ALT + B | Activar o desactivar el cursor |
+| Botón derecho del mouse + rueda de desplazamiento del mouse | Acercar/alejar |
+| CTRL + ALT + T o barra espaciadora | Activar o desactivar la exclusión mutua |
+| CTRL + ALT + barra espaciadora | Abra la línea de comandos y escriba "ayuda" para las opciones. |
 | CTRL + ALT + N | Jimmy Cam para el modo VR |
-| CTRL + ALT + K | Desactivar o activar la opción "Mute when AltspaceVR is idle" (Desactivar cuando AltspaceVR está inactivo) |
-| CTRL + ALT + X | Activar o desactivar el modo de edición del Editor del mundo |
+| CTRL + ALT + K | Activar o desactivar "Mute when AltspaceVR is idle" (Desactivar cuando AltspaceVR está inactivo) |
+| CTRL + ALT + X | Activar o desactivar el modo de edición del Editor mundial |

@@ -17,7 +17,7 @@ ms.locfileid: "119131852"
 
 ![Imagen de banner altspaceVR](images/vr-interactions.png)
 
-AltspaceVR es la plataforma líder para experiencias de realidad mixta en directo. AltspaceVR permite a los creadores, creadores, marcas y empresas crear fácilmente sus propios eventos virtuales. Esta aplicación social permite a personas de todo el mundo conectarse y colaborar en tiempo real con una verdadera sensación de presencia. Los avatares expresivos, el contacto con los ojos atractivo, el sonido espacial y los entornos virtuales envolventes permiten a las personas sentirse juntas incluso cuando se separan los océanos. Sentado en la intersección de la experiencia, el contenido y la comunidad, AltspaceVR es el lugar principal para los directos, conferencias, series de televisión, música, charlas tecnológicas, reuniones de equipo, colaboración remota y mucho más.  
+AltspaceVR es la plataforma líder para experiencias de realidad mixta en directo. AltspaceVR permite a los creadores, creadores, marcas y empresas crear fácilmente sus propios eventos virtuales. Esta aplicación social permite a personas de todo el mundo conectarse y colaborar en tiempo real con una verdadera sensación de presencia. Los avatares expresivos, el contacto con los ojos atractivo, el sonido espacial y los entornos virtuales envolventes permiten a las personas sentirse juntas incluso cuando se separan los océanos. Sentado en la intersección de la experiencia, el contenido y la comunidad, AltspaceVR es el lugar principal para los directos, conferencias, series de televisión, música, charlas tecnológicas, reuniones en equipo, colaboración remota, etc.  
 
 Actualmente, AltspaceVR permite que grupos grandes de individuos se copresente en un solo espacio.  [La tecnología FrontRow](faqs/scaling-audiences.md) permite escalar la audiencia a miles.
 
@@ -29,7 +29,7 @@ Esto es lo que AltspaceVR tiene que ofrecer para su experiencia de realidad virt
 
 ### <a name="public-events-calendar"></a>Calendario de eventos públicos
 
-AltspaceVR ofrece puntuaciones [de eventos en su calendario](https://account.altvr.com/events/main) en un momento dado. Estos eventos van desde encuentros insóptivos, como un servicio de reunión o un grupo, hasta eventos de aprendizaje, como sesiones sobre la cripto electrónico, la ciencia general, la escritura creadora, las redes empresariales, entre otros. En el entretenimiento, hay eventos de stand-up comedy, sesiones de happy hours, música en directo, música en directo, etc., todo ello en realidad virtual.
+AltspaceVR ofrece puntuaciones [de eventos en su calendario](https://account.altvr.com/events/main) en un momento dado. Estos eventos van desde encuentros insóptivos, como un servicio de reunión o un grupo, hasta eventos de aprendizaje, como sesiones sobre la cripto electrónico, la ciencia general, la escritura creadora, las redes empresariales, entre otros. En el entretenimiento, hay eventos de stand-up comedy, sesiones de happy hours, música en directo, música en directo, etc., todo ello en REALIDAD virtual.
 
 ### <a name="vr-worlds"></a>Mundos de realidad virtual
 
@@ -43,7 +43,7 @@ AltspaceVR ofrece varios [canales de contenido](https://account.altvr.com/channe
 
 AltspaceVR para empresas estará habilitado [para Microsoft Mesh.](/mesh/) Pronto podrá disfrutar de la presencia fotorealista en 3D y de experiencias multijugador espaciales. AltspaceVR se convertirá en una plataforma de realidad virtual empresarial para la colaboración, eventos corporativos y reuniones de participación de empleados.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 ¿Tiene eventos virtuales para traer al mundo? Inicie su recorrido aquí.
 > [!div class="nextstepaction"]

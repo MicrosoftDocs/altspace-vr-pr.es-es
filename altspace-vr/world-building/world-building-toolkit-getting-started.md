@@ -14,15 +14,15 @@ ms.locfileid: "119125413"
 # <a name="introducing-the-world-building-toolkit"></a>Presentación de world building Toolkit
 
 > [!NOTE]
-> The World Building Toolkit es un proyecto de la comunidad ejecutado por nuestro fantástico [amigo, Antonio Madden,](https://twitter.com/chigamesstudio)con el soporte técnico de nosotros. Si está interesado, únase al espacio oficial [AltspaceVR Discord](https://discordapp.com/invite/altspacevr) y visite el canal #world creación de aplicaciones. Actualmente tenemos una versión beta de prueba de Mac en este momento, [más detalles](https://altvr.com/altspacevr-mac)
+> The World Building Toolkit es un proyecto de la comunidad ejecutado por nuestro fantástico [amigo, Antonio Madden,](https://twitter.com/chigamesstudio)con el soporte técnico de nosotros. Si está interesado, únase al canal oficial [AltspaceVR Discord](https://discordapp.com/invite/altspacevr) y visite el canal #world creación. Actualmente tenemos una versión beta de prueba de Mac en este momento, [más detalles](https://altvr.com/altspacevr-mac)
 
-El uploader le permite usar una escena de Unity como plantilla para sus mundos. Puede traer una casa de Campo o su creación favorita desde Minecraft. Si puede importarlo en Unity, probablemente pueda acceder a Altspace de esta manera. Estos son algunos ejemplos [de Worlds.](https://account.altvr.com/worlds/1046572460192825569)
+El uploader le permite usar una escena de Unity como plantilla para sus mundos. Puede traer una casa de Campoo o su creación favorita desde Minecraft. Si puede importarlo en Unity, probablemente pueda acceder a Altspace de esta manera. Estos son algunos ejemplos [de Worlds.](https://account.altvr.com/worlds/1046572460192825569)
 
 ![Mundos de ejemplo](images/unity-uploader-img-01.png)
 
-## <a name="setup"></a>Configuración
+## <a name="setup"></a>Configurar
 
-1. Únase al [espacio oficial Desacepto de AltspaceVR](https://discordapp.com/invite/altspacevr) y visite el canal #world creación de aplicaciones: los amigos no permiten que los amigos compilen mundos por sí solos.
+1. Únase al [espacio oficial Desacepto de AltspaceVR](https://discordapp.com/invite/altspacevr) y visite el canal de creación #world: los amigos no permiten que los amigos compilen mundos por sí solos.
 2. Lea nuestra [guía de Tareas iniciales world-building](world-building-getting-started.md) para ver los aspectos básicos.
 3. [Instale Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) e instale **Unity 2020.3.9.** El uploader no funcionará a menos que coincida exactamente con esta versión. Necesitará una cuenta gratuita de Unity si no tiene una y elija **Personal,** ya que lo está haciendo por motivos de diversión. Durante la instalación, asegúrese de activar la opción **Compilaciones de Android** y de deshabilitar la actualización automática.
 4. [Descarga del uploader de Unity más reciente](upgrading-content-to-the-latest-unity.md#altspacevr-uploader-v090-upgrade-guide)
@@ -41,9 +41,9 @@ El uploader le permite usar una escena de Unity como plantilla para sus mundos. 
 4. Inicio de sesión con las credenciales de la cuenta de Altspace
 5. Seleccione **Cargar plantillas y,** a continuación, **Hola mundo plantilla.**
 6. Agregue un cubo a la escena y guárdelo.
-7. Active **Build for Windows?** (¿Compilar para Windows? y desactive Build for **Android?( ¿Compilar para Android?)**
+7. Marque **¿Compilar para Windows?** y desactive **Compilar para Android?**
 8. Haga clic en **Cargar**. En aproximadamente un minuto, debería **ver** Upload completo.
-9. Unirse **Hola mundo** iniciando Altspace y especificando desde menú **> Worlds > My Worlds**
+9. Unirse **Hola mundo** iniciando Altspace y especificando en Menú **> Mundos > Mis mundos**
 10. Restablecer el mundo desde el **menú > Configuración > moderar > restablecer espacio**
 11. Debería ver el cubo. Si lo hace rápidamente como en el vídeo anterior, puede ver los cambios en tan solo 10 segundos.
 
@@ -92,7 +92,7 @@ El uploader le permite usar una escena de Unity como plantilla para sus mundos. 
     * Pruebe con un nuevo proyecto.
     * Asegúrese de que la cuenta de Altspace está en buen estado.
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 * [Unity Learn](https://unity3d.com/learn)
 * [Foros de Unity](https://forum.unity.com)

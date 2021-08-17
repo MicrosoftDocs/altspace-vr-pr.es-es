@@ -43,7 +43,7 @@ Puede seleccionar en teleportador con el cursor (se le preguntará si está bien
 
 ## <a name="advanced-features"></a>Características avanzadas
 
-Si va a crear una conferencia, una conferencia o un evento más grande mediante Front Row con un mundo personalizado (por ejemplo, un mundo base, una plantilla de espacio de carga de Unity, Re-Import World), deberá configurar el teleportador en foundation world y NO en el evento real. Asegúrese de configurar el teleportador para que viaje al evento correcto (debe ser de la lista Recientes) en foundation world y, a continuación, Re-Import World en el evento para que los teleportadores se muestren en todos los espacios de eventos de front-row.
+Si va a crear una conferencia, una conferencia o un evento más grande mediante Front Row con un mundo personalizado (por ejemplo, un mundo base, una plantilla de espacio de carga de Unity, Re-Import World), deberá configurar el teleportador en foundation world y NO en el evento real. Asegúrese de configurar el teleportador para que viaje al evento correcto (debe estar en la lista Recientes) en foundation world y, a continuación, Re-Import World en el evento para que los teleportadores se muestren en todos los espacios de eventos de front-row.
 
 ## <a name="faqs"></a>Preguntas más frecuentes
 

@@ -1,5 +1,5 @@
 ---
-title: Desvinculación y Re-Linking cuenta Microsoft
+title: Desvinculación y Re-Linking su cuenta Microsoft
 description: Obtenga instrucciones paso a paso sobre cómo desvincular y volver a vincular la cuenta altspaceVR de su cuenta Microsoft.
 ms.date: 05/11/2021
 ms.topic: article
@@ -11,14 +11,14 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 08/11/2021
 ms.locfileid: "119121248"
 ---
-# <a name="unlinking-and-re-linking-your-microsoft-account"></a>Desvinculación y Re-Linking cuenta Microsoft
+# <a name="unlinking-and-re-linking-your-microsoft-account"></a>Desvinculación y Re-Linking su cuenta Microsoft
 
 Se recomienda encarecidamente vincular la cuenta altspaceVR con una cuenta Microsoft personal. Si necesita desenlazar las cuentas por cualquier motivo, aquí se muestra cómo hacerlo:
 
 ## <a name="how-to-unlink-your-altspacevr-and-microsoft-accounts"></a>Desvinculación de las cuentas AltspaceVR y Microsoft
 
 1. Vaya a altvr.com haga clic en "Iniciar sesión".
-2. Haga clic en "Iniciar sesión con Microsoft" e inicie sesión con la cuenta Microsoft vinculada a su cuenta altspaceVR.
+2. Haga clic en "Iniciar sesión con Microsoft" e inicie sesión con la cuenta microsoft vinculada a su cuenta altspaceVR.
 3. Una vez que haya iniciado sesión, haga clic en "Más" > "Perfil".
 4. Haga clic en "Desvincular cuenta" para realizar la acción de desvinculación.
 5. Ahora puede iniciar sesión en una cuenta de AltspaceVR clásica o volver a vincularla a otra cuenta de Microsoft.
@@ -28,7 +28,7 @@ Se recomienda encarecidamente vincular la cuenta altspaceVR con una cuenta Micro
 ## <a name="how-to-re-link-your-altspacevr-to-another-microsoft-account"></a>Cómo volver a vincular AltspaceVR a otra cuenta Microsoft
 
 1. Vaya a altvr.com haga clic en "Iniciar sesión".
-2. Haga clic en "Iniciar sesión con Microsoft" e inicie sesión con la cuenta Microsoft vinculada a su cuenta altspaceVR.
+2. Haga clic en "Iniciar sesión con Microsoft" e inicie sesión con la cuenta microsoft vinculada a su cuenta altspaceVR.
 3. Una vez que haya iniciado sesión, haga clic en "Más" > "Perfil".
 5. Haga clic en "Vincular cuenta" e inicie sesión con su cuenta microsoft personal preferida.
 6. Ejecución de AltspaceVR
@@ -36,7 +36,7 @@ Se recomienda encarecidamente vincular la cuenta altspaceVR con una cuenta Micro
 
 ## <a name="troubleshooting-tips"></a>Sugerencias para la solución de problemas
 
-* Si intenta vincular una cuenta Microsoft pero recibe un error que dice "Ya se ha tomado el correo electrónico", es probable que tenga una cuenta de AltspaceVR clásica con el mismo correo electrónico que su cuenta Microsoft. Se recomienda iniciar sesión en altvr.com para vincular su cuenta:
+* Si está intentando vincular una cuenta Microsoft pero recibe un error que dice "Ya se ha tomado el correo electrónico", es probable que tenga una cuenta de AltspaceVR clásica con el mismo correo electrónico que su cuenta Microsoft. Se recomienda iniciar sesión en altvr.com vincular su cuenta:
     1. Vaya a altvr.com haga clic en "Iniciar sesión".
     2. Inicie sesión con su cuenta de AltspaceVR (correo electrónico y contraseña). Si no conoce la contraseña, haga clic en "Restablecer contraseña" en la parte superior de la página y siga el proceso de recuperación de contraseñas. 
     3. Una vez que haya iniciado sesión, haga clic en "Más > Perfil".

@@ -51,7 +51,7 @@ En la biblioteca de Steam, puede volver a la versión de Live Build siguiendo lo
 
 En la tienda Oculus Dimensional/Dimensional/Go, puede volver a Live Build siguiendo los mismos pasos, pero seleccionando en su lugar "LIVE X.X.X.XXXXXXX" para el paso 4. 
 
-Recuerde que la opción Beta es local del dispositivo a través de la biblioteca de Steam (solo se aplicará al dispositivo seleccionado), pero la opción de participar a través de la tienda Oculus Dimensional/Dimensional/Go es global (se aplicará en todos los dispositivos de la misma categoría, como dos grandes almacenes, por ejemplo). 
+Recuerde que la opción beta es local del dispositivo a través de la biblioteca de Steam (solo se aplicará al dispositivo seleccionado), pero la opción de participar a través de la tienda Oculus Dimensional/Dimensional/Go es global (se aplicará en todos los dispositivos de la misma categoría, como por ejemplo, dos grandes almacenes). 
 
 SE RECOMIENDA NO USAR COMPILACIONES TEMPRANAS PARA EL USO NORMAL DE LA APLICACIÓN.  
 Esto puede provocar problemas de compatibilidad que pueden afectar a la experiencia de AltspaceVR y a la de otros usuarios. Es un procedimiento recomendado confirmar el número de compilación con regularidad para asegurarse de que no confunda las compilaciones Beta y Live. 

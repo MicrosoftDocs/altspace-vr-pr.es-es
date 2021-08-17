@@ -13,20 +13,20 @@ ms.locfileid: "119128146"
 ---
 # <a name="how-do-nametags-work"></a>¿Cómo funcionan las etiquetas de nombres?
 
-Si desea ver el nametag de otro usuario, seleccione su avatar con el cursor y su Nametag se mostrará más arriba.
+Si desea ver el Nametag de otro usuario, seleccione su avatar con el cursor y su Nametag lo hará y, a continuación, se mostrará arriba.
 
 Verá algunos iconos en nametag: **Friend, Block y** **Mute**.
 
-* **Exclusión mutua:** Al hacer clic en el icono Mute (Silenciar), podrá silenciar a un usuario; se trata de una exclusión mutua temporal y puede desactivarla en cualquier momento. Si el icono de exclusión mutua de este usuario ya está rojo, significa que se han silenciado a sí mismos.
+* **Exclusión mutua:** Al hacer clic en el icono De exclusión mutua, podrá silenciar a un usuario; se trata de una exclusión mutua temporal y puede desactivarla en cualquier momento. Si el icono de exclusión mutua de este usuario ya está rojo, significa que se han silenciado a sí mismos.
 
-* **Bloquear:** La característica de bloque le permitirá quitar un usuario de su experiencia. Ya no verá ni escuchará a ese usuario y ya no lo verán ni escucharán. Si necesita desbloquear un usuario, abra el panel Amigos en AltspaceVR, seleccione la pestaña Bloquear y, a continuación, desbloquee el usuario.
+* **Bloquear:** La característica de bloque le permitirá quitar un usuario de su experiencia. Ya no verá ni escuchará a ese usuario, y ya no lo verá ni lo escuchará. Si necesita desbloquear un usuario, abra el panel Amigos en AltspaceVR, seleccione la pestaña Bloquear y, a continuación, desbloquee el usuario.
 
-* **De confianza:** El botón de confianza enviará al usuario una solicitud de confianza. Después de enviar una solicitud de confianza a otro usuario, puede enviarle un mensaje a través de espacios, ver cuándo está en línea ese usuario y unir fácilmente su habitación. Nametag de ese usuario también incluirá un borde azul para que pueda reconocerlo fácilmente como un amigo. También observará un contador en la parte inferior de su Nametag, que mostrará la duración que ha estado de amigos con ese usuario.
+* **Friending::** El botón de confianza enviará a ese usuario una solicitud de confianza, después de enviar un mensaje a otro usuario, puede enviarle un mensaje a través de espacios, ver cuándo ese usuario está en línea y unir fácilmente su habitación. Nametag de ese usuario también incluirá un borde azul para que pueda reconocerlos fácilmente como un amigo. También observará un contador en la parte inferior de su Nametag, que mostrará la duración que ha sido amigo de ese usuario.
 
-Al hospedar su propia actividad, recibirá otras herramientas para la moderación. Ahora tendrá la capacidad de enviar mensajes a los usuarios con los que aún no es amigo y también tendrá la capacidad de poner en marcha a los usuarios.
+Cuando hospeda su propia actividad, recibirá otras herramientas para la moderación. Ahora tendrá la capacidad de enviar mensajes a los usuarios con los que aún no es amigo y también tendrá la capacidad de poner en marcha a los usuarios.
 
-* **Kick:** Si un usuario interrumpe la actividad, siempre puede usar el botón Kick (Iniciar), lo que quitará ese usuario de la actividad. Después de que se les inició, ya no podrán unirse a la actividad actual. 
+* **Kick:** Si un usuario interrumpe la actividad, siempre puede usar el botón Kick (Iniciar), lo que quitará ese usuario de la actividad. Después de iniciarse, ya no podrán unirse a la actividad actual. 
 
-* **Distintivo de administrador:** AltspaceVR tiene personal a mano 24/7 en TheCampfire para ayudarle en vr. Todos los miembros del personal que representan AltspaceVR tendrán el distintivo de administrador gold en su etiqueta de nombre.
+* **Distintivo de administrador:** AltspaceVR tiene personal a mano las 24 horas del día, los 7 días de la noche, en TheCampfire para ayudarle en realidad virtual. Todos los miembros del personal que representan AltspaceVR tendrán el distintivo de administrador gold en su etiqueta de nombre.
 
-Nuestro personal está aquí para ayudarle y ayudarle, por lo que puede hacer cualquier pregunta que pueda tener. 
+Nuestro personal está aquí para ayudarle y ayudarle, así que hále cualquier pregunta que pueda tener. 

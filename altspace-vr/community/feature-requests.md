@@ -3,7 +3,7 @@ title: Envío de solicitudes de características
 description: Obtenga información sobre cómo enviar solicitudes de características al equipo de ingeniería de AltspaceVR.
 ms.date: 03/11/2021
 ms.topic: article
-keywords: solicitud de característica
+keywords: solicitud de características
 ms.openlocfilehash: a07adf6ec0a46e1329fcca67901e39630dafa7702f216c082debf0f3e52ca4f9
 ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT

@@ -1,6 +1,6 @@
 ---
 title: Adición de mensajes de bienvenida
-description: Aprenda a crear, solucionar problemas y agregar mensajes de bienvenida a sus experiencias de AltspaceVR.
+description: Aprenda a crear, solucionar problemas y agregar mensajes de bienvenida a sus experiencias altspaceVR.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: bienvenida, solución de problemas
@@ -13,11 +13,11 @@ ms.locfileid: "119127218"
 ---
 # <a name="adding-welcome-messages"></a>Adición de mensajes de bienvenida
 
-Al entrar en un mundo, es posible que vea un mensaje de bienvenida como este:
+Al entrar en un mundo, es posible que vea un mensaje de bienvenida como el siguiente:
 
 ![Nuevo mensaje de inicio de sesión para un mundo](images/welcome-img-01.png)
 
-World-Builders puede agregar un mensaje opcional que se muestra a todas las personas cuando entran en su mundo. Esto puede resultar útil si el mundo tiene habilitado el vuelo y quiere que los visitantes se desenván. 
+World-Builders puede agregar un mensaje opcional que se muestra a todas las personas cuando entran en su mundo. Esto puede resultar útil si el mundo tiene habilitado el vuelo y desea que los visitantes se activen. 
 
 1. En nuestro sitio web, vaya a [Worlds > Mine](https://account.altvr.com/users/sign_in)y edite su mundo.
 2. Escriba el mensaje en el campo **Instrucciones y** haga clic en **Actualizar.**
@@ -28,9 +28,9 @@ World-Builders puede agregar un mensaje opcional que se muestra a todas las pers
 
 ## <a name="troubleshooting"></a>Solución de problemas
 
-**Las líneas no encapsulan / super long** Intente presionar Entrar en el campo de texto para ir a la línea siguiente.
+**Las líneas no se encapsulan o son muy largas.** Intente presionar Entrar en el campo de texto para ir a la línea siguiente.
 
-**Cómo hacer que mi texto sea de colores?**
+**Cómo¿Hacer que mi texto sea más animado?**
 Consulte la [sintaxis avanzada](http://digitalnativestudios.com/textmeshpro/docs/rich-text/#color). Solo se admiten algunas etiquetas y el color es una de ellas.
 
 **Las personas siguen viendo el mensaje cada vez que entran** Actualmente, no es posible descartar este mensaje de forma permanente, pero es posible que se agregue esta característica en el futuro.
