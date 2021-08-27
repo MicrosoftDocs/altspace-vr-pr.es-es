@@ -1,5 +1,7 @@
 - name: Le damos la bienvenida a AltspaceVR
   href: index.yml
+- name: Información general sobre AltspaceVR
+  href: overview.md
 - name: Exploración de AltspaceVR
   href: journey.md
 - name: Introducción

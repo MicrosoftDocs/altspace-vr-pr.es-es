@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/04/2021
 ms.topic: article
 keywords: AltspaceVR, meetup virtual, virtual reality meetup, VR meetup, virtual reality platforms, VR platform, immersive virtual events, immersive VR events, virtual reality events, VR events, VR world-building, immersive VR experience, social VR platform, VR platform, VR event hosting, social virtual reality, virtual reality event hosting
-ms.openlocfilehash: 9d5ccc5f74abf3c141f5786ba3650c3820eb8d49b8e914ab5a2a07828391ba04
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 1227807b34065c9706b8a67b2f9fc2368f5b7fdd
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119131852"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122979017"
 ---
 # <a name="what-is-altspacevr"></a>Qué es AltspaceVR
 
@@ -33,7 +33,7 @@ AltspaceVR ofrece puntuaciones [de eventos en su calendario](https://account.alt
 
 ### <a name="vr-worlds"></a>Mundos de realidad virtual
 
-En AltspaceVR, puede visitar muchos entornos de realidad virtual pre-creados, [denominados mundos.](community/exploring-title-screen.md#other-functions) Estos mundos cubren áreas públicas comunes, como calles y calles, y ubicaciones más fantásticas, como un pórtico o una biblioteca mítica. Los hosts de eventos en AltspaceVR pueden elegir entre estos mundos al planear un evento.
+En AltspaceVR, puede visitar muchos entornos de realidad virtual pre-creados, [denominados mundos.](community/exploring-title-screen.md#other-functions) Estos mundos cubren áreas públicas comunes, como calles y calles, y ubicaciones más fantásticas, como un héroe o una biblioteca mítica. Los hosts de eventos en AltspaceVR pueden elegir entre estos mundos al planear un evento.
 
 ### <a name="content-channels"></a>Canales de contenido
 
@@ -43,7 +43,7 @@ AltspaceVR ofrece varios [canales de contenido](https://account.altvr.com/channe
 
 AltspaceVR para empresas estará habilitado [para Microsoft Mesh.](/mesh/) Pronto podrá disfrutar de la presencia fotorealista en 3D y de experiencias multijugador espaciales. AltspaceVR se convertirá en una plataforma de realidad virtual empresarial para la colaboración, eventos corporativos y reuniones de participación de empleados.
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulte también
 
 ¿Tiene eventos virtuales para traer al mundo? Inicie su recorrido aquí.
 > [!div class="nextstepaction"]
