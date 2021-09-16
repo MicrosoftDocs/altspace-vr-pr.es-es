@@ -1,21 +1,23 @@
 ---
 title: Controles y permisos de Oculus Quest/Quest 2
 description: Obtenga información sobre los controles básicos de los dispositivos Oculus Quest y Quest 2, la administración de permisos y el uso de gestos con la mano.
-ms.date: 03/11/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: oculus, oculus, controls, permissions, hand gestures
-ms.openlocfilehash: f5e68382d27cd155ab83ae6ea862297641744af678db8158532a6030341c8c7a
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 5c74ddaee54e1319d80cf270d291575bbae7219c
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127868"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871168"
 ---
 # <a name="oculus-questquest-2-controls-and-permissions"></a>Controles y permisos de Oculus Quest/Quest 2
 
 ## <a name="basic-controls"></a>Controles básicos
 
-<!-- Missing images -->
+<img src="images/quest2-controls.png" alt="Oculus Quest/Quest 2 controls">
 
 | Mano izquierda | Mano derecha |
 |---|---|
@@ -29,6 +31,8 @@ ms.locfileid: "119127868"
 
 ## <a name="hand-gestures"></a>Gestos con la mano
 
+<img src="images/quest2-hand-gesture-controls.png" alt="Oculus Quest/Quest 2 hand gestures">
+
 | Gesto | Entrada |
 |---|---|
 | En reposo | Posición predeterminada |
@@ -37,8 +41,6 @@ ms.locfileid: "119127868"
 | Puño | Botones de control, desencadenador y A/X mantenidos |
 
 ## <a name="managing-permissions"></a>Administración de permisos
-
-<!-- Missing image -->
 
 Para administrar los permisos en Oculus Quest por aplicación desde la biblioteca de Oculus:
 
