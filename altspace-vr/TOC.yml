@@ -127,44 +127,18 @@
       href: community/terms-of-service.md
     - name: Estándares de la comunidad
       href: community/community-standards.md
-- name: Solución de problemas y soporte técnico
+- name: Preguntas más frecuentes sobre la solución de problemas y el soporte técnico
   items:
-    - name: Preguntas más frecuentes
-      items:
-        - name: Audio
-          items:
-            - name: ¿El casco de VR tiene un micrófono integrado?
-              href: faqs/vr-headset-mic.md
-            - name: ¿Hay un botón de pulsar para hablar?
-              href: faqs/push-to-talk.md
-            - name: Mi audio está entrecortado
-              href: faqs/choppy-audio.md
-            - name: Otros usuarios no me oyen
-              href: faqs/other-users-cant-hear-me.md
-        - name: Cuenta y avatar
-          items:
-            - name: ¿Cómo funcionan las etiquetas de nombres?
-              href: faqs/nametags.md
-            - name: ¿Cómo se cambia la información de mi cuenta?
-              href: faqs/updating-email-address.md
-            - name: ¿Cómo puedo desvincular y volver a vincular mi cuenta?
-              href: faqs/unlinking-and-relinking-accounts.md
-        - name: Aplicación AltspaceVR
-          items:
-            - name: ¿Cómo se busca la versión de la aplicación AltspaceVR?
-              href: faqs/app-version.md
-            - name: ¿Cómo se cargan los registros del cliente?
-              href: faqs/uploading-client-logs.md
-            - name: No puedo iniciar AltspaceVR
-              href: faqs/unable-to-launch.md
-        - name: Salud y seguridad
-          items:
-            - name: ¿AltspaceVR causará mareo?
-              href: faqs/motion-sickness.md
-        - name: Eventos
-          items:
-            - name: ¿Qué son los eventos de FrontRow?
-              href: faqs/front-row-events.md
+    - name: Problemas de audio
+      href: faqs/audio-faq.md
+    - name: Cuenta y avatar
+      href: faqs/account-avatar-faq.md
+    - name: Aplicación AltspaceVR
+      href: faqs/altspacevr-app-faq.md
+    - name: Salud y seguridad
+      href: faqs/health-safety-faq.md
+    - name: Eventos de FrontRow
+      href: faqs/front-row-events.md
 - name: Ponerse en contacto con nosotros
   items:
     - name: Obtener ayuda
