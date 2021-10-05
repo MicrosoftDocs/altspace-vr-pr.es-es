@@ -1,37 +1,37 @@
 ---
 title: Controles y permisos de Oculus Quest/Quest 2
 description: Obtenga información sobre los controles básicos de los dispositivos Oculus Quest y Quest 2, la administración de permisos y el uso de gestos con la mano.
-ms.date: 9/14/2021
+ms.date: 10/4/2021
 author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: oculus, oculus, controls, permissions, hand gestures
-ms.openlocfilehash: 5c74ddaee54e1319d80cf270d291575bbae7219c
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: 136fb203e36dcfdde60558d21efaf18a48d19881
+ms.sourcegitcommit: 44cb9f91859001dbda7d15e0f25f94284708a715
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871168"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129446263"
 ---
 # <a name="oculus-questquest-2-controls-and-permissions"></a>Controles y permisos de Oculus Quest/Quest 2
 
 ## <a name="basic-controls"></a>Controles básicos
 
-<img src="images/quest2-controls.png" alt="Oculus Quest/Quest 2 controls">
+![Controles de Oculus Quest/Quest 2.](images/quest2-controls.svg)
 
 | Mano izquierda | Mano derecha |
 |---|---|
-| Botón de posición izquierdo: mover/desplazar | Botón de posición derecho: Girar/desplazarse |
+| Desplazamiento y desplazamiento a la izquierda | Desplazamiento o giro a la derecha |
 | X: acción | A: acción |
 | Y- Teleport | B- Teleport |
 | Menú: abrir el menú AltspaceVR | Oculus: abrir OculusHome |
 | Control izquierdo: agarrar el objeto con la mano izquierda | Control derecho: agarrar el objeto con la mano derecha |
 | Desencadenador izquierdo: activar/ejecutar | Desencadenador derecho: activar |
-| Clic en el botón de posición izquierdo: restablecer HMD y altitud |  |
+| Hacer clic en el icono de posición izquierdo: restablecer HMD y altitud |  |
 
 ## <a name="hand-gestures"></a>Gestos con la mano
 
-<img src="images/quest2-hand-gesture-controls.png" alt="Oculus Quest/Quest 2 hand gestures">
+![Gestos de 2 manos de Oculus Quest/Quest](images/quest2-hand-gesture-controls.svg)
 
 | Gesto | Entrada |
 |---|---|
