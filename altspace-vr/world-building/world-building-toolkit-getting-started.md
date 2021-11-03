@@ -1,16 +1,15 @@
 ---
 title: Introducción al uploader de Altspace
 description: Aprenda a configurar y cargar sus mundos AltspaceVR mediante plantillas de escena de Unity con altspace Uploader.
-ms.date: 09/29/2021
+ms.date: 10/29/2021
 ms.author: v-vtieto
 ms.topic: article
-keywords: toolkit, Altspace, uploader
-ms.openlocfilehash: 8d71551fe552159c0078105307802774f44c0d47
-ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
+ms.openlocfilehash: 6d28b3efe75d589a0a09d4969add5d043a3116d0
+ms.sourcegitcommit: 20605c50a93852f93a3464c5c339f6a7da67a047
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2021
-ms.locfileid: "130298839"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "131278969"
 ---
 # <a name="introducing-the-altspace-uploader"></a>Introducción al uploader de Altspace
 
@@ -24,15 +23,15 @@ El uploader le permite usar una escena de Unity como plantilla para sus mundos. 
 
 ## <a name="setup"></a>Configurar
 
-1. Únase al [espacio oficial Desacepto de AltspaceVR](https://discordapp.com/invite/altspacevr) y visite el canal #world creación. Los amigos no permiten que los amigos compilen mundos por sí solos.
+1. Únase al [espacio oficial Desacepto de AltspaceVR](https://discordapp.com/invite/altspacevr) y visite el #world de creación. Los amigos no permiten que los amigos compilen mundos por sí solos.
 2. Lea nuestra [guía de Tareas iniciales world-building](world-building-getting-started.md) para ver los aspectos básicos.
-3. [Instale Unity Hub](https://unity3d.com/get-unity/download) y **Unity 2020.3.9.** El uploader no funcionará a menos que coincida exactamente con esta versión. Necesitará una cuenta gratuita de Unity si no tiene una. Durante la instalación, elija la **versión personal** (ya que lo está haciendo para disfrutar) y asegúrese de hacer lo siguiente:
+3. [Instale Unity Hub](https://blogs.unity3d.com/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta) e instale [**2020.3.18f1.**](https://unity3d.com/unity/whats-new/2020.3.18) El uploader no funcionará a menos que coincida exactamente con esta versión. Necesitará una cuenta gratuita de Unity si no tiene una y **elegirá Personal,** ya que lo está haciendo de forma divertida. Durante la instalación, asegúrese de activar la opción **Compilaciones de Android** y de deshabilitar la actualización automática.
     * Incluya el **módulo Compatibilidad con compilación de Android.**
     * En Windows, incluya el **módulo Compatibilidad con compilación de Mac (Mono).**
-    * En Mac, incluya el **módulo Windows build support (Mono) (Compatibilidad con la compilación** de compilación [Mono]).
-4. [Descarga del carguedor AltspaceVR](https://aka.ms/AvrUrpUploader)
+    * En Mac, incluya el **módulo Windows de compilación (Mono).**
+4. [Descarga del uploader de Unity más reciente](https://altvr.com/download-latest-unity-uploader)
 5. [Cree una plantilla en](https://account.altvr.com/space_templates/new) nuestro sitio web. Así **mismo, Hola mundo plantilla**.
-6. [Cree un mundo](https://account.altvr.com/worlds/my) y asíéeno **Hola mundo**. Seleccione **Hola mundo plantilla como** plantilla.
+6. [Cree un mundo](https://account.altvr.com/worlds/my) y asíéndolo **Hola mundo**. Seleccione **Hola mundo plantilla como** plantilla.
 
 ![Pantalla del mundo creado](images/unity-uploader-img-02.png)
 
@@ -53,13 +52,13 @@ El uploader le permite usar una escena de Unity como plantilla para sus mundos. 
     ![AltspaceVR en la barra de menús](images/002-altspacevr-on-menu-bar.png)
 
 > [!NOTE]
-> Deberá importar el paquete Altspace Uploader en todos los proyectos de Unity que quiera usar con Altspace.
+> Deberá importar el paquete altspace Uploader en todos los proyectos de Unity que quiera usar con Altspace.
 1. En la barra de menús, **seleccione AltspaceVR > templates**.
-1. En el cuadro **de diálogo Altspace VR Templates (Plantillas de ALTSPACE VR),** inicie sesión con las credenciales de la cuenta de Altspace. (El inicio de sesión de MSA estará disponible pronto. Si solo ha iniciado sesión en Altspace con su cuenta Microsoft, deberá crear una contraseña con la opción "Olvidó su contraseña" en el sitio web).
-1. Haga clic **en la lista desplegable Seleccionar** una plantilla y, a continuación, seleccione Hola mundo **plantilla.**
+1. En el cuadro **de diálogo Altspace VR Templates (Plantillas de Altspace VR),** inicie sesión con las credenciales de la cuenta de Altspace. (El inicio de sesión de MSA estará disponible pronto. Si solo ha iniciado sesión en Altspace con su cuenta Microsoft, deberá crear una contraseña con la opción "Olvidó su contraseña" en el sitio web).
+1. Haga clic **en la lista desplegable Seleccionar** una plantilla y, a continuación, seleccione Hola mundo **plantilla**.
 1. Elija una escena: haga clic en el botón de puntos suspensivos Choose a .unity file (Elegir un archivo **.unity)** (tres puntos), vaya a la carpeta **Assets** Scenes (Escenas de recursos) del proyecto y  >   seleccione **SampleScene.unity** y ábrala.
 1. En **Compilar para plataformas:**, asegúrese de **Windows** está seleccionado. Por ahora, no se deben seleccionar las otras dos opciones, **Android** **y** **Mac.** Una vez que quiera que los usuarios lo visiten, debe compilar y cargar para todas las plataformas".
-1. Seleccione el **botón Build & Upload (Compilar).** Este proceso puede tardar uno o dos minutos.
+1. Seleccione el **botón Build & Upload (Compilar** & Upload compilación). Este proceso puede tardar uno o dos minutos.
 1. Inicie Altspace, seleccione **Menú principal** y, a continuación, en la barra de **menús, seleccione Mis mundos.**
 1. Vaya a **Hola mundo** y ábralo.
 
@@ -82,7 +81,7 @@ El uploader le permite usar una escena de Unity como plantilla para sus mundos. 
 
 * Puede estar en el mundo al actualizar. En el momento en que el Upload **indica complete,** puede restablecer el mundo para ver los cambios.
 * Al compilar solo para PC con una escena simple, debería tardar menos de un minuto en ver un cambio en Altspace.
-* Establezca su mundo en Privado y No está en la lista para evitar distracciones.
+* Establezca Su mundo en Privado y No está en la lista para evitar distracciones.
 * Coloque un cubo en el origen para que pueda ver dónde se generan las personas de forma predeterminada. Oculte el cubo al cargarlo.
 
 ## <a name="troubleshooting"></a>Solución de problemas
@@ -92,7 +91,7 @@ El uploader le permite usar una escena de Unity como plantilla para sus mundos. 
 **No ha cambiado nada**
     * ¿Ha guardado la escena en Unity?
     * ¿Ha elegido la plataforma en la que está probando?
-    * ¿Está en el mundo correcto? ¿Ha elegido la plantilla adecuada en el formulario Uploader AND en el formato World?
+    * ¿Está en el mundo correcto? ¿Ha elegido la plantilla adecuada en el formulario Uploader AND en el formulario World?
     * ¿Ha compruebe las estadísticas de la página Plantilla?
 
 **Upload error o se ha pasado el tiempo de espera**
